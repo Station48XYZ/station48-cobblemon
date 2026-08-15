@@ -153,6 +153,10 @@
       "sha1": "fad589ed1a77625ed6283f4eaa2ee5a0e7461fc0"
     },
     {
+      "path": "content/mods/create-railways-navigator.json",
+      "sha1": "6cedd5cfe74d747e6f8fc4cb905aca1e09ff006e"
+    },
+    {
       "path": "content/mods/create-steam-n-rails-1-21-1.json",
       "sha1": "e5103944c5df0c86ecb409a887a669d3b842faee"
     },
@@ -174,7 +178,7 @@
     },
     {
       "path": "content/mods/create.json",
-      "sha1": "5248c7e23d282b555fc82bf3147304e0bf57375a"
+      "sha1": "0564f039c70f9851f79e351d0d5e95825c12373e"
     },
     {
       "path": "content/mods/curios.json",
@@ -198,7 +202,7 @@
     },
     {
       "path": "content/mods/dragonlib.json",
-      "sha1": "28d219f6c6c6d96865ee3d40e1116a8dc7d3d020"
+      "sha1": "85a229a5305be23575a1e1222f9f48bc2bef56b9"
     },
     {
       "path": "content/mods/dynamic-fps.json",

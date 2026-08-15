@@ -1,6 +1,6 @@
 # Station48 Cobblemon
 
-**Minecraft 1.21.1 · neoforge 21.1.248**, 142 mods (35 dependencies)
+**Minecraft 1.21.1 · neoforge 21.1.248**, 143 mods (35 dependencies)
 
 ## Contents
 
@@ -24,6 +24,7 @@
 - [Create Cobblestone](https://modrinth.com/project/create-cobblestone) `1.4.12+neoforge-1.21.1-144`
 - [Create Contraption Terminals](https://modrinth.com/project/create-contraption-terminals) `1.21.1-1.4.0`
 - [Create Deco](https://modrinth.com/project/create-deco) `2.1.3`
+- [Create Railways Navigator](https://modrinth.com/project/create-railways-navigator) `1.21.1-beta-0.9.1-C6`
 - [Create Slice & Dice](https://modrinth.com/project/slice-and-dice) `4.3.3`
 - [Create Stuff 'N Additions](https://modrinth.com/project/create-stuff-additions) `2.1.4.a`
 - [Create Train Parts](https://modrinth.com/project/create-train-parts) `0.5.2`
