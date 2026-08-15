@@ -1,3 +1,40 @@
 {
-  "files": []
+  "files": [
+    {
+      "path": "content/mods/3dskinlayers.json",
+      "sha1": "3ae06051f1e90e01dc31ad812e4ea284094a21a2"
+    },
+    {
+      "path": "content/mods/appleskin.json",
+      "sha1": "0d7464a310020b7a0ce306927a2f66e63abf2d6b"
+    },
+    {
+      "path": "content/mods/entityculling.json",
+      "sha1": "ad43232487c3442c2992f7fe5cbdcebe8324b6b4"
+    },
+    {
+      "path": "content/mods/entitytexturefeatures.json",
+      "sha1": "7b79a6a9bc287671fdcfb2ee81ab96308030bf9f"
+    },
+    {
+      "path": "content/mods/iris.json",
+      "sha1": "0ce80572fec4ac728f4dcd457c6f88e0b1c2f3b9"
+    },
+    {
+      "path": "content/mods/lithium.json",
+      "sha1": "51309bafcbab940efe3f2100171a6f673f901d90"
+    },
+    {
+      "path": "content/mods/sodium.json",
+      "sha1": "10b0bec1390e7b82952422a687a3c11e9b279bf7"
+    },
+    {
+      "path": "content/mods/xaeros-minimap.json",
+      "sha1": "2370a208fa81291689023d328dd84e4471d08358"
+    },
+    {
+      "path": "content/mods/xaeros-world-map.json",
+      "sha1": "baee9fdbd22dc31cc44d25ea9463e9b5e5aa2eb7"
+    }
+  ]
 }
