@@ -1,0 +1,23 @@
+{
+  "name": "Repurposed Structures - Farmer's Delight Compat",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "P5wB88AS",
+      "slug": "repurposed-structures-farmers-delight-compat",
+      "versionId": "PKPVpBYy",
+      "versionNumber": "7",
+      "filename": "repurposed_structures_farmers_delight_compat_v7.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/P5wB88AS/versions/PKPVpBYy/repurposed_structures_farmers_delight_compat_v7.jar",
+      "sha1": "7304ad83540513d16926dec8c1a9ba98c0e8d424",
+      "sha512": "3e11d82ccf67e1af21c2c217b9685d69e6f02f9603aaeeaeaacccbd23265e6b58f066e64d8e10e2bc633166af2584d9056246ae4ff253096b08d65afa2331def",
+      "fileSize": 57233
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

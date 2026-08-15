@@ -1,0 +1,23 @@
+{
+  "name": "Steam 'n' Rails Neoforge",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "L3Jv0QZI",
+      "slug": "create-steam-n-rails-1.21.1",
+      "versionId": "HOPX5oro",
+      "versionNumber": "0.2.1+neoforge-mc1.21.1",
+      "filename": "railways-0.2.1+neoforge-mc1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/L3Jv0QZI/versions/HOPX5oro/railways-0.2.1%2Bneoforge-mc1.21.1.jar",
+      "sha1": "f2d71927ef504b597a6c992d02118c1e6ee6e369",
+      "sha512": "dac8efb7c8b4b525114c2548bd2a8254d3b1e9e44664ba84b0f4e8467e1584029f8a219dd1ddf4389ab0a94e525183ee7753d33babdf319926cd63d2fc9cdffd",
+      "fileSize": 12118736
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

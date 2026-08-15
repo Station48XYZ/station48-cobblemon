@@ -1,0 +1,23 @@
+{
+  "name": "Enhanced Celestials",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "2rL16t1O",
+      "slug": "enhanced-celestials",
+      "versionId": "bPhEKzZO",
+      "versionNumber": "6.0.2.6-neoforge",
+      "filename": "Enhanced-Celestials-NeoForge-1.21.1-6.0.2.6.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/2rL16t1O/versions/bPhEKzZO/Enhanced-Celestials-NeoForge-1.21.1-6.0.2.6.jar",
+      "sha1": "fa59a7bb69e3973980f525083897a2d5d74fea10",
+      "sha512": "5119e1a0026d705001e41abb7099fabe9379ad44ce624d3ec57b7cda01fc763c23dff0ebe058adedfd2de20d1a7d6245956574e4d9cfa7f199186115ca2d7811",
+      "fileSize": 1538905
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Mineable Spawner",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "vj1HfksH",
+      "slug": "mineable-spawner",
+      "versionId": "Ily08INY",
+      "versionNumber": "v.2.1.1+mod",
+      "filename": "mineable-spawner-v.2.1.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/vj1HfksH/versions/Ily08INY/mineable-spawner-v.2.1.1.jar",
+      "sha1": "730d5cd654ecd447ed6c4402bfc644fe3b534287",
+      "sha512": "6eec26b94410131ea52c26eb44724aa951a385acf16ec0740ee72f779d73c7d4eeb3d23ab476a237e96093bccc039b3510014bfc22a94f7ceafe2a17a06cbeeb",
+      "fileSize": 184076
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

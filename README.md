@@ -1,18 +1,150 @@
 # Station48 Cobblemon
 
-**Minecraft 1.21.1 · neoforge 21.1.248**, 10 mods
+**Minecraft 1.21.1 · neoforge 21.1.248**, 142 mods (35 dependencies)
 
 ## Contents
 
 - [3D Skin Layers](https://modrinth.com/project/3dskinlayers) `1.11.2`
 - [[EMF] Entity Model Features](https://modrinth.com/project/entity-model-features) `3.2.4-neoforge-1.21`
 - [[ETF] Entity Texture Features](https://modrinth.com/project/entitytexturefeatures) `7.1-neoforge-1.21`
+- [Accessories](https://modrinth.com/project/accessories) `1.1.0-beta.53+1.21.1`
+- [Accessories Compatibility Layer](https://modrinth.com/project/accessories-compat-layer) `0.1.12`
+- [Advancement Plaques](https://modrinth.com/project/advancement-plaques) `1.6.8`
 - [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
+- [Artifacts](https://modrinth.com/project/artifacts) `13.2.1`
+- [Better Advancements](https://modrinth.com/project/better-advancements) `0.4.3.21`
+- [BetterF3](https://modrinth.com/project/betterf3) `11.0.3`
+- [Chef's Delight - Farmer's Delight Villagers](https://modrinth.com/project/chefs-delight) `1.0.5`
+- [Chipped](https://modrinth.com/project/chipped) `4.0.2`
+- [Clumps](https://modrinth.com/project/clumps) `19.0.0.1`
+- [Comforts](https://modrinth.com/project/comforts) `9.0.5+1.21.1`
+- [Cooking for Blockheads](https://modrinth.com/project/cooking-for-blockheads) `21.1.24+neoforge-1.21.1`
+- [Crafting Tweaks](https://modrinth.com/project/crafting-tweaks) `21.1.10+neoforge-1.21.1`
+- [Create](https://modrinth.com/project/create) `6.0.10+mc1.21.1`
+- [Create Cobblestone](https://modrinth.com/project/create-cobblestone) `1.4.12+neoforge-1.21.1-144`
+- [Create Contraption Terminals](https://modrinth.com/project/create-contraption-terminals) `1.21.1-1.4.0`
+- [Create Deco](https://modrinth.com/project/create-deco) `2.1.3`
+- [Create Slice & Dice](https://modrinth.com/project/slice-and-dice) `4.3.3`
+- [Create Stuff 'N Additions](https://modrinth.com/project/create-stuff-additions) `2.1.4.a`
+- [Create Train Parts](https://modrinth.com/project/create-train-parts) `0.5.2`
+- [Create Train Utilities (Create Train Doors)](https://modrinth.com/project/create-trainutilities) `3.0.3`
+- [Create: Bells & Whistles](https://modrinth.com/project/bellsandwhistles) `v0.4.7-1.21.1`
+- [Create: Central Kitchen](https://modrinth.com/project/create-central-kitchen) `2.6.0`
+- [Create: Connected](https://modrinth.com/project/create-connected) `1.3.2-mc1.21.1`
+- [Create: Copycats+](https://modrinth.com/project/copycats) `3.0.4+mc.1.21.1-neoforge`
+- [Create: Design n' Decor](https://modrinth.com/project/create-design-n-decor) `2.2b`
+- [Create: Dreams & Desires](https://modrinth.com/project/create-dreams-and-desires) `2.3a-BETA`
+- [Create: Enchantment Industry](https://modrinth.com/project/create-enchantment-industry) `2.4.2`
+- [Create: Escalated](https://modrinth.com/project/escalated) `1.3.1`
+- [Create: Extra Gauges](https://modrinth.com/project/extra-gauges) `2.1.2`
+- [Create: Hypertubes](https://modrinth.com/project/hypertube) `0.6.0`
+- [Create: Interiors](https://modrinth.com/project/interiors) `0.6.1`
+- [Create: More Girder](https://modrinth.com/project/create-more-girder) `2.2.0`
+- [Create: Ornithopter Glider](https://modrinth.com/project/create-ornithopter-glider) `1.2.0+1.21.1`
+- [Create: Pattern Schematics](https://modrinth.com/project/create-pattern-schematics) `2.0.10`
+- [Create: Power Loader](https://modrinth.com/project/create-power-loader) `2.0.5-mc1.21.1`
+- [Create: Train Track Rail Grinding](https://modrinth.com/project/create-rail-grinding) `1.2.2+mc1.21.1`
+- [Create: Who Touched My Train](https://modrinth.com/project/create-who-touched-my-train) `1.4.0-Create6.0-beta`
+- [DimStorage](https://modrinth.com/project/dimstorage) `9.1.1`
+- [Distraction Free Recipes (EMI / REI / JEI)](https://modrinth.com/project/distraction-free-recipes) `1.2.1`
+- [Dynamic FPS](https://modrinth.com/project/dynamic-fps) `3.11.4`
+- [Easy Piglins](https://modrinth.com/project/easy-piglins) `neoforge-1.21.1-1.0.14`
+- [Easy Villagers](https://modrinth.com/project/easy-villagers) `neoforge-1.21.1-1.1.42`
+- [ElevatorMod](https://modrinth.com/project/elevatormod) `neoforge-1.21.1-1.11.4`
+- [Elytra Slot](https://modrinth.com/project/elytra-slot) `9.0.2+1.21.1`
+- [EMI](https://modrinth.com/project/emi) `1.1.24+1.21.1+neoforge`
+- [EMI Addon: Extra Mod Integrations](https://modrinth.com/project/extra-mod-integrations) `1.0.3+1.21.1.neoforge`
+- [EMI Enchanting](https://modrinth.com/project/emi-enchanting) `0.1.2+1.21+neoforge`
+- [EMI Loot](https://modrinth.com/project/emi-loot) `0.7.9+1.21+neoforge`
+- [EMI Ores](https://modrinth.com/project/emi-ores) `1.3+1.21.1+neoforge`
+- [EMI professions (EMIP)](https://modrinth.com/project/emi-professions-(emip)) `1.0.3`
+- [EMI: Create Schematics](https://modrinth.com/project/emi-create-schematics) `1.1.0`
+- [EMIffect](https://modrinth.com/project/emiffect) `2.1.6+mc1.21.1`
+- [Enchanting Infuser](https://modrinth.com/project/enchanting-infuser) `v21.1.4-1.21.1-NeoForge`
+- [Enhanced Celestials](https://modrinth.com/project/enhanced-celestials) `6.0.2.6-neoforge`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.10.5`
+- [Expanded Delight](https://modrinth.com/project/expanded-delight) `0.1.4-neoforge`
+- [Explorer's Compass](https://modrinth.com/project/explorers-compass) `1.21.1-3.4.0-neoforge`
+- [FallingTree](https://modrinth.com/project/fallingtree) `1.21.1-1.21.1.11`
+- [Farmer's Cutting: Oh The Biomes We've Gone](https://modrinth.com/project/farmers-cutting-oh-the-biomes-weve-gone) `1.21.1-2.1-neoforge+mod`
+- [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.2`
+- [Farming for Blockheads](https://modrinth.com/project/farming-for-blockheads) `21.1.13+neoforge-1.21.1`
+- [Functional Storage](https://modrinth.com/project/functional-storage) `1.21-1.5.7`
+- [Global Packs](https://modrinth.com/project/globalpacks) `21.0.6`
+- [Handcrafted](https://modrinth.com/project/handcrafted) `4.0.3`
+- [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) `1.6.11+1.21.1-neoforge`
+- [Iris & Oculus Flywheel Compat](https://modrinth.com/project/iris-flw-compat) `1.21.1+2.4.0-release`
 - [Iris Shaders](https://modrinth.com/project/iris) `1.8.12+1.21.1-neoforge`
+- [Iron Furnaces](https://modrinth.com/project/iron-furnaces) `4.3.2`
+- [Jade Addons (Neo/Forge)](https://modrinth.com/project/jade-addons-forge) `6.0.1+neoforge`
+- [Jade Modded Entities](https://modrinth.com/project/jade-modded-entities) `1.3.1`
+- [Jade 🔍](https://modrinth.com/project/jade) `15.10.6+neoforge`
+- [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.44.0.401`
+- [Leaves Be Gone](https://modrinth.com/project/leaves-be-gone) `v21.1.1-1.21.1-NeoForge`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
+- [Lootr](https://modrinth.com/project/lootr) `1.21.1-1.11.38.123`
+- [Macaw's Bridges](https://modrinth.com/project/macaws-bridges) `3.1.2`
+- [Macaw's Doors](https://modrinth.com/project/macaws-doors) `1.1.5`
+- [Macaw's Fences and Walls](https://modrinth.com/project/macaws-fences-and-walls) `1.2.1`
+- [Macaw's Furniture](https://modrinth.com/project/macaws-furniture) `3.4.1`
+- [Macaw's Holidays](https://modrinth.com/project/macaws-holidays) `1.1.2`
+- [Macaw's Lights and Lamps](https://modrinth.com/project/macaws-lights-and-lamps) `1.1.5`
+- [Macaw's Oh The Biomes You'll Go / We've Gone](https://modrinth.com/project/macaws-byg-bwg) `1.21.1-1.6`
+- [Macaw's Paintings](https://modrinth.com/project/macaws-paintings) `1.1.0`
+- [Macaw's Paths and Pavings](https://modrinth.com/project/macaws-paths-and-pavings) `1.1.1`
+- [Macaw's Roofs](https://modrinth.com/project/macaws-roofs) `2.3.2`
+- [Macaw's Stairs](https://modrinth.com/project/macaws-stairs) `1.0.2`
+- [Macaw's Trapdoors](https://modrinth.com/project/macaws-trapdoors) `1.1.5`
+- [Macaw's Windows](https://modrinth.com/project/macaws-windows) `2.4.2`
+- [Matthiesen Core](https://modrinth.com/project/matthiesen-core) `1.1.0`
+- [Mineable Spawner](https://modrinth.com/project/mineable-spawner) `v.2.1.1+mod`
+- [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
+- [Nature's Compass](https://modrinth.com/project/natures-compass) `1.21.1-3.4.0-neoforge`
+- [No Chat Reports](https://modrinth.com/project/no-chat-reports) `NeoForge-1.21.1-v2.9.1`
+- [No Chat Restrictions](https://modrinth.com/project/no-chat-restrictions) `NeoForge-MC1.21.11-v1.0.0`
+- [Oh The Biomes We've Gone](https://modrinth.com/project/oh-the-biomes-weve-gone) `2.6.0-NeoForge`
+- [OneKeyMiner](https://modrinth.com/project/onekeyminer_nf) `1.21.1-1.6.9-neoforge`
+- [Open Parties and Claims](https://modrinth.com/project/open-parties-and-claims) `neoforge-1.21.1-0.29.3`
+- [Open Parties and Claims PvP Support](https://modrinth.com/project/opacpvp) `1.0.1`
+- [Packet Fixer](https://modrinth.com/project/packet-fixer) `3.3.1`
+- [Polymorph](https://modrinth.com/project/polymorph) `1.1.0+1.21.1`
+- [Rechiseled](https://modrinth.com/project/rechiseled) `1.2.5-neoforge-mc1.21`
+- [Relics](https://modrinth.com/project/relics-mod) `0.10.7.8`
+- [Reliquified Artifacts](https://modrinth.com/project/reliquified-artifacts) `0.9.7`
+- [Repurposed Structures - Farmer's Delight Compat](https://modrinth.com/project/repurposed-structures-farmers-delight-compat) `7`
+- [Repurposed Structures - Neoforge/Forge](https://modrinth.com/project/repurposed-structures-forge) `7.5.21+1.21.1-neoforge`
+- [ResourcePackCached](https://modrinth.com/project/resourcepackcached) `1.2.5`
+- [Serene Seasons](https://modrinth.com/project/serene-seasons) `10.1.0.3`
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.6.13-neoforge`
+- [Sodium Dynamic Lights](https://modrinth.com/project/sodium-dynamic-lights) `neoforge-1.21.1-1.0.10`
+- [Sophisticated Backpacks](https://modrinth.com/project/sophisticated-backpacks) `1.21.1-3.25.77.2086`
+- [Sophisticated Backpacks Create Integration](https://modrinth.com/project/sophisticated-backpacks-create-integration) `1.21.1-0.1.8.134`
+- [Sophisticated Core](https://modrinth.com/project/sophisticated-core) `1.21.1-1.4.86.2259`
+- [Sophisticated Storage](https://modrinth.com/project/sophisticated-storage) `1.21.1-1.5.85.2077`
+- [Sophisticated Storage Create Integration](https://modrinth.com/project/sophisticated-storage-create-integration) `1.21.1-0.1.21.209`
+- [Steam 'n' Rails Neoforge](https://modrinth.com/project/create-steam-n-rails-1.21.1) `0.2.1+neoforge-mc1.21.1`
+- [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-3.8.9`
+- [Terralith](https://modrinth.com/project/terralith) `2.6.2`
+- [Terralith: ReStoned](https://modrinth.com/project/terralith-restoned) `1.3.1`
+- [Tom's Simple Storage Mod](https://modrinth.com/project/toms-storage) `1.21-2.4.1`
+- [TorchMaster](https://modrinth.com/project/torchmaster) `21.1.9-release`
+- [Vanilla Backport](https://modrinth.com/project/vanillabackport) `1.1.7.10`
+- [Waystones](https://modrinth.com/project/waystones) `21.1.41+neoforge-1.21.1`
+- [What Are They Up To (Watut)](https://modrinth.com/project/what-are-they-up-to) `1.21.0-1.2.7`
 - [Xaero's Minimap](https://modrinth.com/project/xaeros-minimap) `neoforge-1.21.1-26.4.2`
 - [Xaero's World Map](https://modrinth.com/project/xaeros-world-map) `neoforge-1.21.1-1.44.2`
+- [YUNG's Better Caves](https://modrinth.com/project/yungs-better-caves) `1.21.1-NeoForge-3.1.4`
+- [YUNG's Better Desert Temples](https://modrinth.com/project/yungs-better-desert-temples) `1.21.1-NeoForge-4.1.5`
+- [YUNG's Better Dungeons](https://modrinth.com/project/yungs-better-dungeons) `1.21.1-NeoForge-5.1.4`
+- [YUNG's Better End Island](https://modrinth.com/project/yungs-better-end-island) `1.21.1-NeoForge-3.1.2`
+- [YUNG's Better Jungle Temples](https://modrinth.com/project/yungs-better-jungle-temples) `1.21.1-NeoForge-3.1.2`
+- [YUNG's Better Mineshafts](https://modrinth.com/project/yungs-better-mineshafts) `1.21.1-NeoForge-5.1.1`
+- [YUNG's Better Nether Fortresses](https://modrinth.com/project/yungs-better-nether-fortresses) `1.21.1-NeoForge-3.1.5`
+- [YUNG's Better Ocean Monuments](https://modrinth.com/project/yungs-better-ocean-monuments) `1.21.1-NeoForge-4.1.2`
+- [YUNG's Better Strongholds](https://modrinth.com/project/yungs-better-strongholds) `1.21.1-NeoForge-5.1.3`
+- [YUNG's Better Witch Huts](https://modrinth.com/project/yungs-better-witch-huts) `1.21.1-NeoForge-4.1.1`
+- [YUNG's Bridges](https://modrinth.com/project/yungs-bridges) `1.21.1-NeoForge-5.1.1`
+- [YUNG's Cave Biomes](https://modrinth.com/project/yungs-cave-biomes) `1.21.1-NeoForge-3.1.1`
+- [YUNG's Extras](https://modrinth.com/project/yungs-extras) `1.21.1-NeoForge-5.1.1`
 
 _Generated by packweave._

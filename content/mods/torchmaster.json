@@ -1,0 +1,23 @@
+{
+  "name": "TorchMaster",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Tl8ESrhX",
+      "slug": "torchmaster",
+      "versionId": "PhWXajPC",
+      "versionNumber": "21.1.9-release",
+      "filename": "torchmaster-neoforge-1.21.1-21.1.9.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Tl8ESrhX/versions/PhWXajPC/torchmaster-neoforge-1.21.1-21.1.9.jar",
+      "sha1": "3f565ecc8560eba3ae3e15ff6542a3025d7377a2",
+      "sha512": "855dd7f37a01c617dddcb5fe569b14a14cff4d5ea7f53a958bec4a694eb4b82677160a2509a84a03e41adea2d44617434667f56f2191e6427811ddbdc63e48fc",
+      "fileSize": 130605
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

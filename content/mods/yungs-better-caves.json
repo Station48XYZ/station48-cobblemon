@@ -1,0 +1,23 @@
+{
+  "name": "YUNG's Better Caves",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Dfu00ggU",
+      "slug": "yungs-better-caves",
+      "versionId": "ygKiHadA",
+      "versionNumber": "1.21.1-NeoForge-3.1.4",
+      "filename": "YungsBetterCaves-1.21.1-NeoForge-3.1.4.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Dfu00ggU/versions/ygKiHadA/YungsBetterCaves-1.21.1-NeoForge-3.1.4.jar",
+      "sha1": "c7eaa25a8734525d7085e730728344242a177990",
+      "sha512": "8c73b73a335ff1a788ef187dc68ad1225e21fd9230e0f2d7b768969383f799b053a0e1ec01cfd98b1980dc4b98db2a1c764c00739f58336714b7d982dc254424",
+      "fileSize": 392794
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

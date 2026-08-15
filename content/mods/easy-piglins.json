@@ -1,0 +1,23 @@
+{
+  "name": "Easy Piglins",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "l6n94pax",
+      "slug": "easy-piglins",
+      "versionId": "ud6gz0mh",
+      "versionNumber": "neoforge-1.21.1-1.0.14",
+      "filename": "easy-piglins-neoforge-1.21.1-1.0.14.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/l6n94pax/versions/ud6gz0mh/easy-piglins-neoforge-1.21.1-1.0.14.jar",
+      "sha1": "7e8f52fd2e13ecba9683bae8294ba896a871f124",
+      "sha512": "54fe561b7bdfdf63b21828bf3cb7fe28a16cbdfb14cdefa8d0a6a3a68a3b958b28ff4abe3a3bb79adf2f642a5ecc60ce95aca386f70dfdc81e4511eccfc90ead",
+      "fileSize": 226157
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -5,8 +5,260 @@
       "sha1": "3ae06051f1e90e01dc31ad812e4ea284094a21a2"
     },
     {
+      "path": "content/mods/accessories-compat-layer.json",
+      "sha1": "e2c34d1aa1534d09a5b96f096c52a60a7597cb22"
+    },
+    {
+      "path": "content/mods/accessories.json",
+      "sha1": "75c1eb58bec8585236fcb97cfb35829a02a5ae06"
+    },
+    {
+      "path": "content/mods/addonslib.json",
+      "sha1": "8e0658096f2d347f820d891216a4b97adcbc0285"
+    },
+    {
+      "path": "content/mods/advancement-plaques.json",
+      "sha1": "9bd9efe1321d0c4ede0d2d7824acb621a2edc0c8"
+    },
+    {
       "path": "content/mods/appleskin.json",
       "sha1": "0d7464a310020b7a0ce306927a2f66e63abf2d6b"
+    },
+    {
+      "path": "content/mods/architectury-api.json",
+      "sha1": "3cef4f03d82b3d1204434c2bdb151437b19a01e1"
+    },
+    {
+      "path": "content/mods/artifacts.json",
+      "sha1": "f24794f948ce85fe399f46b154a0c87e097ce768"
+    },
+    {
+      "path": "content/mods/athena-ctm.json",
+      "sha1": "f3c012e76a2adf547e773910f9c670fa038a4f35"
+    },
+    {
+      "path": "content/mods/balm.json",
+      "sha1": "0c887045988fb46845d0debde89f3523d6dc20bd"
+    },
+    {
+      "path": "content/mods/bellsandwhistles.json",
+      "sha1": "5f5645cc5801a5eb56db1e5a8d46454df645fa5a"
+    },
+    {
+      "path": "content/mods/better-advancements.json",
+      "sha1": "17b1d5c9a5d5d5bd7e0e8fa4ed27e15f7c4e1a6f"
+    },
+    {
+      "path": "content/mods/betterf3.json",
+      "sha1": "fd9bd29d488984140b9758ee9c06231371b2a5a6"
+    },
+    {
+      "path": "content/mods/caelus.json",
+      "sha1": "ab7c0c2b06d71aac2ce33b05260a4ce772c1a922"
+    },
+    {
+      "path": "content/mods/chefs-delight.json",
+      "sha1": "eaabbbb315d9055588d2deabd9bb9d8f83320af7"
+    },
+    {
+      "path": "content/mods/chipped.json",
+      "sha1": "c35f6eb43dc49c7ce2a6d7df1e754171cc309b8e"
+    },
+    {
+      "path": "content/mods/cloth-config.json",
+      "sha1": "be5c5422f815cf8ba25149cbae9f9d84c5ee6643"
+    },
+    {
+      "path": "content/mods/clumps.json",
+      "sha1": "f0c21a040bf3cf093708b7a1242ac6574e3ab208"
+    },
+    {
+      "path": "content/mods/comforts.json",
+      "sha1": "5671d8e7b64494a4a54c9f13222d4ca3686e046f"
+    },
+    {
+      "path": "content/mods/cooking-for-blockheads.json",
+      "sha1": "5d1f3405173a09d87eed8ab0d3d35d1e53113e00"
+    },
+    {
+      "path": "content/mods/copycats.json",
+      "sha1": "351f69052100989fffe7e1b07975c023c3117309"
+    },
+    {
+      "path": "content/mods/corgilib.json",
+      "sha1": "d6901cf028369248d41ded5e61531b24450a2ac9"
+    },
+    {
+      "path": "content/mods/coroutil.json",
+      "sha1": "d51bcebe04afbcc82bcc4d247b227c39d21f70fb"
+    },
+    {
+      "path": "content/mods/crafting-tweaks.json",
+      "sha1": "cfb92dd38f29156bb6c37fe8cc5288b7ab0cfe85"
+    },
+    {
+      "path": "content/mods/create-central-kitchen.json",
+      "sha1": "becbcf9e85d5d1e483ccdaa5e3035f4f4cf5bc31"
+    },
+    {
+      "path": "content/mods/create-cobblestone.json",
+      "sha1": "e3bf8412f0fed88dca75a5e9311315357e39397b"
+    },
+    {
+      "path": "content/mods/create-connected.json",
+      "sha1": "0236cfee889a01bb380af02ee3d58e9c8756def0"
+    },
+    {
+      "path": "content/mods/create-contraption-terminals.json",
+      "sha1": "3ff05ea0a4afe99efd3e60bae5a1d4c4f6614cd4"
+    },
+    {
+      "path": "content/mods/create-deco.json",
+      "sha1": "4a67fcb34d95337dc9bf7634e5c92de94c5dc269"
+    },
+    {
+      "path": "content/mods/create-design-n-decor.json",
+      "sha1": "0815066a9c374ff3d7cbac26e84e735b7784342d"
+    },
+    {
+      "path": "content/mods/create-dragons-plus.json",
+      "sha1": "636b91ea1956d7e5b8242b4265167955655e547e"
+    },
+    {
+      "path": "content/mods/create-dreams-and-desires.json",
+      "sha1": "63fbd67cd55f62264a4e5456ee72541dbdc5e5d8"
+    },
+    {
+      "path": "content/mods/create-enchantment-industry.json",
+      "sha1": "9a32219f3f386543818a27b6e473b26b19ab3e63"
+    },
+    {
+      "path": "content/mods/create-more-girder.json",
+      "sha1": "7749825abe15460640d51b6cb1cb2fd4409e9ffc"
+    },
+    {
+      "path": "content/mods/create-ornithopter-glider.json",
+      "sha1": "30161b243274f1e5b8cd4dff56b4255ecb50eab6"
+    },
+    {
+      "path": "content/mods/create-pattern-schematics.json",
+      "sha1": "bb2217cd5a28b319c8bc10a0d96bfdea3e0eab48"
+    },
+    {
+      "path": "content/mods/create-power-loader.json",
+      "sha1": "d008618769e085b05301d883279cbccd9835fcb1"
+    },
+    {
+      "path": "content/mods/create-rail-grinding.json",
+      "sha1": "fad589ed1a77625ed6283f4eaa2ee5a0e7461fc0"
+    },
+    {
+      "path": "content/mods/create-steam-n-rails-1-21-1.json",
+      "sha1": "e5103944c5df0c86ecb409a887a669d3b842faee"
+    },
+    {
+      "path": "content/mods/create-stuff-additions.json",
+      "sha1": "66effe905459972bb0c677631a6a039f7cdd52f1"
+    },
+    {
+      "path": "content/mods/create-train-parts.json",
+      "sha1": "b49549d0d2c4e78e75d9441af90ca5bce26d70e2"
+    },
+    {
+      "path": "content/mods/create-trainutilities.json",
+      "sha1": "7d76af2a2f58b829d747de9982addb9ceee867b5"
+    },
+    {
+      "path": "content/mods/create-who-touched-my-train.json",
+      "sha1": "418d593caedf4feec41ee94f90895cea3f48f541"
+    },
+    {
+      "path": "content/mods/create.json",
+      "sha1": "5248c7e23d282b555fc82bf3147304e0bf57375a"
+    },
+    {
+      "path": "content/mods/curios.json",
+      "sha1": "9183ed6e6b74e5035dfffdca381051d6239d212f"
+    },
+    {
+      "path": "content/mods/data-anchor.json",
+      "sha1": "924f4e0d4f7105deda7ccff6f4be7e3752efa160"
+    },
+    {
+      "path": "content/mods/deployer.json",
+      "sha1": "a6553b63074a3e50713965dedb3fbe4ca7a06c02"
+    },
+    {
+      "path": "content/mods/dimstorage.json",
+      "sha1": "ee33c64333602116d2545fd0412f51f77edccce0"
+    },
+    {
+      "path": "content/mods/distraction-free-recipes.json",
+      "sha1": "1de512db0a7d4ded628c967edf1b8b39c9308dcb"
+    },
+    {
+      "path": "content/mods/dragonlib.json",
+      "sha1": "28d219f6c6c6d96865ee3d40e1116a8dc7d3d020"
+    },
+    {
+      "path": "content/mods/dynamic-fps.json",
+      "sha1": "0cb4b3b3268f643b02809d189f288d75386f3c2f"
+    },
+    {
+      "path": "content/mods/easy-piglins.json",
+      "sha1": "dd22a52e8e88ebb370e2f8a334605173a1f46d08"
+    },
+    {
+      "path": "content/mods/easy-villagers.json",
+      "sha1": "951f95e9a9ac7fb7ba502b0cccbd7d2e0e445cc9"
+    },
+    {
+      "path": "content/mods/edivadlib.json",
+      "sha1": "3bb5579d8affd60d5ac64a232c5515e4680b5f7f"
+    },
+    {
+      "path": "content/mods/elevatormod.json",
+      "sha1": "907549dee6e39e338c40e3bde7d4a0baa7368a1e"
+    },
+    {
+      "path": "content/mods/elytra-slot.json",
+      "sha1": "86f38439f83b3ace1b359ce2d82083215477b0ae"
+    },
+    {
+      "path": "content/mods/emi-create-schematics.json",
+      "sha1": "1c928f1539b9adf3169e06dff22e5809540ad10f"
+    },
+    {
+      "path": "content/mods/emi-enchanting.json",
+      "sha1": "e868d097c234581cda2f1515735e97e240c33409"
+    },
+    {
+      "path": "content/mods/emi-loot.json",
+      "sha1": "525963dc4b255ecfb78f69941314efd3fdf2fa92"
+    },
+    {
+      "path": "content/mods/emi-ores.json",
+      "sha1": "74f8019f11c366d146e2398de25a61c564290dab"
+    },
+    {
+      "path": "content/mods/emi-professions--emip-.json",
+      "sha1": "4fe7cc511bda80786fb8e2be595812ef391ca083"
+    },
+    {
+      "path": "content/mods/emi.json",
+      "sha1": "efbab8e6d3ba7a67479cefbe34becd65a0a9a6c7"
+    },
+    {
+      "path": "content/mods/emiffect.json",
+      "sha1": "071c61d9182c3774ef6ffa477d83df8d3d4fe541"
+    },
+    {
+      "path": "content/mods/enchanting-infuser.json",
+      "sha1": "a605c722fa1baa28f7d76e27218435c0929d7713"
+    },
+    {
+      "path": "content/mods/enhanced-celestials.json",
+      "sha1": "98a55d6675d050b70d20d60b66a8c67aad8d8b1b"
     },
     {
       "path": "content/mods/entity-model-features.json",
@@ -21,16 +273,376 @@
       "sha1": "7c26db09656e9c746cc2508f0eb690f4b0c52404"
     },
     {
+      "path": "content/mods/escalated.json",
+      "sha1": "2f0805e6f0507890b7cbcf9756018bf310d6d1a3"
+    },
+    {
+      "path": "content/mods/expanded-delight.json",
+      "sha1": "2ee745910294d36d63f72ff17a8df534e8d7bc64"
+    },
+    {
+      "path": "content/mods/explorers-compass.json",
+      "sha1": "a039feb5d5f102148d5cb127c745ba1ca5f64a1b"
+    },
+    {
+      "path": "content/mods/extra-gauges.json",
+      "sha1": "aebb04cb2ca8afe21d316005d47b3e084bbceb6f"
+    },
+    {
+      "path": "content/mods/extra-mod-integrations.json",
+      "sha1": "22b6d20b2d1b5b97c61cb9e22616372ac6ee0e2a"
+    },
+    {
+      "path": "content/mods/fallingtree.json",
+      "sha1": "c5b7224ac3d8d54e9778413a8141920dd42c2c72"
+    },
+    {
+      "path": "content/mods/farmers-cutting-oh-the-biomes-weve-gone.json",
+      "sha1": "1563f7180a84bc84b4906d6e8222f49c9d07f3e7"
+    },
+    {
+      "path": "content/mods/farmers-delight.json",
+      "sha1": "a2680a5795f255a431b36735333c188a89458bf5"
+    },
+    {
+      "path": "content/mods/farming-for-blockheads.json",
+      "sha1": "a9fd2571d137d1e9955de6e71f84863744238c5b"
+    },
+    {
+      "path": "content/mods/functional-storage.json",
+      "sha1": "358b590df973c748fbf74cc9bd59ad3b26a338c4"
+    },
+    {
+      "path": "content/mods/fusion-connected-textures.json",
+      "sha1": "a8e4a49732a147a4530733b76cc427d786ccd37a"
+    },
+    {
+      "path": "content/mods/fzzy-config.json",
+      "sha1": "13c3b3a03d9b9b3c0f5a88a5441ee863cd21a46a"
+    },
+    {
+      "path": "content/mods/geckolib.json",
+      "sha1": "48530b67a6f0029fb2c7121edc483f3f43f706ef"
+    },
+    {
+      "path": "content/mods/glitchcore.json",
+      "sha1": "f21084e5f9b33f2d20cc704651839fb74c16cb71"
+    },
+    {
+      "path": "content/mods/globalpacks.json",
+      "sha1": "b1cb9fb3d60779aeb112f60af8bb28443627ea97"
+    },
+    {
+      "path": "content/mods/handcrafted.json",
+      "sha1": "5f81795202aab46c4365bb75fdebd88e70f00d12"
+    },
+    {
+      "path": "content/mods/hypertube.json",
+      "sha1": "4437a1738dbe16dea0c4e549ae5235c804fae343"
+    },
+    {
+      "path": "content/mods/iceberg.json",
+      "sha1": "3d2c2a0fcb5a840ec7b741bb5ccc89a77544795a"
+    },
+    {
+      "path": "content/mods/immediatelyfast.json",
+      "sha1": "01d9a80aa75ac87ba4e464a8d0764ec37f2e6f13"
+    },
+    {
+      "path": "content/mods/interiors.json",
+      "sha1": "e19c760e4ab8c1bfe66b4266574dbfac4f5090b2"
+    },
+    {
+      "path": "content/mods/iris-flw-compat.json",
+      "sha1": "7e93ce5762d277abc71b5a95f9b2854c8c2d5184"
+    },
+    {
       "path": "content/mods/iris.json",
-      "sha1": "0ce80572fec4ac728f4dcd457c6f88e0b1c2f3b9"
+      "sha1": "eb4391f11af4e7ccf5ec20a569dbbe8884a27b8b"
+    },
+    {
+      "path": "content/mods/iron-furnaces.json",
+      "sha1": "0036a067440e542d351d3c57da344cb46c9b1e4d"
+    },
+    {
+      "path": "content/mods/jade-addons-forge.json",
+      "sha1": "cfd6a0e11e05a80986fb36c492749bfe456858f7"
+    },
+    {
+      "path": "content/mods/jade-modded-entities.json",
+      "sha1": "ebb08067abc069b95fe0eb6c3a689aaa3b2684e9"
+    },
+    {
+      "path": "content/mods/jade.json",
+      "sha1": "4762897f3cb4ded69e9fc98441c27594fc467231"
+    },
+    {
+      "path": "content/mods/jei.json",
+      "sha1": "dfd29e01337c68b572194d53d1fcf3cdbece135d"
+    },
+    {
+      "path": "content/mods/kotlin-for-forge.json",
+      "sha1": "7e587885c635de2c1856366052ad7cabd55860c6"
+    },
+    {
+      "path": "content/mods/leaves-be-gone.json",
+      "sha1": "72fddc4b9c130d33aae4680c336d2b37f49a8932"
     },
     {
       "path": "content/mods/lithium.json",
       "sha1": "51309bafcbab940efe3f2100171a6f673f901d90"
     },
     {
+      "path": "content/mods/lithostitched.json",
+      "sha1": "53e4140778d46cf9c5e0688fa94ee37e7c7d3b37"
+    },
+    {
+      "path": "content/mods/lootr.json",
+      "sha1": "ed7ff89b28b5024abe70f32b4d8b53a4bbfdb4f8"
+    },
+    {
+      "path": "content/mods/macaws-bridges.json",
+      "sha1": "e4c6ae0fb345ee079062fa3f8eced96ecfae71ca"
+    },
+    {
+      "path": "content/mods/macaws-byg-bwg.json",
+      "sha1": "5eb6e2763a51546ef3af805f98d30671250c7dda"
+    },
+    {
+      "path": "content/mods/macaws-doors.json",
+      "sha1": "9dcd48ae574f955e4e5bc1204ab948eab56d31e7"
+    },
+    {
+      "path": "content/mods/macaws-fences-and-walls.json",
+      "sha1": "53b7a98c70b9702fb99f9cd7f727ae8a492978d0"
+    },
+    {
+      "path": "content/mods/macaws-furniture.json",
+      "sha1": "d0fa07ac0903237775763de355d0b9b17f8ccf66"
+    },
+    {
+      "path": "content/mods/macaws-holidays.json",
+      "sha1": "4b18657c9917b0c5e83a98ddfa86fe842fbf9a11"
+    },
+    {
+      "path": "content/mods/macaws-lights-and-lamps.json",
+      "sha1": "dae3ff1b18028d0a961c3d664f54b4869a93e913"
+    },
+    {
+      "path": "content/mods/macaws-paintings.json",
+      "sha1": "d12b020231fb1ec814dd0cb207c954be8318aef4"
+    },
+    {
+      "path": "content/mods/macaws-paths-and-pavings.json",
+      "sha1": "836e2ce06108fbf2def1f8a7b4b3fe8d82f52173"
+    },
+    {
+      "path": "content/mods/macaws-roofs.json",
+      "sha1": "ec2ae5ad4e4cae814d8f2c476874a23c3e559eaa"
+    },
+    {
+      "path": "content/mods/macaws-stairs.json",
+      "sha1": "36f70b5075d7bbc664a73f799e5a947d81ea4809"
+    },
+    {
+      "path": "content/mods/macaws-trapdoors.json",
+      "sha1": "81111bf3dbda35506132d564b363efea8b862264"
+    },
+    {
+      "path": "content/mods/macaws-windows.json",
+      "sha1": "80b55cf715129a3fe7ba915f2de526a2cd33aac2"
+    },
+    {
+      "path": "content/mods/matthiesen-core.json",
+      "sha1": "5a5f237d83dbcde2de8f1c4686482223ca2fb939"
+    },
+    {
+      "path": "content/mods/mineable-spawner.json",
+      "sha1": "aeb8a725a5dbc25433d23422a9dfd3abb6863c20"
+    },
+    {
+      "path": "content/mods/moonlight.json",
+      "sha1": "9790b55b508629dbcdce6af8ef0eff484a83f473"
+    },
+    {
+      "path": "content/mods/mouse-tweaks.json",
+      "sha1": "9f6e2f2f1f2d235a51fb654250430398c8283a4f"
+    },
+    {
+      "path": "content/mods/natures-compass.json",
+      "sha1": "a7fc8d1dd6efd53d47008afceff4bd29fad2de39"
+    },
+    {
+      "path": "content/mods/necronomicon.json",
+      "sha1": "6de786956aae467cd94174830ec7fadb5d6c55d6"
+    },
+    {
+      "path": "content/mods/no-chat-reports.json",
+      "sha1": "45dbd694a784f53d50b8672ab94365dd8becf967"
+    },
+    {
+      "path": "content/mods/no-chat-restrictions.json",
+      "sha1": "24ec356ef310ae1f15c25ab098bbc2c428299be0"
+    },
+    {
+      "path": "content/mods/oh-the-biomes-weve-gone.json",
+      "sha1": "43a42f9c129fc44478234bc7d54732be97ee1812"
+    },
+    {
+      "path": "content/mods/oh-the-trees-youll-grow.json",
+      "sha1": "d4187a055697b749c4a2dfa1fa5880a63497a6bd"
+    },
+    {
+      "path": "content/mods/onekeyminer_nf.json",
+      "sha1": "b92b3b8709fe7c3aa31489abd03dcd1d3e1e7ea8"
+    },
+    {
+      "path": "content/mods/opacpvp.json",
+      "sha1": "30e6613698451add8253e6a063cfbef0eb32e412"
+    },
+    {
+      "path": "content/mods/open-parties-and-claims.json",
+      "sha1": "b51b7bd2af0d4cdccc00d48bc62eb82de562a701"
+    },
+    {
+      "path": "content/mods/owo-lib.json",
+      "sha1": "103e03f12e5be6e12dadbda41480b215145736f7"
+    },
+    {
+      "path": "content/mods/packet-fixer.json",
+      "sha1": "3e70a0817b2ce0856233a01ca1123548f2091107"
+    },
+    {
+      "path": "content/mods/platform.json",
+      "sha1": "cfb1e57e3e56e445c8e0ea019f1c5c1c843e8bbe"
+    },
+    {
+      "path": "content/mods/polymorph.json",
+      "sha1": "a2fdd28d1f2efdfb739e1c6bf8421886caeb2904"
+    },
+    {
+      "path": "content/mods/puzzles-lib.json",
+      "sha1": "8435fa1bf24f0aaad38fd56e71f8c46bff565229"
+    },
+    {
+      "path": "content/mods/rechiseled.json",
+      "sha1": "f549b8777a801ec2292997469b45618f09556784"
+    },
+    {
+      "path": "content/mods/relics-mod.json",
+      "sha1": "6a1cbb78d383d657324c20477e5600f6e9bc60c3"
+    },
+    {
+      "path": "content/mods/reliquified-artifacts.json",
+      "sha1": "4f710c2f9d19521ef77ed081c2b412b5ff237614"
+    },
+    {
+      "path": "content/mods/repurposed-structures-farmers-delight-compat.json",
+      "sha1": "110449f906398da7424535f412c469f5cc30ebbd"
+    },
+    {
+      "path": "content/mods/repurposed-structures-forge.json",
+      "sha1": "51bb69ac75b0529f08c300e823661d2c3ea0a834"
+    },
+    {
+      "path": "content/mods/resourceful-lib.json",
+      "sha1": "7815d4307934015993fd97b25bffd1c1771c4e4d"
+    },
+    {
+      "path": "content/mods/resourcepackcached.json",
+      "sha1": "16d7129d140c055ce0d32530b9d446eac7329a38"
+    },
+    {
+      "path": "content/mods/serene-seasons.json",
+      "sha1": "5aedf28319f124360d053331765147c00893db12"
+    },
+    {
+      "path": "content/mods/slice-and-dice.json",
+      "sha1": "e62ad210e6d40e3b3e4f1a0341da67439559105f"
+    },
+    {
+      "path": "content/mods/sodium-dynamic-lights.json",
+      "sha1": "9a47537196cca81c0d7fc9f0d551b4b255128075"
+    },
+    {
+      "path": "content/mods/sodium-options-api.json",
+      "sha1": "536b541d32bbd2e03cc23ac75a5e7f9a1b3fa403"
+    },
+    {
       "path": "content/mods/sodium.json",
-      "sha1": "10b0bec1390e7b82952422a687a3c11e9b279bf7"
+      "sha1": "6ca284f670bfa7e56c6c356c19a1e2cc6229f8c6"
+    },
+    {
+      "path": "content/mods/sophisticated-backpacks-create-integration.json",
+      "sha1": "ac7daa009a768a43662b38c22a8f07a7fa4d4249"
+    },
+    {
+      "path": "content/mods/sophisticated-backpacks.json",
+      "sha1": "f32d9a9dec9cdfe38af5e424bc4b337250348bf7"
+    },
+    {
+      "path": "content/mods/sophisticated-core.json",
+      "sha1": "feb52f0d3b9d32e0304a2cc276110586c80721c4"
+    },
+    {
+      "path": "content/mods/sophisticated-storage-create-integration.json",
+      "sha1": "c7623b796fcd915715a8401fdfb1d8c7e1615739"
+    },
+    {
+      "path": "content/mods/sophisticated-storage.json",
+      "sha1": "b535ed8931495c12c1db1b2ef79710556dc1261d"
+    },
+    {
+      "path": "content/mods/supermartijn642s-config-lib.json",
+      "sha1": "028756a6018e44171395b1cb30f9d9d90fde34c0"
+    },
+    {
+      "path": "content/mods/supermartijn642s-core-lib.json",
+      "sha1": "76d36e0e79e68bad6334c1a8d0d753697f9cf5fc"
+    },
+    {
+      "path": "content/mods/supplementaries.json",
+      "sha1": "7b491d758d4f09c3453b74d4c9c07eb61a32c0bb"
+    },
+    {
+      "path": "content/mods/terrablender.json",
+      "sha1": "ff153689d486de548a0f428c9cd10eaabf8af0a3"
+    },
+    {
+      "path": "content/mods/terralith-restoned.json",
+      "sha1": "33d9cccfd99140c635be18473fa5456483066d37"
+    },
+    {
+      "path": "content/mods/terralith.json",
+      "sha1": "7fd07d679d59733164f18e20e2e54a77681c4aa7"
+    },
+    {
+      "path": "content/mods/titanium.json",
+      "sha1": "8eb1d5dc88df1c453327820a7da407460f929181"
+    },
+    {
+      "path": "content/mods/toms-storage.json",
+      "sha1": "fe2cc5cd6c61125562141154468631bf2356b1e0"
+    },
+    {
+      "path": "content/mods/torchmaster.json",
+      "sha1": "3fb375e26a0613ab0610fd24c8ce3353fee1206d"
+    },
+    {
+      "path": "content/mods/txnilib.json",
+      "sha1": "3cb902ac168319e3fe452106f26e34ecd76f8a91"
+    },
+    {
+      "path": "content/mods/vanillabackport.json",
+      "sha1": "7ea573ad8934057fcc402088fb48d90ce2898e22"
+    },
+    {
+      "path": "content/mods/waystones.json",
+      "sha1": "81899f792f7d8ed80cceef3e066d5c326cbf261b"
+    },
+    {
+      "path": "content/mods/what-are-they-up-to.json",
+      "sha1": "5fe1c1560d32efcf5ee9d3c0a21a600aa6f7261a"
     },
     {
       "path": "content/mods/xaeros-minimap.json",
@@ -39,6 +651,62 @@
     {
       "path": "content/mods/xaeros-world-map.json",
       "sha1": "baee9fdbd22dc31cc44d25ea9463e9b5e5aa2eb7"
+    },
+    {
+      "path": "content/mods/yungs-api.json",
+      "sha1": "3a1754e794ba22bb1f1a991244df73f0091eb211"
+    },
+    {
+      "path": "content/mods/yungs-better-caves.json",
+      "sha1": "1cba433feb663d3321dacffdaa125bbec6bfbe3e"
+    },
+    {
+      "path": "content/mods/yungs-better-desert-temples.json",
+      "sha1": "313fb5006900f8e049bf8720b17e24f870774eb7"
+    },
+    {
+      "path": "content/mods/yungs-better-dungeons.json",
+      "sha1": "b1a292ade9157c2998dcbbf872e6fec0a32e3fce"
+    },
+    {
+      "path": "content/mods/yungs-better-end-island.json",
+      "sha1": "f771c2ed5813e6e58c550a785c1d5716737a7781"
+    },
+    {
+      "path": "content/mods/yungs-better-jungle-temples.json",
+      "sha1": "bae89ff3332f953a2061cc9d4702f2438b553c19"
+    },
+    {
+      "path": "content/mods/yungs-better-mineshafts.json",
+      "sha1": "11e90f2e70c8b5747111d98a2d73c44d1f51f95d"
+    },
+    {
+      "path": "content/mods/yungs-better-nether-fortresses.json",
+      "sha1": "425c2f4498b0703b65e8c0dadaf057e83b717c8a"
+    },
+    {
+      "path": "content/mods/yungs-better-ocean-monuments.json",
+      "sha1": "51b2c092801f0dee008bb65614f59a18a36458c9"
+    },
+    {
+      "path": "content/mods/yungs-better-strongholds.json",
+      "sha1": "e1bb52ab603e9f78d3fd9bb90a78bbcb042415e1"
+    },
+    {
+      "path": "content/mods/yungs-better-witch-huts.json",
+      "sha1": "85a02432ac41295bf7c9357742448c70d66feae3"
+    },
+    {
+      "path": "content/mods/yungs-bridges.json",
+      "sha1": "2aca25fb0c2c4b126f8ae84f1a83712d4d7278e0"
+    },
+    {
+      "path": "content/mods/yungs-cave-biomes.json",
+      "sha1": "851ff687505f962af8c22d92fccceb194019586a"
+    },
+    {
+      "path": "content/mods/yungs-extras.json",
+      "sha1": "90bf71325adcf8f823a65631a7f115729632b3f2"
     }
   ]
 }

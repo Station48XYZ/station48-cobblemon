@@ -1,0 +1,23 @@
+{
+  "name": "Create: Who Touched My Train",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "HGhzofkm",
+      "slug": "create-who-touched-my-train",
+      "versionId": "ZI94Ro0T",
+      "versionNumber": "1.4.0-Create6.0-beta",
+      "filename": "Who touched my train-1.4.0-Create6.0-beta.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/HGhzofkm/versions/ZI94Ro0T/Who%20touched%20my%20train-1.4.0-Create6.0-beta.jar",
+      "sha1": "cb8d7211b46aa08f8363d200d7e2931f295f8b86",
+      "sha512": "828f47b5431bee25392b90c44824920eb93825a495d74d3e2e28fd4cac0af2a2bac0e89b9b50f62472aa5ab03f865af063ac5a5dcfd09bae7298e2ec25251b50",
+      "fileSize": 744895
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

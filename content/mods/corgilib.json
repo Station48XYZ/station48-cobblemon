@@ -1,0 +1,26 @@
+{
+  "name": "CorgiLib",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ziOp6EO8",
+      "slug": "corgilib",
+      "versionId": "nqrTa84r",
+      "versionNumber": "1.21.1-5.0.0.9-NeoForge",
+      "filename": "Corgilib-NeoForge-1.21.1-5.0.0.9.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ziOp6EO8/versions/nqrTa84r/Corgilib-NeoForge-1.21.1-5.0.0.9.jar",
+      "sha1": "6699f876f9e10f936910055f7fe1a283d8bb9e0f",
+      "sha512": "d5461d5fab247fe2d30ba5578c7768cf3c4c8758b155acb5c901913c22c43ddd6af6e7dbd5ae4cca8b106f7e2953b4427c0a97e53869861d64b0266c825d178b",
+      "fileSize": 309763
+    }
+  },
+  "dependents": [
+    "2rL16t1O",
+    "NTi7d3Xc"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

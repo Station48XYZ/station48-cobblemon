@@ -1,0 +1,25 @@
+{
+  "name": "SuperMartijn642's Core Lib",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "rOUBggPv",
+      "slug": "supermartijn642s-core-lib",
+      "versionId": "81s25oaA",
+      "versionNumber": "1.1.24-neoforge-mc1.21",
+      "filename": "supermartijn642corelib-1.1.24-neoforge-mc1.21.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/rOUBggPv/versions/81s25oaA/supermartijn642corelib-1.1.24-neoforge-mc1.21.jar",
+      "sha1": "e77709df2499085d6576584b883a33285b2996b9",
+      "sha512": "df3844f66fef9f58ab41119bd2c86096e7ca613ecc646ff910344a25d891ebd3c50267bfe2057e18f96de3bdb3fc0e4ada5aec64d97fe12865b42700dc47bb97",
+      "fileSize": 560783
+    }
+  },
+  "dependents": [
+    "B0g2vT6l"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Matthiesen Core",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "sqEZOmQo",
+      "slug": "matthiesen-core",
+      "versionId": "3ZL0VsDW",
+      "versionNumber": "1.1.0",
+      "filename": "matthiesen-core-neoforge-1.1.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/sqEZOmQo/versions/3ZL0VsDW/matthiesen-core-neoforge-1.1.0.jar",
+      "sha1": "485c89dc2e48b64897ea439408e0d5722e106858",
+      "sha512": "38d09c490a52f0905d986704b634dc95a8b75b0e0bd03e05467da0cca0182465fb22846ef02da1b896e2fa6841f9ffd63d0f5681a8bcd5b965ae619ffab415ab",
+      "fileSize": 517648
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

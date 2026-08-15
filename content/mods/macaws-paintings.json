@@ -1,0 +1,23 @@
+{
+  "name": "Macaw's Paintings",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "okE6QVAY",
+      "slug": "macaws-paintings",
+      "versionId": "W9QHKmDh",
+      "versionNumber": "1.1.0",
+      "filename": "mcw-paintings-1.1.0-mc1.21.1neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/okE6QVAY/versions/W9QHKmDh/mcw-paintings-1.1.0-mc1.21.1neoforge.jar",
+      "sha1": "7e637b44624da6a3b7cd6cfd26324c3f116d4da6",
+      "sha512": "3a0680c5282f18e4e35071c24b759eb0b217dac5de98ab2e11a523f04c3a1985c26b4740793f1faeb93313a8c3e7f0df6286b6d895ba45c0d636ec8dc3150410",
+      "fileSize": 179058
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

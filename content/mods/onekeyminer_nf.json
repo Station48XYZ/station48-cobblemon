@@ -1,0 +1,23 @@
+{
+  "name": "OneKeyMiner",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "LZu4H9cp",
+      "slug": "onekeyminer_nf",
+      "versionId": "FCq4ryJf",
+      "versionNumber": "1.21.1-1.6.9-neoforge",
+      "filename": "onekeyminer-neoforge-1.6.9-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/LZu4H9cp/versions/FCq4ryJf/onekeyminer-neoforge-1.6.9-1.21.1.jar",
+      "sha1": "ea712d3e1e3b1d33f3febf0809de925c899b6966",
+      "sha512": "840e5a736c9d204dba140a3f9be2a3fe83672558fd3df0a32746cbbf5ecf88a4246b4b359b6fb3d14df7f4de5b85b7c0a0ed955332e65948bca2a42b0035cd5c",
+      "fileSize": 335965
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

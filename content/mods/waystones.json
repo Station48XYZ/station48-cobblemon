@@ -1,0 +1,23 @@
+{
+  "name": "Waystones",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "LOpKHB2A",
+      "slug": "waystones",
+      "versionId": "fxszxKRW",
+      "versionNumber": "21.1.41+neoforge-1.21.1",
+      "filename": "waystones-neoforge-1.21.1-21.1.41.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/LOpKHB2A/versions/fxszxKRW/waystones-neoforge-1.21.1-21.1.41.jar",
+      "sha1": "ce8f17600506c2a201c6eb5ff50e16d39f775ad6",
+      "sha512": "18a11f82b77ba520c5871f9815f008b3e1ad11af16fa8498167091c34a33be5d0aa9b2761eef8cefac2e22d67da32a76fb2e01fd3d3248e3f0cfc2c139603d37",
+      "fileSize": 1217415
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

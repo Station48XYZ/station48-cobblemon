@@ -1,0 +1,25 @@
+{
+  "name": "Oh The Trees You'll Grow",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "g8NOG5OR",
+      "slug": "oh-the-trees-youll-grow",
+      "versionId": "ozzakIcu",
+      "versionNumber": "1.21.1-5.3.2-NeoForge",
+      "filename": "Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/g8NOG5OR/versions/ozzakIcu/Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.2.jar",
+      "sha1": "1867792e4e3d9fc6bb7acabb31cbec7a3d49ecad",
+      "sha512": "1a1bf395c5ec7366b938f1891a6b6666ab0cac9da8f5e7fbc8c07a3518b568759772a7ce6a4326b448773a75a7b5aacb032f580baf447029f329dff3aa115789",
+      "fileSize": 167431
+    }
+  },
+  "dependents": [
+    "NTi7d3Xc"
+  ],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

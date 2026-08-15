@@ -1,0 +1,25 @@
+{
+  "name": "Titanium",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "1Ro7m06l",
+      "slug": "titanium",
+      "versionId": "7AWtSmd7",
+      "versionNumber": "1.21-4.0.45",
+      "filename": "titanium-1.21-4.0.45.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/1Ro7m06l/versions/7AWtSmd7/titanium-1.21-4.0.45.jar",
+      "sha1": "c718d4d8713b83964f9b8feea4443a25feb84fc9",
+      "sha512": "42a386e1cfbeb96049fbdd79fe438c71826a6864f86933e0e62cf4a50728a9d5b6bdce360d70316b234e5c991076c61eb2f922999624ad4cb2a1f612acb8ace3",
+      "fileSize": 606801
+    }
+  },
+  "dependents": [
+    "cO40ZIg3"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

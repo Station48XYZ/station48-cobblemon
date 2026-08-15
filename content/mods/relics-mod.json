@@ -1,0 +1,25 @@
+{
+  "name": "Relics",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "OCJRPujW",
+      "slug": "relics-mod",
+      "versionId": "nvZZMhJS",
+      "versionNumber": "0.10.7.8",
+      "filename": "relics-1.21.1-0.10.7.8.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/OCJRPujW/versions/nvZZMhJS/relics-1.21.1-0.10.7.8.jar",
+      "sha1": "7f7fd59273ac5ef6511a811518bc9af01705a528",
+      "sha512": "eee8bc6a1c676f6c513d59732f12bb6415cc7c7fb639ad8f9d7dc9958e4b6726226106715119d8c083c49628db1cf7e3a433716425016d6d025d1730885fbce1",
+      "fileSize": 2753166
+    }
+  },
+  "dependents": [
+    "GnU07giL"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

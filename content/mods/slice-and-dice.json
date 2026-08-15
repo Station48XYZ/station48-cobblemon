@@ -1,0 +1,23 @@
+{
+  "name": "Create Slice & Dice",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "GmjmRQ0A",
+      "slug": "slice-and-dice",
+      "versionId": "N67LJgrN",
+      "versionNumber": "4.3.3",
+      "filename": "sliceanddice-4.3.3-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/N67LJgrN/sliceanddice-4.3.3-neoforge.jar",
+      "sha1": "dea6393354faf06632ca1f0185a51fb3c9b5816e",
+      "sha512": "3bdbd282ae5aa11ef6c186b752497541730b50fb400c4962230bcd7734cfe4e8daa2ee565387450dfe0eb6deaa0fa44bf81f99c788bac09b1a60d8f1991db37f",
+      "fileSize": 1354014
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
