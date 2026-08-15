@@ -1,10 +1,11 @@
 # Station48 Cobblemon
 
-**Minecraft 1.21.1 · neoforge 21.1.248**, 9 mods
+**Minecraft 1.21.1 · neoforge 21.1.248**, 10 mods
 
 ## Contents
 
 - [3D Skin Layers](https://modrinth.com/project/3dskinlayers) `1.11.2`
+- [[EMF] Entity Model Features](https://modrinth.com/project/entity-model-features) `3.2.4-neoforge-1.21`
 - [[ETF] Entity Texture Features](https://modrinth.com/project/entitytexturefeatures) `7.1-neoforge-1.21`
 - [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.10.5`

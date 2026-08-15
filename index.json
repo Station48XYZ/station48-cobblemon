@@ -9,12 +9,16 @@
       "sha1": "0d7464a310020b7a0ce306927a2f66e63abf2d6b"
     },
     {
+      "path": "content/mods/entity-model-features.json",
+      "sha1": "6b99d5bd332abd6e6f3fc9f3b9154b60a7db55f5"
+    },
+    {
       "path": "content/mods/entityculling.json",
       "sha1": "ad43232487c3442c2992f7fe5cbdcebe8324b6b4"
     },
     {
       "path": "content/mods/entitytexturefeatures.json",
-      "sha1": "7b79a6a9bc287671fdcfb2ee81ab96308030bf9f"
+      "sha1": "7c26db09656e9c746cc2508f0eb690f4b0c52404"
     },
     {
       "path": "content/mods/iris.json",
