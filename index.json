@@ -57,6 +57,10 @@
       "sha1": "fd9bd29d488984140b9758ee9c06231371b2a5a6"
     },
     {
+      "path": "content/mods/c2me-neoforge.json",
+      "sha1": "31bf0af7fd73072f82825eb36d526c139e331460"
+    },
+    {
       "path": "content/mods/caelus.json",
       "sha1": "ab7c0c2b06d71aac2ce33b05260a4ce772c1a922"
     },
@@ -169,6 +173,10 @@
       "sha1": "66effe905459972bb0c677631a6a039f7cdd52f1"
     },
     {
+      "path": "content/mods/create-threaded-trains.json",
+      "sha1": "5138183763c209e7d15cbec249b32e53034a468a"
+    },
+    {
       "path": "content/mods/create-train-parts.json",
       "sha1": "b49549d0d2c4e78e75d9441af90ca5bce26d70e2"
     },
@@ -178,7 +186,7 @@
     },
     {
       "path": "content/mods/create.json",
-      "sha1": "ff1da56ac496906db9fc865a9dc37e382646940f"
+      "sha1": "f8be32b5a545c50d2a8648229d8bf76238e208b7"
     },
     {
       "path": "content/mods/curios.json",
@@ -563,6 +571,10 @@
     {
       "path": "content/mods/resourcepackcached.json",
       "sha1": "16d7129d140c055ce0d32530b9d446eac7329a38"
+    },
+    {
+      "path": "content/mods/scalablelux.json",
+      "sha1": "7187b7e1c43debd604b6f3650be0bf81f021a376"
     },
     {
       "path": "content/mods/serene-seasons.json",

@@ -1,6 +1,6 @@
 # Station48 Cobblemon
 
-**Minecraft 1.21.1 · neoforge 21.1.248**, 145 mods (35 dependencies)
+**Minecraft 1.21.1 · neoforge 21.1.248**, 148 mods (35 dependencies)
 
 ## Contents
 
@@ -18,6 +18,7 @@
 - [Chipped](https://modrinth.com/project/chipped) `4.0.2`
 - [Clumps](https://modrinth.com/project/clumps) `19.0.0.1`
 - [Comforts](https://modrinth.com/project/comforts) `9.0.5+1.21.1`
+- [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.120+1.21.1`
 - [Cooking for Blockheads](https://modrinth.com/project/cooking-for-blockheads) `21.1.24+neoforge-1.21.1`
 - [Crafting Tweaks](https://modrinth.com/project/crafting-tweaks) `21.1.10+neoforge-1.21.1`
 - [Create](https://modrinth.com/project/create) `6.0.10+mc1.21.1`
@@ -43,6 +44,7 @@
 - [Create: Ornithopter Glider](https://modrinth.com/project/create-ornithopter-glider) `1.2.0+1.21.1`
 - [Create: Pattern Schematics](https://modrinth.com/project/create-pattern-schematics) `2.0.10`
 - [Create: Power Loader](https://modrinth.com/project/create-power-loader) `2.0.5-mc1.21.1`
+- [Create: Threaded Trains](https://modrinth.com/project/create-threaded-trains) `1.21.1-1.0.0`
 - [Create: Train Track Rail Grinding](https://modrinth.com/project/create-rail-grinding) `1.2.2+mc1.21.1`
 - [Create: Who Touched My Train](https://modrinth.com/project/create-who-touched-my-train) `1.4.0-Create6.0-beta`
 - [DimStorage](https://modrinth.com/project/dimstorage) `9.1.1`
@@ -117,6 +119,7 @@
 - [Repurposed Structures - Farmer's Delight Compat](https://modrinth.com/project/repurposed-structures-farmers-delight-compat) `7`
 - [Repurposed Structures - Neoforge/Forge](https://modrinth.com/project/repurposed-structures-forge) `7.5.21+1.21.1-neoforge`
 - [ResourcePackCached](https://modrinth.com/project/resourcepackcached) `1.2.5`
+- [ScalableLux](https://modrinth.com/project/scalablelux) `0.1.0.1+neoforge.1cb1e91`
 - [Serene Seasons](https://modrinth.com/project/serene-seasons) `10.1.0.3`
 - [ShatterLib | OctoLib](https://modrinth.com/project/shatterbyte-lib) `0.6.2`
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.12-neoforge`
