@@ -26,7 +26,7 @@
     },
     {
       "path": "content/mods/architectury-api.json",
-      "sha1": "3cef4f03d82b3d1204434c2bdb151437b19a01e1"
+      "sha1": "8b048be0b3f99bd83da19fd966852f382f19cda6"
     },
     {
       "path": "content/mods/artifacts.json",
@@ -35,6 +35,10 @@
     {
       "path": "content/mods/athena-ctm.json",
       "sha1": "f3c012e76a2adf547e773910f9c670fa038a4f35"
+    },
+    {
+      "path": "content/mods/azimuth-api.json",
+      "sha1": "b864d4cc085788ecc5c85c96b8cda4b20f76efed"
     },
     {
       "path": "content/mods/balm.json",
@@ -97,6 +101,10 @@
       "sha1": "cfb92dd38f29156bb6c37fe8cc5288b7ab0cfe85"
     },
     {
+      "path": "content/mods/create-bits-n-bobs.json",
+      "sha1": "6acc117e2dd27218ddf94f77dfdd61ea775a0d4e"
+    },
+    {
       "path": "content/mods/create-central-kitchen.json",
       "sha1": "becbcf9e85d5d1e483ccdaa5e3035f4f4cf5bc31"
     },
@@ -153,10 +161,6 @@
       "sha1": "fad589ed1a77625ed6283f4eaa2ee5a0e7461fc0"
     },
     {
-      "path": "content/mods/create-railways-navigator.json",
-      "sha1": "6cedd5cfe74d747e6f8fc4cb905aca1e09ff006e"
-    },
-    {
       "path": "content/mods/create-steam-n-rails-1-21-1.json",
       "sha1": "e5103944c5df0c86ecb409a887a669d3b842faee"
     },
@@ -169,16 +173,12 @@
       "sha1": "b49549d0d2c4e78e75d9441af90ca5bce26d70e2"
     },
     {
-      "path": "content/mods/create-trainutilities.json",
-      "sha1": "7d76af2a2f58b829d747de9982addb9ceee867b5"
-    },
-    {
       "path": "content/mods/create-who-touched-my-train.json",
       "sha1": "418d593caedf4feec41ee94f90895cea3f48f541"
     },
     {
       "path": "content/mods/create.json",
-      "sha1": "0564f039c70f9851f79e351d0d5e95825c12373e"
+      "sha1": "ff1da56ac496906db9fc865a9dc37e382646940f"
     },
     {
       "path": "content/mods/curios.json",
@@ -199,10 +199,6 @@
     {
       "path": "content/mods/distraction-free-recipes.json",
       "sha1": "1de512db0a7d4ded628c967edf1b8b39c9308dcb"
-    },
-    {
-      "path": "content/mods/dragonlib.json",
-      "sha1": "85a229a5305be23575a1e1222f9f48bc2bef56b9"
     },
     {
       "path": "content/mods/dynamic-fps.json",
@@ -362,7 +358,7 @@
     },
     {
       "path": "content/mods/iris.json",
-      "sha1": "eb4391f11af4e7ccf5ec20a569dbbe8884a27b8b"
+      "sha1": "245609bd1620c99d06228081592812d1a9db4a6c"
     },
     {
       "path": "content/mods/iron-furnaces.json",
@@ -387,6 +383,10 @@
     {
       "path": "content/mods/kotlin-for-forge.json",
       "sha1": "7e587885c635de2c1856366052ad7cabd55860c6"
+    },
+    {
+      "path": "content/mods/lambdynamiclights.json",
+      "sha1": "2d592510c2c6e30c9e1326c317801610d1307a3f"
     },
     {
       "path": "content/mods/leaves-be-gone.json",
@@ -529,8 +529,16 @@
       "sha1": "8435fa1bf24f0aaad38fd56e71f8c46bff565229"
     },
     {
+      "path": "content/mods/rechiseled-create.json",
+      "sha1": "5035f8286772ab1745eaa9c2bdb80bd026f8d781"
+    },
+    {
       "path": "content/mods/rechiseled.json",
-      "sha1": "f549b8777a801ec2292997469b45618f09556784"
+      "sha1": "295c3a79611993858fd887f13adc0797f19b2eca"
+    },
+    {
+      "path": "content/mods/reeses-sodium-options.json",
+      "sha1": "9ceb36f39a9d96452aaa65580cab03ffc470a5a8"
     },
     {
       "path": "content/mods/relics-mod.json",
@@ -561,20 +569,16 @@
       "sha1": "5aedf28319f124360d053331765147c00893db12"
     },
     {
+      "path": "content/mods/shatterbyte-lib.json",
+      "sha1": "79c8594525f6cd27fe5c9cc317b2bbd61fe538f3"
+    },
+    {
       "path": "content/mods/slice-and-dice.json",
       "sha1": "e62ad210e6d40e3b3e4f1a0341da67439559105f"
     },
     {
-      "path": "content/mods/sodium-dynamic-lights.json",
-      "sha1": "9a47537196cca81c0d7fc9f0d551b4b255128075"
-    },
-    {
-      "path": "content/mods/sodium-options-api.json",
-      "sha1": "536b541d32bbd2e03cc23ac75a5e7f9a1b3fa403"
-    },
-    {
       "path": "content/mods/sodium.json",
-      "sha1": "6ca284f670bfa7e56c6c356c19a1e2cc6229f8c6"
+      "sha1": "639b879e411da4a684a80a521bc135571bbd40f3"
     },
     {
       "path": "content/mods/sophisticated-backpacks-create-integration.json",
@@ -595,6 +599,10 @@
     {
       "path": "content/mods/sophisticated-storage.json",
       "sha1": "b535ed8931495c12c1db1b2ef79710556dc1261d"
+    },
+    {
+      "path": "content/mods/strut-your-stuff.json",
+      "sha1": "2cee09b8e3cc231d336abc932f2a14bfcd4abeb0"
     },
     {
       "path": "content/mods/supermartijn642s-config-lib.json",

@@ -1,6 +1,6 @@
 # Station48 Cobblemon
 
-**Minecraft 1.21.1 · neoforge 21.1.248**, 143 mods (35 dependencies)
+**Minecraft 1.21.1 · neoforge 21.1.248**, 145 mods (35 dependencies)
 
 ## Contents
 
@@ -24,12 +24,11 @@
 - [Create Cobblestone](https://modrinth.com/project/create-cobblestone) `1.4.12+neoforge-1.21.1-144`
 - [Create Contraption Terminals](https://modrinth.com/project/create-contraption-terminals) `1.21.1-1.4.0`
 - [Create Deco](https://modrinth.com/project/create-deco) `2.1.3`
-- [Create Railways Navigator](https://modrinth.com/project/create-railways-navigator) `1.21.1-beta-0.9.1-C6`
 - [Create Slice & Dice](https://modrinth.com/project/slice-and-dice) `4.3.3`
 - [Create Stuff 'N Additions](https://modrinth.com/project/create-stuff-additions) `2.1.4.a`
 - [Create Train Parts](https://modrinth.com/project/create-train-parts) `0.5.2`
-- [Create Train Utilities (Create Train Doors)](https://modrinth.com/project/create-trainutilities) `3.0.3`
 - [Create: Bells & Whistles](https://modrinth.com/project/bellsandwhistles) `v0.4.7-1.21.1`
+- [Create: Bits 'n' Bobs](https://modrinth.com/project/create-bits-n-bobs) `2.2.4`
 - [Create: Central Kitchen](https://modrinth.com/project/create-central-kitchen) `2.6.0`
 - [Create: Connected](https://modrinth.com/project/create-connected) `1.3.2-mc1.21.1`
 - [Create: Copycats+](https://modrinth.com/project/copycats) `3.0.4+mc.1.21.1-neoforge`
@@ -75,12 +74,13 @@
 - [Handcrafted](https://modrinth.com/project/handcrafted) `4.0.3`
 - [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) `1.6.11+1.21.1-neoforge`
 - [Iris & Oculus Flywheel Compat](https://modrinth.com/project/iris-flw-compat) `1.21.1+2.4.0-release`
-- [Iris Shaders](https://modrinth.com/project/iris) `1.8.12+1.21.1-neoforge`
+- [Iris Shaders](https://modrinth.com/project/iris) `1.8.14-beta.1+1.21.1-neoforge`
 - [Iron Furnaces](https://modrinth.com/project/iron-furnaces) `4.3.2`
 - [Jade Addons (Neo/Forge)](https://modrinth.com/project/jade-addons-forge) `6.0.1+neoforge`
 - [Jade Modded Entities](https://modrinth.com/project/jade-modded-entities) `1.3.1`
 - [Jade 🔍](https://modrinth.com/project/jade) `15.10.6+neoforge`
 - [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.44.0.401`
+- [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/lambdynamiclights) `4.8.10+1.21.1`
 - [Leaves Be Gone](https://modrinth.com/project/leaves-be-gone) `v21.1.1-1.21.1-NeoForge`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
 - [Lootr](https://modrinth.com/project/lootr) `1.21.1-1.11.38.123`
@@ -110,14 +110,16 @@
 - [Packet Fixer](https://modrinth.com/project/packet-fixer) `3.3.1`
 - [Polymorph](https://modrinth.com/project/polymorph) `1.1.0+1.21.1`
 - [Rechiseled](https://modrinth.com/project/rechiseled) `1.2.5-neoforge-mc1.21`
+- [Rechiseled: Create](https://modrinth.com/project/rechiseled-create) `1.1.1-neoforge-mc1.21`
+- [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc1.21.1-2.2.3+neoforge`
 - [Relics](https://modrinth.com/project/relics-mod) `0.10.7.8`
 - [Reliquified Artifacts](https://modrinth.com/project/reliquified-artifacts) `0.9.7`
 - [Repurposed Structures - Farmer's Delight Compat](https://modrinth.com/project/repurposed-structures-farmers-delight-compat) `7`
 - [Repurposed Structures - Neoforge/Forge](https://modrinth.com/project/repurposed-structures-forge) `7.5.21+1.21.1-neoforge`
 - [ResourcePackCached](https://modrinth.com/project/resourcepackcached) `1.2.5`
 - [Serene Seasons](https://modrinth.com/project/serene-seasons) `10.1.0.3`
-- [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.6.13-neoforge`
-- [Sodium Dynamic Lights](https://modrinth.com/project/sodium-dynamic-lights) `neoforge-1.21.1-1.0.10`
+- [ShatterLib | OctoLib](https://modrinth.com/project/shatterbyte-lib) `0.6.2`
+- [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.12-neoforge`
 - [Sophisticated Backpacks](https://modrinth.com/project/sophisticated-backpacks) `1.21.1-3.25.77.2086`
 - [Sophisticated Backpacks Create Integration](https://modrinth.com/project/sophisticated-backpacks-create-integration) `1.21.1-0.1.8.134`
 - [Sophisticated Core](https://modrinth.com/project/sophisticated-core) `1.21.1-1.4.86.2259`
