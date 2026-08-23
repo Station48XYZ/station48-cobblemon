@@ -1,6 +1,6 @@
 # Station48 Cobblemon
 
-**Minecraft 1.21.1 · neoforge 21.1.248**, 148 mods (35 dependencies)
+**Minecraft 1.21.1 · neoforge 21.1.248**, 149 mods (35 dependencies)
 
 ## Contents
 
@@ -99,7 +99,7 @@
 - [Macaw's Stairs](https://modrinth.com/project/macaws-stairs) `1.0.2`
 - [Macaw's Trapdoors](https://modrinth.com/project/macaws-trapdoors) `1.1.5`
 - [Macaw's Windows](https://modrinth.com/project/macaws-windows) `2.4.2`
-- [Matthiesen Core](https://modrinth.com/project/matthiesen-core) `1.2.0`
+- [Matthiesen Core](https://modrinth.com/project/matthiesen-core) `1.2.4`
 - [Mineable Spawner](https://modrinth.com/project/mineable-spawner) `v.2.1.1+mod`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
 - [Nature's Compass](https://modrinth.com/project/natures-compass) `1.21.1-3.4.0-neoforge`
@@ -129,6 +129,7 @@
 - [Sophisticated Storage](https://modrinth.com/project/sophisticated-storage) `1.21.1-1.5.85.2077`
 - [Sophisticated Storage Create Integration](https://modrinth.com/project/sophisticated-storage-create-integration) `1.21.1-0.1.21.209`
 - [Steam 'n' Rails Neoforge](https://modrinth.com/project/create-steam-n-rails-1.21.1) `0.2.1+neoforge-mc1.21.1`
+- [Straw Statues](https://modrinth.com/project/straw-statues) `v21.1.0-1.21.1-NeoForge`
 - [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-3.8.9`
 - [Terralith](https://modrinth.com/project/terralith) `2.6.2`
 - [Terralith: ReStoned](https://modrinth.com/project/terralith-restoned) `1.3.1`

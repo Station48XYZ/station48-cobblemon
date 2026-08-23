@@ -466,7 +466,7 @@
     },
     {
       "path": "content/mods/matthiesen-core.json",
-      "sha1": "10b44472814ac4d646848c24014b152be381cf4a"
+      "sha1": "22f6bdde4b51133741c3b10904d412672e9b76d6"
     },
     {
       "path": "content/mods/mineable-spawner.json",
@@ -534,7 +534,7 @@
     },
     {
       "path": "content/mods/puzzles-lib.json",
-      "sha1": "8435fa1bf24f0aaad38fd56e71f8c46bff565229"
+      "sha1": "d08925a80aebabcb0e6a3334e47cd82041e03615"
     },
     {
       "path": "content/mods/rechiseled-create.json",
@@ -613,8 +613,12 @@
       "sha1": "b535ed8931495c12c1db1b2ef79710556dc1261d"
     },
     {
+      "path": "content/mods/straw-statues.json",
+      "sha1": "d1cc19e517ce8996f87102e380b2fd07ff2cfd59"
+    },
+    {
       "path": "content/mods/strut-your-stuff.json",
-      "sha1": "2cee09b8e3cc231d336abc932f2a14bfcd4abeb0"
+      "sha1": "5a198e524c00df4cf9505457085a1129353197e7"
     },
     {
       "path": "content/mods/supermartijn642s-config-lib.json",
