@@ -1,6 +1,6 @@
 # Station48 Cobblemon
 
-**Minecraft 1.21.1 · neoforge 21.1.248**, 168 mods (34 dependencies), 1 resource pack
+**Minecraft 1.21.1 · neoforge 21.1.248**, 170 mods (34 dependencies), 1 resource pack
 
 ## Contents
 
@@ -28,6 +28,8 @@
 - [Cobblemon Pokestops](https://modrinth.com/project/cobblemon-pokestops) `1.8.0`
 - [Cobblemon Tablet](https://modrinth.com/project/cobblemon-tablet) `1.3.0`
 - [Cobblemon Torchmaster Fix](https://modrinth.com/project/cobblemon-torchmaster-fix) `1.3.0`
+- [Cobblemon: Mega Showdown](https://modrinth.com/project/cobblemon-mega-showdown) `1.0+1.8+1.21.1-release-hotfix`
+- [CobbleSafari](https://modrinth.com/project/cobblesafari) `0.3.5`
 - [Comforts](https://modrinth.com/project/comforts) `9.0.5+1.21.1`
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.120+1.21.1`
 - [Cooking for Blockheads](https://modrinth.com/project/cooking-for-blockheads) `21.1.24+neoforge-1.21.1`

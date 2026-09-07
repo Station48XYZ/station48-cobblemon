@@ -10,7 +10,7 @@
     },
     {
       "path": "content/mods/accessories.json",
-      "sha1": "75c1eb58bec8585236fcb97cfb35829a02a5ae06"
+      "sha1": "55a5aa30fcae49eb87ad1397b9f5a5bc393b364d"
     },
     {
       "path": "content/mods/addonslib.json",
@@ -26,7 +26,7 @@
     },
     {
       "path": "content/mods/architectury-api.json",
-      "sha1": "8b048be0b3f99bd83da19fd966852f382f19cda6"
+      "sha1": "e522c8f063e016b7d5bd48b8e454349527725f9a"
     },
     {
       "path": "content/mods/artifacts.json",
@@ -93,6 +93,10 @@
       "sha1": "0756db628b7c1ab5bedf034cd8e31ad95a584cff"
     },
     {
+      "path": "content/mods/cobblemon-mega-showdown.json",
+      "sha1": "f420c3f2ced58966b2d4fea098966a1563493436"
+    },
+    {
       "path": "content/mods/cobblemon-move-tutor.json",
       "sha1": "bc96f907b11108defaa13099b9092e63292f3d27"
     },
@@ -118,7 +122,11 @@
     },
     {
       "path": "content/mods/cobblemon.json",
-      "sha1": "35243b2339ac8d9e29f0dcfa70eb45003bb24fda"
+      "sha1": "47dbe6f20486b5a4622058f74c74f4f0add50651"
+    },
+    {
+      "path": "content/mods/cobblesafari.json",
+      "sha1": "ea2e2e1642aa9d6ccce450523f0859981300afde"
     },
     {
       "path": "content/mods/comforts.json",
@@ -566,7 +574,7 @@
     },
     {
       "path": "content/mods/owo-lib.json",
-      "sha1": "103e03f12e5be6e12dadbda41480b215145736f7"
+      "sha1": "838a3d1dd9e81be7b2ccfdb5e7427060c538f1b6"
     },
     {
       "path": "content/mods/packet-fixer.json",
