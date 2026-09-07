@@ -1,6 +1,6 @@
 # Station48 Cobblemon
 
-**Minecraft 1.21.1 · neoforge 21.1.248**, 167 mods (34 dependencies), 1 resource pack
+**Minecraft 1.21.1 · neoforge 21.1.248**, 168 mods (34 dependencies), 1 resource pack
 
 ## Contents
 
@@ -67,6 +67,7 @@
 - [Easy Villagers](https://modrinth.com/project/easy-villagers) `neoforge-1.21.1-1.1.42`
 - [ElevatorMod](https://modrinth.com/project/elevatormod) `neoforge-1.21.1-1.11.4`
 - [Elytra Slot](https://modrinth.com/project/elytra-slot) `9.0.2+1.21.1`
+- [Embers Text API](https://modrinth.com/project/embers-text-api) `3.0.3+neoforge-1.21.1`
 - [EMI](https://modrinth.com/project/emi) `1.1.24+1.21.1+neoforge`
 - [EMI Addon: Extra Mod Integrations](https://modrinth.com/project/extra-mod-integrations) `1.0.3+1.21.1.neoforge`
 - [EMI Enchanting](https://modrinth.com/project/emi-enchanting) `0.1.2+1.21+neoforge`

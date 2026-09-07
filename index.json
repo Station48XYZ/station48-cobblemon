@@ -281,6 +281,10 @@
       "sha1": "86f38439f83b3ace1b359ce2d82083215477b0ae"
     },
     {
+      "path": "content/mods/embers-text-api.json",
+      "sha1": "dbfef9cfe157c56b6bec0b453b446ddd7aa6f5c6"
+    },
+    {
       "path": "content/mods/emi-create-schematics.json",
       "sha1": "1c928f1539b9adf3169e06dff22e5809540ad10f"
     },

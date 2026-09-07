@@ -1,0 +1,23 @@
+{
+  "name": "Embers Text API",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "OVSg4uGN",
+      "slug": "embers-text-api",
+      "versionId": "iSwKLgJp",
+      "versionNumber": "3.0.3+neoforge-1.21.1",
+      "filename": "emberstextapi-neoforge-1.21.1-3.0.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/OVSg4uGN/versions/iSwKLgJp/emberstextapi-neoforge-1.21.1-3.0.3.jar",
+      "sha1": "36978d825051d479c338f30ac2faa18993078ba5",
+      "sha512": "f96d24827302b479ce3a11e42567e617db295378307057078610b50f32a2f5146a71933a1bfe739811c8747c4387d3d53e773e5a7de2632100586b9d75865e7e",
+      "fileSize": 1315227
+    }
+  },
+  "dependents": [],
+  "clientSide": "unknown",
+  "serverSide": "unknown"
+}
