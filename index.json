@@ -811,6 +811,10 @@
     {
       "path": "content/resourcepacks/azoth-cobblemon-minimap-icons.json",
       "sha1": "c0007ca302b89c36578db3f342a8afa1592f9815"
+    },
+    {
+      "path": "overrides/icon.png",
+      "sha1": "e05942ba01422e2ec34da8d32a5a15200b127756"
     }
   ]
 }
