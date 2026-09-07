@@ -118,7 +118,7 @@
     },
     {
       "path": "content/mods/cobblemon.json",
-      "sha1": "590de9dc793c9dd22b1660e0e50a696cdf13df6f"
+      "sha1": "35243b2339ac8d9e29f0dcfa70eb45003bb24fda"
     },
     {
       "path": "content/mods/comforts.json",
@@ -181,6 +181,10 @@
       "sha1": "63fbd67cd55f62264a4e5456ee72541dbdc5e5d8"
     },
     {
+      "path": "content/mods/create-encapsulated.json",
+      "sha1": "a9be9df11b541d359b1667cb31a8d6eaec06409f"
+    },
+    {
       "path": "content/mods/create-enchantment-industry.json",
       "sha1": "9a32219f3f386543818a27b6e473b26b19ab3e63"
     },
@@ -225,8 +229,12 @@
       "sha1": "418d593caedf4feec41ee94f90895cea3f48f541"
     },
     {
+      "path": "content/mods/create-world-of-colors.json",
+      "sha1": "5fdb65e83e8e51299f11a8532f191fdc96388713"
+    },
+    {
       "path": "content/mods/create.json",
-      "sha1": "f8be32b5a545c50d2a8648229d8bf76238e208b7"
+      "sha1": "9664d7ca23bdd93a9acc0f338d39d6162b5c0d3f"
     },
     {
       "path": "content/mods/curios.json",
@@ -738,7 +746,7 @@
     },
     {
       "path": "content/mods/xaeros-minimap.json",
-      "sha1": "2370a208fa81291689023d328dd84e4471d08358"
+      "sha1": "a979c975b332a1b252f3b66a7d07789bac2ba23a"
     },
     {
       "path": "content/mods/xaeros-world-map.json",
@@ -799,6 +807,10 @@
     {
       "path": "content/mods/yungs-extras.json",
       "sha1": "90bf71325adcf8f823a65631a7f115729632b3f2"
+    },
+    {
+      "path": "content/resourcepacks/azoth-cobblemon-minimap-icons.json",
+      "sha1": "c0007ca302b89c36578db3f342a8afa1592f9815"
     }
   ]
 }

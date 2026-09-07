@@ -1,6 +1,6 @@
 # Station48 Cobblemon
 
-**Minecraft 1.21.1 · neoforge 21.1.248**, 166 mods (34 dependencies)
+**Minecraft 1.21.1 · neoforge 21.1.248**, 167 mods (35 dependencies), 1 resource pack
 
 ## Contents
 
@@ -12,6 +12,7 @@
 - [Advancement Plaques](https://modrinth.com/project/advancement-plaques) `1.6.8`
 - [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
 - [Artifacts](https://modrinth.com/project/artifacts) `13.2.1`
+- [AZOTH Cobblemon Minimap Icons](https://modrinth.com/project/azoth-cobblemon-minimap-icons) `1.8.0`
 - [Better Advancements](https://modrinth.com/project/better-advancements) `0.4.3.21`
 - [BetterF3](https://modrinth.com/project/betterf3) `11.0.3`
 - [Chef's Delight - Farmer's Delight Villagers](https://modrinth.com/project/chefs-delight) `1.0.5`
@@ -45,6 +46,7 @@
 - [Create: Copycats+](https://modrinth.com/project/copycats) `3.0.4+mc.1.21.1-neoforge`
 - [Create: Design n' Decor](https://modrinth.com/project/create-design-n-decor) `2.2b`
 - [Create: Dreams & Desires](https://modrinth.com/project/create-dreams-and-desires) `2.3a-BETA`
+- [Create: Encapsulated](https://modrinth.com/project/create-encapsulated) `1.1.0`
 - [Create: Enchantment Industry](https://modrinth.com/project/create-enchantment-industry) `2.4.2`
 - [Create: Escalated](https://modrinth.com/project/escalated) `1.3.1`
 - [Create: Extra Gauges](https://modrinth.com/project/extra-gauges) `2.1.2`

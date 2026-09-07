@@ -1,0 +1,23 @@
+{
+  "name": "Create: Encapsulated",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "TQjpFpQk",
+      "slug": "create-encapsulated",
+      "versionId": "hkWPNFAh",
+      "versionNumber": "1.1.0",
+      "filename": "create_encapsulated-1.1.0+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/TQjpFpQk/versions/hkWPNFAh/create_encapsulated-1.1.0%2B1.21.1.jar",
+      "sha1": "e63fd23b99f3df337a715a62550ad9ab88408586",
+      "sha512": "de5a25cae2166585937ff094df7038218ffe37bb3921f3b3da1f1a2fd7ed80b5e1a061dad12c4dedff1295fffd7fc6d38b177f14088a9e0ae4ffb287134cc358",
+      "fileSize": 452360
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
