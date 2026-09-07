@@ -1,0 +1,23 @@
+{
+  "name": "Cobblemon Tablet",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ItE0111C",
+      "slug": "cobblemon-tablet",
+      "versionId": "txg0RJEH",
+      "versionNumber": "1.3.0",
+      "filename": "cobblemon-tablet-neoforge-1.3.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ItE0111C/versions/txg0RJEH/cobblemon-tablet-neoforge-1.3.0.jar",
+      "sha1": "6b17b97d6c38a0d70e0ba96295d93e8a6ebdec40",
+      "sha512": "3b98d3091e7bd7b8616e2c14f54782184a4560f7c4ad3013c7807c439cea82ef2ad7b352ba848fff190d50d2a475cb5ae7f6120abedc3761835bd8586c0f2d1c",
+      "fileSize": 32537
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

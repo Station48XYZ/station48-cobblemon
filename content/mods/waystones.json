@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "LOpKHB2A",
       "slug": "waystones",
-      "versionId": "fxszxKRW",
-      "versionNumber": "21.1.41+neoforge-1.21.1",
-      "filename": "waystones-neoforge-1.21.1-21.1.41.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/LOpKHB2A/versions/fxszxKRW/waystones-neoforge-1.21.1-21.1.41.jar",
-      "sha1": "ce8f17600506c2a201c6eb5ff50e16d39f775ad6",
-      "sha512": "18a11f82b77ba520c5871f9815f008b3e1ad11af16fa8498167091c34a33be5d0aa9b2761eef8cefac2e22d67da32a76fb2e01fd3d3248e3f0cfc2c139603d37",
-      "fileSize": 1217415
+      "versionId": "1gzy0HSm",
+      "versionNumber": "21.1.42+neoforge-1.21.1",
+      "filename": "waystones-neoforge-1.21.1-21.1.42.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/LOpKHB2A/versions/1gzy0HSm/waystones-neoforge-1.21.1-21.1.42.jar",
+      "sha1": "ca21be55f7c25b0a37be70bc699ceaf91d45ca17",
+      "sha512": "8e925969a4d77df3c25fd1531a9b0eeb831cd0c9eee634a6353e6db4124d5b4199254946375d5d3c1dad5fa2c1813892edd0dff2c0df0c82391864932a024682",
+      "fileSize": 1219457
     }
   },
   "dependents": [],

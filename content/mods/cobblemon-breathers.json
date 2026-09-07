@@ -1,0 +1,23 @@
+{
+  "name": "Cobblemon Breathers",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "FUP9FqO6",
+      "slug": "cobblemon-breathers",
+      "versionId": "zTfRliKt",
+      "versionNumber": "1.5.0",
+      "filename": "cobblemon-breathers-neoforge-1.5.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/FUP9FqO6/versions/zTfRliKt/cobblemon-breathers-neoforge-1.5.0.jar",
+      "sha1": "867be55c5cc1c0ba472df1ce6d1d1e7d07536556",
+      "sha512": "b21f930d306f251881f76d23d61e604e68fee70b72351f76946910357aef9cad2f905ea730d9fc3627e1c1fe3fa0df78a7702737ae8b4f85c60f47149db6d581",
+      "fileSize": 74763
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

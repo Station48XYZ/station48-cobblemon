@@ -1,6 +1,6 @@
 # Station48 Cobblemon
 
-**Minecraft 1.21.1 · neoforge 21.1.248**, 149 mods (35 dependencies)
+**Minecraft 1.21.1 · neoforge 21.1.248**, 166 mods (34 dependencies)
 
 ## Contents
 
@@ -17,6 +17,16 @@
 - [Chef's Delight - Farmer's Delight Villagers](https://modrinth.com/project/chefs-delight) `1.0.5`
 - [Chipped](https://modrinth.com/project/chipped) `4.0.2`
 - [Clumps](https://modrinth.com/project/clumps) `19.0.0.1`
+- [Cobblemon](https://modrinth.com/project/cobblemon) `1.8.0`
+- [Cobblemon Breathers](https://modrinth.com/project/cobblemon-breathers) `1.5.0`
+- [Cobblemon Catch Rate Display](https://modrinth.com/project/catch-rate-display) `2.11.0+neoforge`
+- [Cobblemon Escape Rope](https://modrinth.com/project/cobblemon-escape-rope) `1.5.0`
+- [Cobblemon Move Tutor](https://modrinth.com/project/cobblemon-move-tutor) `1.5.0`
+- [Cobblemon Poke Power](https://modrinth.com/project/cobblemon-poke-power) `1.1.1`
+- [Cobblemon Pokenav](https://modrinth.com/project/cobblemon-pokenav) `2.4.0`
+- [Cobblemon Pokestops](https://modrinth.com/project/cobblemon-pokestops) `1.8.0`
+- [Cobblemon Tablet](https://modrinth.com/project/cobblemon-tablet) `1.3.0`
+- [Cobblemon Torchmaster Fix](https://modrinth.com/project/cobblemon-torchmaster-fix) `1.3.0`
 - [Comforts](https://modrinth.com/project/comforts) `9.0.5+1.21.1`
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.120+1.21.1`
 - [Cooking for Blockheads](https://modrinth.com/project/cooking-for-blockheads) `21.1.24+neoforge-1.21.1`
@@ -47,6 +57,7 @@
 - [Create: Threaded Trains](https://modrinth.com/project/create-threaded-trains) `1.21.1-1.0.0`
 - [Create: Train Track Rail Grinding](https://modrinth.com/project/create-rail-grinding) `1.2.2+mc1.21.1`
 - [Create: Who Touched My Train](https://modrinth.com/project/create-who-touched-my-train) `1.4.0-Create6.0-beta`
+- [Custom Gateways](https://modrinth.com/project/custom-gateways) `1.0.0`
 - [DimStorage](https://modrinth.com/project/dimstorage) `9.1.1`
 - [Distraction Free Recipes (EMI / REI / JEI)](https://modrinth.com/project/distraction-free-recipes) `1.2.1`
 - [Dynamic FPS](https://modrinth.com/project/dynamic-fps) `3.11.4`
@@ -67,6 +78,7 @@
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.10.5`
 - [Expanded Delight](https://modrinth.com/project/expanded-delight) `0.1.4-neoforge`
 - [Explorer's Compass](https://modrinth.com/project/explorers-compass) `1.21.1-3.4.0-neoforge`
+- [ExtraStorage](https://modrinth.com/project/extrastorage) `5.0.10`
 - [FallingTree](https://modrinth.com/project/fallingtree) `1.21.1-1.21.1.11`
 - [Farmer's Cutting: Oh The Biomes We've Gone](https://modrinth.com/project/farmers-cutting-oh-the-biomes-weve-gone) `1.21.1-2.1-neoforge+mod`
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.2`
@@ -99,21 +111,26 @@
 - [Macaw's Stairs](https://modrinth.com/project/macaws-stairs) `1.0.2`
 - [Macaw's Trapdoors](https://modrinth.com/project/macaws-trapdoors) `1.1.5`
 - [Macaw's Windows](https://modrinth.com/project/macaws-windows) `2.4.2`
-- [Matthiesen Core](https://modrinth.com/project/matthiesen-core) `1.2.5`
+- [Matthiesen Core](https://modrinth.com/project/matthiesen-core) `1.2.9`
 - [Mineable Spawner](https://modrinth.com/project/mineable-spawner) `v.2.1.1+mod`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
 - [Nature's Compass](https://modrinth.com/project/natures-compass) `1.21.1-3.4.0-neoforge`
 - [No Chat Reports](https://modrinth.com/project/no-chat-reports) `NeoForge-1.21.1-v2.9.1`
-- [No Chat Restrictions](https://modrinth.com/project/no-chat-restrictions) `NeoForge-MC1.21.11-v1.0.0`
+- [No Chat Restrictions](https://modrinth.com/project/no-chat-restrictions) `NeoForge-MC1.21.11-v1.0.2`
 - [Oh The Biomes We've Gone](https://modrinth.com/project/oh-the-biomes-weve-gone) `2.6.0-NeoForge`
 - [OneKeyMiner](https://modrinth.com/project/onekeyminer_nf) `1.21.1-1.6.9-neoforge`
-- [Open Parties and Claims](https://modrinth.com/project/open-parties-and-claims) `neoforge-1.21.1-0.29.3`
-- [Open Parties and Claims PvP Support](https://modrinth.com/project/opacpvp) `1.0.1`
+- [Open Parties and Claims](https://modrinth.com/project/open-parties-and-claims) `neoforge-1.21.1-0.30.3`
 - [Packet Fixer](https://modrinth.com/project/packet-fixer) `3.3.1`
 - [Polymorph](https://modrinth.com/project/polymorph) `1.1.0+1.21.1`
+- [Polymorphic Refined Storage](https://modrinth.com/project/polymorphic-refined-storage) `1.2.2`
 - [Rechiseled](https://modrinth.com/project/rechiseled) `1.2.5-neoforge-mc1.21`
 - [Rechiseled: Create](https://modrinth.com/project/rechiseled-create) `1.1.1-neoforge-mc1.21`
 - [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc1.21.1-2.2.3+neoforge`
+- [Refined Cooking](https://modrinth.com/project/refined-cooking) `6.4.1+neoforge-1.21.1`
+- [Refined Storage](https://modrinth.com/project/refined-storage) `2.0.9`
+- [Refined Storage - Curios Integration](https://modrinth.com/project/refined-storage-curios-integration) `1.0.0`
+- [Refined Storage - EMI Integration](https://modrinth.com/project/refined-storage-emi-integration) `1.0.0`
+- [Refined Storage - Quartz Arsenal](https://modrinth.com/project/refined-storage-quartz-arsenal) `1.0.8`
 - [Relics](https://modrinth.com/project/relics-mod) `0.10.7.8`
 - [Reliquified Artifacts](https://modrinth.com/project/reliquified-artifacts) `0.9.7`
 - [Repurposed Structures - Farmer's Delight Compat](https://modrinth.com/project/repurposed-structures-farmers-delight-compat) `7`
@@ -136,7 +153,7 @@
 - [Tom's Simple Storage Mod](https://modrinth.com/project/toms-storage) `1.21-2.4.1`
 - [TorchMaster](https://modrinth.com/project/torchmaster) `21.1.9-release`
 - [Vanilla Backport](https://modrinth.com/project/vanillabackport) `1.1.7.10`
-- [Waystones](https://modrinth.com/project/waystones) `21.1.41+neoforge-1.21.1`
+- [Waystones](https://modrinth.com/project/waystones) `21.1.42+neoforge-1.21.1`
 - [What Are They Up To (Watut)](https://modrinth.com/project/what-are-they-up-to) `1.21.0-1.2.7`
 - [Xaero's Minimap](https://modrinth.com/project/xaeros-minimap) `neoforge-1.21.1-26.4.2`
 - [Xaero's World Map](https://modrinth.com/project/xaeros-world-map) `neoforge-1.21.1-1.44.2`

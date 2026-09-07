@@ -42,7 +42,7 @@
     },
     {
       "path": "content/mods/balm.json",
-      "sha1": "0c887045988fb46845d0debde89f3523d6dc20bd"
+      "sha1": "41655ecaa8ac1f8526d63c3567dabbcaad0211d4"
     },
     {
       "path": "content/mods/bellsandwhistles.json",
@@ -65,6 +65,10 @@
       "sha1": "ab7c0c2b06d71aac2ce33b05260a4ce772c1a922"
     },
     {
+      "path": "content/mods/catch-rate-display.json",
+      "sha1": "67cb022e53efa98bf86beaf80f83a7aec4d1fd80"
+    },
+    {
       "path": "content/mods/chefs-delight.json",
       "sha1": "eaabbbb315d9055588d2deabd9bb9d8f83320af7"
     },
@@ -81,12 +85,48 @@
       "sha1": "f0c21a040bf3cf093708b7a1242ac6574e3ab208"
     },
     {
+      "path": "content/mods/cobblemon-breathers.json",
+      "sha1": "dde3ad7648fb3a54005a4dfb850f9b394fb8e228"
+    },
+    {
+      "path": "content/mods/cobblemon-escape-rope.json",
+      "sha1": "0756db628b7c1ab5bedf034cd8e31ad95a584cff"
+    },
+    {
+      "path": "content/mods/cobblemon-move-tutor.json",
+      "sha1": "bc96f907b11108defaa13099b9092e63292f3d27"
+    },
+    {
+      "path": "content/mods/cobblemon-poke-power.json",
+      "sha1": "aef755d9b344ba43b224c092601a65300a31d873"
+    },
+    {
+      "path": "content/mods/cobblemon-pokenav.json",
+      "sha1": "d431ee1e82f6c029d8a07bf08bb8bdd917537260"
+    },
+    {
+      "path": "content/mods/cobblemon-pokestops.json",
+      "sha1": "8b5173845ad44f4855c8982054c2efb41e72d58b"
+    },
+    {
+      "path": "content/mods/cobblemon-tablet.json",
+      "sha1": "11eb2d13ad1717da73d3f37bd9ea9691f8d51d1a"
+    },
+    {
+      "path": "content/mods/cobblemon-torchmaster-fix.json",
+      "sha1": "631e129ce6f6ff2437d68ddad630481f7bf7c643"
+    },
+    {
+      "path": "content/mods/cobblemon.json",
+      "sha1": "590de9dc793c9dd22b1660e0e50a696cdf13df6f"
+    },
+    {
       "path": "content/mods/comforts.json",
       "sha1": "5671d8e7b64494a4a54c9f13222d4ca3686e046f"
     },
     {
       "path": "content/mods/cooking-for-blockheads.json",
-      "sha1": "5d1f3405173a09d87eed8ab0d3d35d1e53113e00"
+      "sha1": "6d99771cb72db7b34f0ecba242215867ac23794d"
     },
     {
       "path": "content/mods/copycats.json",
@@ -190,7 +230,11 @@
     },
     {
       "path": "content/mods/curios.json",
-      "sha1": "9183ed6e6b74e5035dfffdca381051d6239d212f"
+      "sha1": "f9db899f6912b326cc7568ebe03e494f6cfff0e7"
+    },
+    {
+      "path": "content/mods/custom-gateways.json",
+      "sha1": "78914d6567f96c4146671d8abae2cc67a692c5f4"
     },
     {
       "path": "content/mods/data-anchor.json",
@@ -222,7 +266,7 @@
     },
     {
       "path": "content/mods/edivadlib.json",
-      "sha1": "3bb5579d8affd60d5ac64a232c5515e4680b5f7f"
+      "sha1": "5ffb0cf880ea4e380d356cabf51499018e52b53b"
     },
     {
       "path": "content/mods/elevatormod.json",
@@ -254,7 +298,7 @@
     },
     {
       "path": "content/mods/emi.json",
-      "sha1": "efbab8e6d3ba7a67479cefbe34becd65a0a9a6c7"
+      "sha1": "ef5bd124bd4d59b8af046bf32312cd556d241f69"
     },
     {
       "path": "content/mods/emiffect.json",
@@ -301,6 +345,10 @@
       "sha1": "22b6d20b2d1b5b97c61cb9e22616372ac6ee0e2a"
     },
     {
+      "path": "content/mods/extrastorage.json",
+      "sha1": "8ced4f88620401d5ecc14fe8beff5fbb90417adb"
+    },
+    {
       "path": "content/mods/fallingtree.json",
       "sha1": "c5b7224ac3d8d54e9778413a8141920dd42c2c72"
     },
@@ -330,7 +378,7 @@
     },
     {
       "path": "content/mods/geckolib.json",
-      "sha1": "48530b67a6f0029fb2c7121edc483f3f43f706ef"
+      "sha1": "781da4d5ab870c04f21ee22f1a9ed320bc215f70"
     },
     {
       "path": "content/mods/glitchcore.json",
@@ -390,7 +438,7 @@
     },
     {
       "path": "content/mods/kotlin-for-forge.json",
-      "sha1": "7e587885c635de2c1856366052ad7cabd55860c6"
+      "sha1": "c58e715714f895da334e000cfec5193769787e92"
     },
     {
       "path": "content/mods/lambdynamiclights.json",
@@ -466,7 +514,7 @@
     },
     {
       "path": "content/mods/matthiesen-core.json",
-      "sha1": "8cd39a5cad93f33dae46587d2b2e5c8c85f64e9a"
+      "sha1": "51b7d73124a3958a823b648c2c816c5c577aff77"
     },
     {
       "path": "content/mods/mineable-spawner.json",
@@ -485,16 +533,12 @@
       "sha1": "a7fc8d1dd6efd53d47008afceff4bd29fad2de39"
     },
     {
-      "path": "content/mods/necronomicon.json",
-      "sha1": "6de786956aae467cd94174830ec7fadb5d6c55d6"
-    },
-    {
       "path": "content/mods/no-chat-reports.json",
       "sha1": "45dbd694a784f53d50b8672ab94365dd8becf967"
     },
     {
       "path": "content/mods/no-chat-restrictions.json",
-      "sha1": "24ec356ef310ae1f15c25ab098bbc2c428299be0"
+      "sha1": "4842401ee8134ff794ec67cbb344ee81b044f40a"
     },
     {
       "path": "content/mods/oh-the-biomes-weve-gone.json",
@@ -509,12 +553,8 @@
       "sha1": "b92b3b8709fe7c3aa31489abd03dcd1d3e1e7ea8"
     },
     {
-      "path": "content/mods/opacpvp.json",
-      "sha1": "30e6613698451add8253e6a063cfbef0eb32e412"
-    },
-    {
       "path": "content/mods/open-parties-and-claims.json",
-      "sha1": "b51b7bd2af0d4cdccc00d48bc62eb82de562a701"
+      "sha1": "735726871f81da29af330854e4634ed971444e6b"
     },
     {
       "path": "content/mods/owo-lib.json",
@@ -533,6 +573,10 @@
       "sha1": "a2fdd28d1f2efdfb739e1c6bf8421886caeb2904"
     },
     {
+      "path": "content/mods/polymorphic-refined-storage.json",
+      "sha1": "47df77ec47240fa4008b27e53e99add49d80bd6f"
+    },
+    {
       "path": "content/mods/puzzles-lib.json",
       "sha1": "d08925a80aebabcb0e6a3334e47cd82041e03615"
     },
@@ -547,6 +591,26 @@
     {
       "path": "content/mods/reeses-sodium-options.json",
       "sha1": "9ceb36f39a9d96452aaa65580cab03ffc470a5a8"
+    },
+    {
+      "path": "content/mods/refined-cooking.json",
+      "sha1": "d4db4956d29e915c556ebb49a0ebaed1ab6ce2e2"
+    },
+    {
+      "path": "content/mods/refined-storage-curios-integration.json",
+      "sha1": "f6c87ff7398dc8b4ea49b98aaa06999c95e1e76c"
+    },
+    {
+      "path": "content/mods/refined-storage-emi-integration.json",
+      "sha1": "79f23e2dfdb3d2019dce8d11e58ccceb19efe4f2"
+    },
+    {
+      "path": "content/mods/refined-storage-quartz-arsenal.json",
+      "sha1": "965a3e74ddb684839e982035abc788930a471bfd"
+    },
+    {
+      "path": "content/mods/refined-storage.json",
+      "sha1": "2824872065342a1a4397086629c01d3bd4d67c25"
     },
     {
       "path": "content/mods/relics-mod.json",
@@ -654,7 +718,7 @@
     },
     {
       "path": "content/mods/torchmaster.json",
-      "sha1": "3fb375e26a0613ab0610fd24c8ce3353fee1206d"
+      "sha1": "9cd810ddfe34fbc36c2c6390ebde1a180f9daae5"
     },
     {
       "path": "content/mods/txnilib.json",
@@ -666,7 +730,7 @@
     },
     {
       "path": "content/mods/waystones.json",
-      "sha1": "81899f792f7d8ed80cceef3e066d5c326cbf261b"
+      "sha1": "363942606a6be8a291b1cbd5d4f1686dacafd3a1"
     },
     {
       "path": "content/mods/what-are-they-up-to.json",

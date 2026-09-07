@@ -1,0 +1,23 @@
+{
+  "name": "ExtraStorage",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "T34cBZKl",
+      "slug": "extrastorage",
+      "versionId": "jkXVShko",
+      "versionNumber": "5.0.10",
+      "filename": "ExtraStorage-1.21.1-5.0.10.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/T34cBZKl/versions/jkXVShko/ExtraStorage-1.21.1-5.0.10.jar",
+      "sha1": "a3023c6c2db29c6551b0a8bcd9ab12f0eeeca093",
+      "sha512": "ffc1c05c5cd539c2cca5d6e5cf4b8d3709859380c73902dbaf7d212619bbdc11b352bb1a0ebf06e4755a00ee8d5e69d5a7451f6978a7fa1dc6316d47cc944b49",
+      "fileSize": 409193
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Cobblemon Catch Rate Display",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "vADO40xp",
+      "slug": "catch-rate-display",
+      "versionId": "Y65Uk0Zl",
+      "versionNumber": "2.11.0+neoforge",
+      "filename": "catchrate-display-neoforge-2.11.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/vADO40xp/versions/Y65Uk0Zl/catchrate-display-neoforge-2.11.0.jar",
+      "sha1": "d31dd06d0193e5d149fe55b2357bb849a21d04b1",
+      "sha512": "22cb8d88826d946e922745f9ec42a0befe3674253c56100233b5fa2510772fb106291d0fdd3d2c4caec1a38ea394ade78c857ec22a2831b55e80c5eaeaaa821f",
+      "fileSize": 283292
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

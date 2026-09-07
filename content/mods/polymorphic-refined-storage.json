@@ -1,0 +1,23 @@
+{
+  "name": "Polymorphic Refined Storage",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "x9SSMbo6",
+      "slug": "polymorphic-refined-storage",
+      "versionId": "OYFQ6UZp",
+      "versionNumber": "1.2.2",
+      "filename": "rspolymorph-neoforge-1.21.1-1.2.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/x9SSMbo6/versions/OYFQ6UZp/rspolymorph-neoforge-1.21.1-1.2.2.jar",
+      "sha1": "8d525ab9a7730125d30554f99660afcf55877609",
+      "sha512": "4b4d55bcbcf16098e47f4e34296a795204d3ded6ed43982da6150c991d9aeba09896c04b0f189ddbfdad1bda998097081ec25a969e20c8b60287c9e6b869593f",
+      "fileSize": 73682
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
