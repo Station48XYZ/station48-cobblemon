@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "e0bNACJD",
       "slug": "serene-seasons",
-      "versionId": "SPj5bJoM",
-      "versionNumber": "10.1.0.3",
-      "filename": "SereneSeasons-neoforge-1.21.1-10.1.0.3.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/e0bNACJD/versions/SPj5bJoM/SereneSeasons-neoforge-1.21.1-10.1.0.3.jar",
-      "sha1": "127e4a3e699dafebc512e1fa7983f245b49cb420",
-      "sha512": "8d6c2712019da586c9f3a1372f2951173cd5f7a821645ffa03e4448e56f6b277aab0651307e1d4d9e0944cb02d32b2caff581bde912cb21fc6fd7b7d84655b8c",
-      "fileSize": 159206
+      "versionId": "pHEgQQUE",
+      "versionNumber": "10.1.0.9",
+      "filename": "SereneSeasons-neoforge-1.21.1-10.1.0.9.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/e0bNACJD/versions/pHEgQQUE/SereneSeasons-neoforge-1.21.1-10.1.0.9.jar",
+      "sha1": "6b98eb4e64344bb8aba424187ed08bf04e59dccf",
+      "sha512": "a85209de65af7999b29af850e05ad3a045c208a005ec3a7e4e66a58f1c9d90fda501ba80a6245209a4aad856ee053c21c4f679efe8c02981746e907915e31fe1",
+      "fileSize": 163020
     }
   },
   "dependents": [],

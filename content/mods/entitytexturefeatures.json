@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "BVzZfTc1",
       "slug": "entitytexturefeatures",
-      "versionId": "YEMROAHv",
-      "versionNumber": "7.1-neoforge-1.21",
-      "filename": "entity_texture_features_1.21-neoforge-7.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/BVzZfTc1/versions/YEMROAHv/entity_texture_features_1.21-neoforge-7.1.jar",
-      "sha1": "56de40b237ff44dbf1bb68844e0f118607902684",
-      "sha512": "fc4b6a75ad57defb944d188fac78e45a33342a2c2a2b0e673c81ac370df09335d4371c8e10bea8f593da4b1f1c2fcc361c124b274ee4b3c2ae75571f00742059",
-      "fileSize": 752334
+      "versionId": "XEJeKpgJ",
+      "versionNumber": "7.2.1-neoforge-1.21",
+      "filename": "entity_texture_features-7.2.1-1.21-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/BVzZfTc1/versions/XEJeKpgJ/entity_texture_features-7.2.1-1.21-neoforge.jar",
+      "sha1": "908d09263709193b918fdc9ca0d79c9d90c4a531",
+      "sha512": "8158242ce79b38a613de7696221eae24c9a451040143fbe43f8d8a37329d7debcb6164c0d42177d2f7db306e54f2d7bbd99eee74add39ad3871c70754edd8cb7",
+      "fileSize": 783217
     }
   },
   "dependents": [

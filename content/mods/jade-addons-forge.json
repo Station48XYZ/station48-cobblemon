@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "xuDOzCLy",
       "slug": "jade-addons-forge",
-      "versionId": "qtFPwTFm",
-      "versionNumber": "6.0.1+neoforge",
-      "filename": "JadeAddons-1.21.1-NeoForge-6.0.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/xuDOzCLy/versions/qtFPwTFm/JadeAddons-1.21.1-NeoForge-6.0.1.jar",
-      "sha1": "d0f7cdd391a21b2fba1351ea8263da1b610e2eb1",
-      "sha512": "98fac37037d00ce01a54f7c1c384d3305cc37d9c8c998b54d016f258d7f3bbac6a6644ba3af986f3f4f0ea133155f049bd4eaafa0630e415046d614decb8cc9d",
-      "fileSize": 35812
+      "versionId": "ZHjXkd1n",
+      "versionNumber": "6.1.1+neoforge",
+      "filename": "JadeAddons-1.21.1-NeoForge-6.1.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/xuDOzCLy/versions/ZHjXkd1n/JadeAddons-1.21.1-NeoForge-6.1.1.jar",
+      "sha1": "6c50a845ac3d336fa88e6466c36aa8b3815ca5c5",
+      "sha512": "febdc3d503da6901ae5b4ed4f12b75abc3cb8b96556964acc2587f5809a7d20cff363f4ec4c0ccee6782d5b4c6dff8791e874a7865c93216484039cc103be362",
+      "fileSize": 75431
     }
   },
   "dependents": [],

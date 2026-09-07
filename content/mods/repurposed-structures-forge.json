@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "QDNS5oAT",
       "slug": "repurposed-structures-forge",
-      "versionId": "EkimBMsM",
-      "versionNumber": "7.5.21+1.21.1-neoforge",
-      "filename": "repurposed_structures-7.5.21+1.21.1-neoforge.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/QDNS5oAT/versions/EkimBMsM/repurposed_structures-7.5.21%2B1.21.1-neoforge.jar",
-      "sha1": "243022a3c67726354df6ad63d98a76c2d5dbe973",
-      "sha512": "db8475055b308fda2141e48b0245b47b303207ae683fec200b56412f5ba49eae66a52a62dddc614ae72217fff3f1fb2db2c5bd894234e468600a14a9477898e3",
-      "fileSize": 8245469
+      "versionId": "8duZuWci",
+      "versionNumber": "7.5.22+1.21.1-neoforge",
+      "filename": "repurposed_structures-7.5.22+1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/QDNS5oAT/versions/8duZuWci/repurposed_structures-7.5.22%2B1.21.1-neoforge.jar",
+      "sha1": "a64f6b2d331d5c3a5feefcd18d23f4585a42b097",
+      "sha512": "cb6d22bc8d426aefda37ba63dcd0346db342157500e86782ebf142d09cc81970d4745b81b760a639e5734f91d9f3275d6430d4a8c54dfd8256e732ea682e8bd2",
+      "fileSize": 8246760
     }
   },
   "dependents": [

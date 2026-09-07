@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "nmoqTijg",
       "slug": "sophisticated-core",
-      "versionId": "fNqyH4kb",
-      "versionNumber": "1.21.1-1.4.86.2259",
-      "filename": "sophisticatedcore-1.21.1-1.4.86.2259.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/nmoqTijg/versions/fNqyH4kb/sophisticatedcore-1.21.1-1.4.86.2259.jar",
-      "sha1": "96e2c591322d3e327231f9aa6235dbeb4e12c6ed",
-      "sha512": "666cf86c8f7ccee9bfa280769d067e86abc7fd72c8acf664278c94be04259065416bee6677fd57073a9cb02e59d1ac3c60e5a3b3e8084b9a8587755fc98c9831",
-      "fileSize": 1686817
+      "versionId": "VDVSYWDB",
+      "versionNumber": "1.21.1-1.5.0.2322",
+      "filename": "sophisticatedcore-1.21.1-1.5.0.2322.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/nmoqTijg/versions/VDVSYWDB/sophisticatedcore-1.21.1-1.5.0.2322.jar",
+      "sha1": "ca63a8309de201a29cf4ac9fd2f18c8614d55402",
+      "sha512": "1cd120b568092ec6f9ab1f9a4665c4760482aaf1e18388778970ab7fa7888277a0add876a200cdcb88d1178cf873c2be7fa2656e99324a2708f4f77a3cc559e7",
+      "fileSize": 1782186
     }
   },
   "dependents": [
