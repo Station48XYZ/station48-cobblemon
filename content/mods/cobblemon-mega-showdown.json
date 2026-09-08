@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "SszvX85I",
       "slug": "cobblemon-mega-showdown",
-      "versionId": "xwR6G7pT",
-      "versionNumber": "1.0+1.8+1.21.1-release-hotfix",
-      "filename": "mega_showdown-neoforge-1.0+1.8+1.21.1-release-hotfix.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/SszvX85I/versions/xwR6G7pT/mega_showdown-neoforge-1.0%2B1.8%2B1.21.1-release-hotfix.jar",
-      "sha1": "1e5dcaf94cce37e2ee1869414670b1a94dc2b5f3",
-      "sha512": "5d212aaa9ec3fc71b03e67f47103112ac11b0fc6494bd96080f7f4c22909885edd3cd9ff0243d2393acbe5f3c8e269e05d9e83bd22ff095f030423222e65f4dd",
-      "fileSize": 20231263
+      "versionId": "1SmGI7K1",
+      "versionNumber": "1.0.1+1.8+1.21.1-release",
+      "filename": "mega_showdown-neoforge-1.0.1+1.8+1.21.1-release.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/SszvX85I/versions/1SmGI7K1/mega_showdown-neoforge-1.0.1%2B1.8%2B1.21.1-release.jar",
+      "sha1": "ef8e1b62933169ec7d759a4085a2a7803d9f9449",
+      "sha512": "52b915f1e0fd7757db6691c9183d6f5ff600a991616994b6ce8c02fc7574c0c5980996cc9d8dc4f9342a44078f267977ceefb4a3c1d09f7fc8e31b46a4732098",
+      "fileSize": 20020023
     }
   },
   "dependents": [],

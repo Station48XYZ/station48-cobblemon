@@ -1,6 +1,6 @@
 # Station48 Cobblemon
 
-**Minecraft 1.21.1 · neoforge 21.1.248**, 173 mods (35 dependencies), 1 resource pack
+**Minecraft 1.21.1 · neoforge 21.1.248**, 174 mods (35 dependencies), 1 resource pack
 
 ## Contents
 
@@ -28,7 +28,7 @@
 - [Cobblemon Pokestops](https://modrinth.com/project/cobblemon-pokestops) `1.8.0`
 - [Cobblemon Tablet](https://modrinth.com/project/cobblemon-tablet) `1.3.0`
 - [Cobblemon Torchmaster Fix](https://modrinth.com/project/cobblemon-torchmaster-fix) `1.3.0`
-- [Cobblemon: Mega Showdown](https://modrinth.com/project/cobblemon-mega-showdown) `1.0+1.8+1.21.1-release-hotfix`
+- [Cobblemon: Mega Showdown](https://modrinth.com/project/cobblemon-mega-showdown) `1.0.1+1.8+1.21.1-release`
 - [CobbleSafari](https://modrinth.com/project/cobblesafari) `0.3.5`
 - [Cobbreeding](https://modrinth.com/project/cobbreeding) `2.3.0`
 - [Comforts](https://modrinth.com/project/comforts) `9.0.5+1.21.1`
@@ -93,6 +93,7 @@
 - [Global Packs](https://modrinth.com/project/globalpacks) `21.0.6`
 - [Handcrafted](https://modrinth.com/project/handcrafted) `4.0.3`
 - [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) `1.6.13+1.21.1-neoforge`
+- [Inventory Essentials](https://modrinth.com/project/inventory-essentials) `21.1.18+neoforge-1.21.1`
 - [Iris & Oculus Flywheel Compat](https://modrinth.com/project/iris-flw-compat) `1.21.1+2.4.0-release`
 - [Iris Shaders](https://modrinth.com/project/iris) `1.8.14-beta.1+1.21.1-neoforge`
 - [Iron Furnaces](https://modrinth.com/project/iron-furnaces) `4.3.2`

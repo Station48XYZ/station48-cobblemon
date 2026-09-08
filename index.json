@@ -42,7 +42,7 @@
     },
     {
       "path": "content/mods/balm.json",
-      "sha1": "41655ecaa8ac1f8526d63c3567dabbcaad0211d4"
+      "sha1": "c03f1f5d5cde93b5204309f1347764a2093a81c7"
     },
     {
       "path": "content/mods/bellsandwhistles.json",
@@ -94,7 +94,7 @@
     },
     {
       "path": "content/mods/cobblemon-mega-showdown.json",
-      "sha1": "f420c3f2ced58966b2d4fea098966a1563493436"
+      "sha1": "0075433a79fbc8685f814905f551acc4ae86bd7b"
     },
     {
       "path": "content/mods/cobblemon-move-tutor.json",
@@ -427,6 +427,10 @@
     {
       "path": "content/mods/interiors.json",
       "sha1": "e19c760e4ab8c1bfe66b4266574dbfac4f5090b2"
+    },
+    {
+      "path": "content/mods/inventory-essentials.json",
+      "sha1": "ee7b3f813ec1d29c715fdea66b69beb1f888e53e"
     },
     {
       "path": "content/mods/iris-flw-compat.json",
