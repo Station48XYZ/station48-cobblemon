@@ -26,7 +26,7 @@
     },
     {
       "path": "content/mods/architectury-api.json",
-      "sha1": "145a782db1b1140d7789322f58b0d2c37b19ad69"
+      "sha1": "f50938d0a3a61c31e81ef6ec5b587efe1949c0e1"
     },
     {
       "path": "content/mods/artifacts.json",
@@ -122,7 +122,7 @@
     },
     {
       "path": "content/mods/cobblemon.json",
-      "sha1": "d2db89a110f2fa6cef64326ea3b630677f2bc915"
+      "sha1": "afd01bbc01c7c0346ceb2ef706146b4abd362253"
     },
     {
       "path": "content/mods/cobblesafari.json",
@@ -543,6 +543,10 @@
     {
       "path": "content/mods/moonlight.json",
       "sha1": "9790b55b508629dbcdce6af8ef0eff484a83f473"
+    },
+    {
+      "path": "content/mods/more-cobblemon-tweaks.json",
+      "sha1": "7e67969b9f717387cc3fee723bc0d88926ddc71f"
     },
     {
       "path": "content/mods/mouse-tweaks.json",

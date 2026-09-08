@@ -1,6 +1,6 @@
 # Station48 Cobblemon
 
-**Minecraft 1.21.1 · neoforge 21.1.248**, 171 mods (34 dependencies), 1 resource pack
+**Minecraft 1.21.1 · neoforge 21.1.248**, 172 mods (34 dependencies), 1 resource pack
 
 ## Contents
 
@@ -119,6 +119,7 @@
 - [Macaw's Windows](https://modrinth.com/project/macaws-windows) `2.4.2`
 - [Matthiesen Core](https://modrinth.com/project/matthiesen-core) `1.2.9`
 - [Mineable Spawner](https://modrinth.com/project/mineable-spawner) `v.2.1.1+mod`
+- [MoreCobblemonTweaks](https://modrinth.com/project/more-cobblemon-tweaks) `1.3.4-neoforge`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
 - [Nature's Compass](https://modrinth.com/project/natures-compass) `1.21.1-3.4.0-neoforge`
 - [No Chat Reports](https://modrinth.com/project/no-chat-reports) `NeoForge-1.21.1-v2.9.1`
