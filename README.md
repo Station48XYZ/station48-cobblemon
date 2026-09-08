@@ -1,6 +1,6 @@
 # Station48 Cobblemon
 
-**Minecraft 1.21.1 · neoforge 21.1.248**, 172 mods (34 dependencies), 1 resource pack
+**Minecraft 1.21.1 · neoforge 21.1.248**, 173 mods (35 dependencies), 1 resource pack
 
 ## Contents
 
@@ -143,6 +143,7 @@
 - [Repurposed Structures - Farmer's Delight Compat](https://modrinth.com/project/repurposed-structures-farmers-delight-compat) `7`
 - [Repurposed Structures - Neoforge/Forge](https://modrinth.com/project/repurposed-structures-forge) `7.5.22+1.21.1-neoforge`
 - [ResourcePackCached](https://modrinth.com/project/resourcepackcached) `1.2.5`
+- [RightClickHarvest](https://modrinth.com/project/rightclickharvest) `4.6.1+1.21.1`
 - [ScalableLux](https://modrinth.com/project/scalablelux) `0.1.0.1+neoforge.1cb1e91`
 - [Serene Seasons](https://modrinth.com/project/serene-seasons) `10.1.0.9`
 - [ShatterLib | OctoLib](https://modrinth.com/project/shatterbyte-lib) `0.6.2`

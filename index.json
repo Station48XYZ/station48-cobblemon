@@ -26,7 +26,7 @@
     },
     {
       "path": "content/mods/architectury-api.json",
-      "sha1": "f50938d0a3a61c31e81ef6ec5b587efe1949c0e1"
+      "sha1": "48574ec451f9d007ab67b279adebd5cf2102521f"
     },
     {
       "path": "content/mods/artifacts.json",
@@ -453,6 +453,10 @@
       "sha1": "4762897f3cb4ded69e9fc98441c27594fc467231"
     },
     {
+      "path": "content/mods/jamlib.json",
+      "sha1": "f88996bb3e38434e9bb1ffe9dac95b15486cc637"
+    },
+    {
       "path": "content/mods/jei.json",
       "sha1": "dace93a089c769ff95ebd801ebadf659eceab034"
     },
@@ -659,6 +663,10 @@
     {
       "path": "content/mods/resourcepackcached.json",
       "sha1": "16d7129d140c055ce0d32530b9d446eac7329a38"
+    },
+    {
+      "path": "content/mods/rightclickharvest.json",
+      "sha1": "067aaf7e99271281e6c8c952d268c332e88ab296"
     },
     {
       "path": "content/mods/scalablelux.json",
