@@ -24,7 +24,7 @@
 - [Cobblemon Escape Rope](https://modrinth.com/project/cobblemon-escape-rope) `1.5.0`
 - [Cobblemon Move Tutor](https://modrinth.com/project/cobblemon-move-tutor) `1.5.0`
 - [Cobblemon Poke Power](https://modrinth.com/project/cobblemon-poke-power) `1.1.1`
-- [Cobblemon Pokenav](https://modrinth.com/project/cobblemon-pokenav) `2.4.0`
+- [Cobblemon Pokenav](https://modrinth.com/project/cobblemon-pokenav) `2.4.1`
 - [Cobblemon Pokestops](https://modrinth.com/project/cobblemon-pokestops) `1.8.0`
 - [Cobblemon Tablet](https://modrinth.com/project/cobblemon-tablet) `1.3.0`
 - [Cobblemon Torchmaster Fix](https://modrinth.com/project/cobblemon-torchmaster-fix) `1.3.0`
@@ -162,7 +162,7 @@
 - [Tom's Simple Storage Mod](https://modrinth.com/project/toms-storage) `1.21-2.4.2`
 - [TorchMaster](https://modrinth.com/project/torchmaster) `21.1.11-release`
 - [Vanilla Backport](https://modrinth.com/project/vanillabackport) `1.1.7.10`
-- [Waystones](https://modrinth.com/project/waystones) `21.1.42+neoforge-1.21.1`
+- [Waystones](https://modrinth.com/project/waystones) `21.1.44+neoforge-1.21.1`
 - [What Are They Up To (Watut)](https://modrinth.com/project/what-are-they-up-to) `1.21.0-1.2.7`
 - [Xaero's Minimap](https://modrinth.com/project/xaeros-minimap) `neoforge-1.21.1-26.4.2`
 - [Xaero's World Map](https://modrinth.com/project/xaeros-world-map) `neoforge-1.21.1-1.45.0`
