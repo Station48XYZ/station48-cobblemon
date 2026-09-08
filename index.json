@@ -26,7 +26,7 @@
     },
     {
       "path": "content/mods/architectury-api.json",
-      "sha1": "e522c8f063e016b7d5bd48b8e454349527725f9a"
+      "sha1": "145a782db1b1140d7789322f58b0d2c37b19ad69"
     },
     {
       "path": "content/mods/artifacts.json",
@@ -78,7 +78,7 @@
     },
     {
       "path": "content/mods/cloth-config.json",
-      "sha1": "be5c5422f815cf8ba25149cbae9f9d84c5ee6643"
+      "sha1": "8bcb5a92a9f7039a228539e33d666646f5a5e892"
     },
     {
       "path": "content/mods/clumps.json",
@@ -122,11 +122,15 @@
     },
     {
       "path": "content/mods/cobblemon.json",
-      "sha1": "47dbe6f20486b5a4622058f74c74f4f0add50651"
+      "sha1": "d2db89a110f2fa6cef64326ea3b630677f2bc915"
     },
     {
       "path": "content/mods/cobblesafari.json",
       "sha1": "ea2e2e1642aa9d6ccce450523f0859981300afde"
+    },
+    {
+      "path": "content/mods/cobbreeding.json",
+      "sha1": "5d88e506c2a08c08a83f2934c38a1cd3ebf565e8"
     },
     {
       "path": "content/mods/comforts.json",
@@ -454,7 +458,7 @@
     },
     {
       "path": "content/mods/kotlin-for-forge.json",
-      "sha1": "c58e715714f895da334e000cfec5193769787e92"
+      "sha1": "6ecceedb876ce1fcf2622d6a1c2ba3a5e9b5def9"
     },
     {
       "path": "content/mods/lambdynamiclights.json",
