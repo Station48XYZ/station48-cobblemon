@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "SszvX85I",
       "slug": "cobblemon-mega-showdown",
-      "versionId": "1SmGI7K1",
-      "versionNumber": "1.0.1+1.8+1.21.1-release",
-      "filename": "mega_showdown-neoforge-1.0.1+1.8+1.21.1-release.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/SszvX85I/versions/1SmGI7K1/mega_showdown-neoforge-1.0.1%2B1.8%2B1.21.1-release.jar",
-      "sha1": "ef8e1b62933169ec7d759a4085a2a7803d9f9449",
-      "sha512": "52b915f1e0fd7757db6691c9183d6f5ff600a991616994b6ce8c02fc7574c0c5980996cc9d8dc4f9342a44078f267977ceefb4a3c1d09f7fc8e31b46a4732098",
-      "fileSize": 20020023
+      "versionId": "gKBD3cFm",
+      "versionNumber": "1.0.2+1.8+1.21.1-release",
+      "filename": "mega_showdown-neoforge-1.0.2+1.8+1.21.1-release.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/SszvX85I/versions/gKBD3cFm/mega_showdown-neoforge-1.0.2%2B1.8%2B1.21.1-release.jar",
+      "sha1": "d4228aad058de14edd0fa3a3991f6d16030cdfcd",
+      "sha512": "f9417190277123c00778b438c022cf1606c251e256f2089d7a6c37b43538e40a2fc0a5a196303fa977f84238e71b0b952dd17700080b05e5126d60c193f4cf12",
+      "fileSize": 20019045
     }
   },
   "dependents": [],

@@ -28,7 +28,7 @@
 - [Cobblemon Pokestops](https://modrinth.com/project/cobblemon-pokestops) `1.8.0`
 - [Cobblemon Tablet](https://modrinth.com/project/cobblemon-tablet) `1.3.0`
 - [Cobblemon Torchmaster Fix](https://modrinth.com/project/cobblemon-torchmaster-fix) `1.3.0`
-- [Cobblemon: Mega Showdown](https://modrinth.com/project/cobblemon-mega-showdown) `1.0.1+1.8+1.21.1-release`
+- [Cobblemon: Mega Showdown](https://modrinth.com/project/cobblemon-mega-showdown) `1.0.2+1.8+1.21.1-release`
 - [CobbleSafari](https://modrinth.com/project/cobblesafari) `0.3.5`
 - [Cobbreeding](https://modrinth.com/project/cobbreeding) `2.3.0`
 - [Comforts](https://modrinth.com/project/comforts) `9.0.5+1.21.1`
