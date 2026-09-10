@@ -93,6 +93,10 @@
       "sha1": "0756db628b7c1ab5bedf034cd8e31ad95a584cff"
     },
     {
+      "path": "content/mods/cobblemon-integrations.json",
+      "sha1": "283bad624a7a001fe877dd6d070935ecb4ba9ee6"
+    },
+    {
       "path": "content/mods/cobblemon-mega-showdown.json",
       "sha1": "d757b430e93056a367a00dcd938e1c1a1bb21a4d"
     },
@@ -102,11 +106,11 @@
     },
     {
       "path": "content/mods/cobblemon-poke-power.json",
-      "sha1": "aef755d9b344ba43b224c092601a65300a31d873"
+      "sha1": "a2983f42d3200f1e7294368bc9af4904bb2888b9"
     },
     {
       "path": "content/mods/cobblemon-pokenav.json",
-      "sha1": "1e0ccbf8429f3cb71d25e0e056abfd607b47d3c7"
+      "sha1": "2768e90720ebc0fbb61d5ace8df4b4fdb2f57cbf"
     },
     {
       "path": "content/mods/cobblemon-pokestops.json",
@@ -122,7 +126,7 @@
     },
     {
       "path": "content/mods/cobblemon.json",
-      "sha1": "7dc28d353d5d3d6c6d172aab3af7f005728d6bd1"
+      "sha1": "32fcb79eefb2f2b219cab315c2ef64e995a80b3a"
     },
     {
       "path": "content/mods/cobblesafari.json",
@@ -194,7 +198,7 @@
     },
     {
       "path": "content/mods/create-encapsulated.json",
-      "sha1": "a9be9df11b541d359b1667cb31a8d6eaec06409f"
+      "sha1": "91823606a43588a7476355e9250e1a09247d56cf"
     },
     {
       "path": "content/mods/create-enchantment-industry.json",
@@ -242,7 +246,7 @@
     },
     {
       "path": "content/mods/create-world-of-colors.json",
-      "sha1": "5fdb65e83e8e51299f11a8532f191fdc96388713"
+      "sha1": "5de1b3fcee5025210068513dd3774f7e001c770d"
     },
     {
       "path": "content/mods/create.json",
@@ -398,7 +402,7 @@
     },
     {
       "path": "content/mods/geckolib.json",
-      "sha1": "781da4d5ab870c04f21ee22f1a9ed320bc215f70"
+      "sha1": "4e0b20ea6633ca97400a6a0405fee7cbb7a80b6f"
     },
     {
       "path": "content/mods/glitchcore.json",
@@ -466,7 +470,7 @@
     },
     {
       "path": "content/mods/kotlin-for-forge.json",
-      "sha1": "6ecceedb876ce1fcf2622d6a1c2ba3a5e9b5def9"
+      "sha1": "4424b258e90b0efd4da279785e12741977bfdc08"
     },
     {
       "path": "content/mods/lambdynamiclights.json",

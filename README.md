@@ -1,6 +1,6 @@
 # Station48 Cobblemon
 
-**Minecraft 1.21.1 · neoforge 21.1.248**, 174 mods (35 dependencies), 1 resource pack
+**Minecraft 1.21.1 · neoforge 21.1.248**, 175 mods (35 dependencies), 1 resource pack
 
 ## Contents
 
@@ -22,9 +22,10 @@
 - [Cobblemon Breathers](https://modrinth.com/project/cobblemon-breathers) `1.5.0`
 - [Cobblemon Catch Rate Display](https://modrinth.com/project/catch-rate-display) `2.11.0+neoforge`
 - [Cobblemon Escape Rope](https://modrinth.com/project/cobblemon-escape-rope) `1.5.0`
+- [Cobblemon Integrations](https://modrinth.com/project/cobblemon-integrations) `1.1.8`
 - [Cobblemon Move Tutor](https://modrinth.com/project/cobblemon-move-tutor) `1.5.0`
-- [Cobblemon Poke Power](https://modrinth.com/project/cobblemon-poke-power) `1.1.1`
-- [Cobblemon Pokenav](https://modrinth.com/project/cobblemon-pokenav) `2.4.1`
+- [Cobblemon Poke Power](https://modrinth.com/project/cobblemon-poke-power) `1.2.0`
+- [Cobblemon PokeNav](https://modrinth.com/project/cobblemon-pokenav) `2.4.1`
 - [Cobblemon Pokestops](https://modrinth.com/project/cobblemon-pokestops) `1.8.0`
 - [Cobblemon Tablet](https://modrinth.com/project/cobblemon-tablet) `1.3.0`
 - [Cobblemon Torchmaster Fix](https://modrinth.com/project/cobblemon-torchmaster-fix) `1.3.0`
@@ -49,7 +50,7 @@
 - [Create: Copycats+](https://modrinth.com/project/copycats) `3.0.9+mc.1.21.1-neoforge`
 - [Create: Design n' Decor](https://modrinth.com/project/create-design-n-decor) `2.2b`
 - [Create: Dreams & Desires](https://modrinth.com/project/create-dreams-and-desires) `2.3a-BETA`
-- [Create: Encapsulated](https://modrinth.com/project/create-encapsulated) `1.1.0`
+- [Create: Encapsulated](https://modrinth.com/project/create-encapsulated) `1.1.1`
 - [Create: Enchantment Industry](https://modrinth.com/project/create-enchantment-industry) `2.4.2`
 - [Create: Escalated](https://modrinth.com/project/escalated) `1.3.2`
 - [Create: Extra Gauges](https://modrinth.com/project/extra-gauges) `2.1.3`

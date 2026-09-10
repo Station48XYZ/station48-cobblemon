@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "DLDpwb0R",
       "slug": "create-world-of-colors",
-      "versionId": "DCFGkrWu",
-      "versionNumber": "1.2",
-      "filename": "world_of_color-1.2.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/DLDpwb0R/versions/DCFGkrWu/world_of_color-1.2.jar",
-      "sha1": "7f03d8072b1aa3f45072e595b67c14f2c612ff6c",
-      "sha512": "b34e711b821e3cdbf0ffdb27039c1d8a158846f8ae822b8b3ebb5a7c46174f1c339adcd70547f1dee022495a8926c1cbbd88c9a84e6b5e8357d1e5a04bf4685f",
-      "fileSize": 893192
+      "versionId": "jBxdmYmP",
+      "versionNumber": "1.2.1",
+      "filename": "world_of_color-1.2.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/DLDpwb0R/versions/jBxdmYmP/world_of_color-1.2.1.jar",
+      "sha1": "6f101873e48f68a02ecd59e8c23adfea663b766d",
+      "sha512": "66c8820393f50b71398d1afc024aa8f574444471c4484dc0f53bd4c97b5a60286f692709066458b5d8b789017113aade53952b59ab9b8f173d5360ab4082c5d5",
+      "fileSize": 893183
     }
   },
   "dependents": [
