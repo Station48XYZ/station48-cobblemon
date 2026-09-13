@@ -781,6 +781,18 @@
       "sha1": "5fe1c1560d32efcf5ee9d3c0a21a600aa6f7261a"
     },
     {
+      "path": "content/mods/worldedit-items.json",
+      "sha1": "83f940b4578156e0e8fb43b6b563942636babf06"
+    },
+    {
+      "path": "content/mods/worldedit.json",
+      "sha1": "50d94b06fb277ffc0b946515fc5da0fdcfd8b1d6"
+    },
+    {
+      "path": "content/mods/worldeditcui-forge.json",
+      "sha1": "2cc64caa2e174d6469c7e855b14a50c3ba4a14cb"
+    },
+    {
       "path": "content/mods/xaeros-minimap.json",
       "sha1": "a979c975b332a1b252f3b66a7d07789bac2ba23a"
     },
