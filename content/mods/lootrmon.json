@@ -1,0 +1,23 @@
+{
+  "name": "Lootrmon: Lootr & Cobblemon Gilded Chest Compatibility",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ywwXJDli",
+      "slug": "lootrmon",
+      "versionId": "mWCP4NVW",
+      "versionNumber": "0.0.0.3",
+      "filename": "lootrmon-neoforge-1.21.1-0.0.0.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ywwXJDli/versions/mWCP4NVW/lootrmon-neoforge-1.21.1-0.0.0.3.jar",
+      "sha1": "6aaea2de5eedb7cb1a3aab39136fed78265b8c6b",
+      "sha512": "3993ea70f6dac1db8b9954f6055101dfcd869106d3ad86db80e27711f7e93fa0eb1ca8ffb92ecf63c4f1800f318be02899170511274003cec534d796db55004f",
+      "fileSize": 43426
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

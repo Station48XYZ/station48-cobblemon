@@ -1,6 +1,6 @@
 # Station48 Cobblemon
 
-**Minecraft 1.21.1 · neoforge 21.1.248**, 175 mods (35 dependencies), 5 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.248**, 176 mods (35 dependencies), 5 resource packs
 
 ## Contents
 
@@ -110,6 +110,7 @@
 - [Leaves Be Gone](https://modrinth.com/project/leaves-be-gone) `v21.1.1-1.21.1-NeoForge`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
 - [Lootr](https://modrinth.com/project/lootr) `1.21.1-1.11.38.125`
+- [Lootrmon: Lootr & Cobblemon Gilded Chest Compatibility](https://modrinth.com/project/lootrmon) `0.0.0.3`
 - [Macaw's Bridges](https://modrinth.com/project/macaws-bridges) `3.1.2`
 - [Macaw's Doors](https://modrinth.com/project/macaws-doors) `1.1.5`
 - [Macaw's Fences and Walls](https://modrinth.com/project/macaws-fences-and-walls) `1.2.1`

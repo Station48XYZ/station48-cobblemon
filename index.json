@@ -126,7 +126,7 @@
     },
     {
       "path": "content/mods/cobblemon.json",
-      "sha1": "f26c5b708b77a0b8ee98418adfe02911ca714d2e"
+      "sha1": "36a7f17a0c4bddb1e27d83af00366d01a64f933e"
     },
     {
       "path": "content/mods/cobblesafari.json",
@@ -490,7 +490,11 @@
     },
     {
       "path": "content/mods/lootr.json",
-      "sha1": "ef04473a5747e3d24593bcd2061657a5a629bca4"
+      "sha1": "fc404ce993b27d4fc314b2b2532388c9f9255822"
+    },
+    {
+      "path": "content/mods/lootrmon.json",
+      "sha1": "1cd077349e3872dbfe09ce85b7a5469d9b2d9da2"
     },
     {
       "path": "content/mods/macaws-bridges.json",
