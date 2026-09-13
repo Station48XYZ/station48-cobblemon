@@ -18,18 +18,18 @@
 - [Chef's Delight - Farmer's Delight Villagers](https://modrinth.com/project/chefs-delight) `1.0.5`
 - [Chipped](https://modrinth.com/project/chipped) `4.0.2`
 - [Clumps](https://modrinth.com/project/clumps) `19.0.0.1`
-- [Cobblemon](https://modrinth.com/project/cobblemon) `1.8.0`
+- [Cobblemon](https://modrinth.com/project/cobblemon) `1.8.1`
 - [Cobblemon Breathers](https://modrinth.com/project/cobblemon-breathers) `1.5.0`
 - [Cobblemon Catch Rate Display](https://modrinth.com/project/catch-rate-display) `2.11.0+neoforge`
 - [Cobblemon Escape Rope](https://modrinth.com/project/cobblemon-escape-rope) `1.5.0`
 - [Cobblemon Integrations](https://modrinth.com/project/cobblemon-integrations) `1.1.8`
-- [Cobblemon Move Tutor](https://modrinth.com/project/cobblemon-move-tutor) `1.5.0`
+- [Cobblemon Move Tutor](https://modrinth.com/project/cobblemon-move-tutor) `1.5.2`
 - [Cobblemon Poke Power](https://modrinth.com/project/cobblemon-poke-power) `1.2.0`
 - [Cobblemon PokeNav](https://modrinth.com/project/cobblemon-pokenav) `2.4.1`
 - [Cobblemon Pokestops](https://modrinth.com/project/cobblemon-pokestops) `1.8.0`
 - [Cobblemon Tablet](https://modrinth.com/project/cobblemon-tablet) `1.3.0`
 - [Cobblemon Torchmaster Fix](https://modrinth.com/project/cobblemon-torchmaster-fix) `1.3.0`
-- [Cobblemon: Mega Showdown](https://modrinth.com/project/cobblemon-mega-showdown) `1.0.2+1.8+1.21.1-release`
+- [Cobblemon: Mega Showdown](https://modrinth.com/project/cobblemon-mega-showdown) `1.1.2+1.8+1.21.1-release`
 - [CobbleSafari](https://modrinth.com/project/cobblesafari) `0.3.5`
 - [Cobbreeding](https://modrinth.com/project/cobbreeding) `2.3.0`
 - [Comforts](https://modrinth.com/project/comforts) `9.0.5+1.21.1`
