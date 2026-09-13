@@ -1,0 +1,25 @@
+{
+  "name": "Cobblemon Interface",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "gfiYlQU0",
+      "slug": "cobblemon-interface",
+      "versionId": "8SjyMuZO",
+      "versionNumber": "1.6.0",
+      "filename": "Cobblemon Interface v1.6.0.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/gfiYlQU0/versions/8SjyMuZO/Cobblemon%20Interface%20v1.6.0.zip",
+      "sha1": "f91aa128e036b579fc687e55f9b9a240e3fbf65a",
+      "sha512": "abdcfbebba867f7479080ca52f9ebbaecfdecd5a8b459508426f65543ade53fb8b8761b2f319a9a234167a8f24683334faaadd5134b5748d6a6f152cc9601c54",
+      "fileSize": 14108266
+    }
+  },
+  "dependents": [
+    "5DF3hBIs"
+  ],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Cobblemon Interface [Refined Storage]",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "DXoavTb3",
+      "slug": "cobblemon-interface-rs",
+      "versionId": "CcKlZwDt",
+      "versionNumber": "1.2.1",
+      "filename": "Cobblemon Interface [Refined Storage].zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/DXoavTb3/versions/CcKlZwDt/Cobblemon%20Interface%20%5BRefined%20Storage%5D.zip",
+      "sha1": "ad3ef4a1a7e9b0c8bb07c97624194e0d25844d2e",
+      "sha512": "031ba4e0573c251048f650321ca3b832b77518b27a4201458cfaa0a2814a63ea57bde32a8d0a6cfa7153215b32ec90eac449c732be9327ec5ee2ab8f3f59e1cb",
+      "fileSize": 225662
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

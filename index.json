@@ -646,7 +646,7 @@
     },
     {
       "path": "content/mods/refined-storage.json",
-      "sha1": "2824872065342a1a4397086629c01d3bd4d67c25"
+      "sha1": "84265cca99c18543b628f21ba34ce99d94612363"
     },
     {
       "path": "content/mods/relics-mod.json",
@@ -843,6 +843,18 @@
     {
       "path": "content/resourcepacks/azoth-cobblemon-minimap-icons.json",
       "sha1": "c0007ca302b89c36578db3f342a8afa1592f9815"
+    },
+    {
+      "path": "content/resourcepacks/cobblemon-interface-modded.json",
+      "sha1": "c55232cf867d16af25aaf031e7cfa81cd30e0ccd"
+    },
+    {
+      "path": "content/resourcepacks/cobblemon-interface-rs.json",
+      "sha1": "52c74d4668081bd8d3ceed0d8e24a0f8883c72e3"
+    },
+    {
+      "path": "content/resourcepacks/cobblemon-interface.json",
+      "sha1": "ae04779852b459fa46d9de9944565f2027b623fd"
     },
     {
       "path": "overrides/icon.png",

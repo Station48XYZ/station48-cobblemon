@@ -1,0 +1,23 @@
+{
+  "name": "Cobblemon Interface: Modded",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "5DF3hBIs",
+      "slug": "cobblemon-interface-modded",
+      "versionId": "pfFd0Jh4",
+      "versionNumber": "1.9.4",
+      "filename": "Cobblemon Interface Modded v1.9.4.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/5DF3hBIs/versions/pfFd0Jh4/Cobblemon%20Interface%20Modded%20v1.9.4.zip",
+      "sha1": "0599cd556bafd67537690ebe037bc7e4a88c2542",
+      "sha512": "b7dbf46d50f4c81d793ef79068b00eb9ba3fac3c443485eb4433fe07ed37ff6ab3a77e71c9b956ddc84164f3358b021c595a231abba17ac118c09f20f2cb7fd3",
+      "fileSize": 1053517
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

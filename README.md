@@ -1,6 +1,6 @@
 # Station48 Cobblemon
 
-**Minecraft 1.21.1 · neoforge 21.1.248**, 175 mods (35 dependencies), 1 resource pack
+**Minecraft 1.21.1 · neoforge 21.1.248**, 175 mods (35 dependencies), 4 resource packs
 
 ## Contents
 
@@ -23,6 +23,9 @@
 - [Cobblemon Catch Rate Display](https://modrinth.com/project/catch-rate-display) `2.11.0+neoforge`
 - [Cobblemon Escape Rope](https://modrinth.com/project/cobblemon-escape-rope) `1.5.0`
 - [Cobblemon Integrations](https://modrinth.com/project/cobblemon-integrations) `1.1.8`
+- [Cobblemon Interface](https://modrinth.com/project/cobblemon-interface) `1.6.0`
+- [Cobblemon Interface [Refined Storage]](https://modrinth.com/project/cobblemon-interface-rs) `1.2.1`
+- [Cobblemon Interface: Modded](https://modrinth.com/project/cobblemon-interface-modded) `1.9.4`
 - [Cobblemon Move Tutor](https://modrinth.com/project/cobblemon-move-tutor) `1.5.2`
 - [Cobblemon Poke Power](https://modrinth.com/project/cobblemon-poke-power) `1.2.0`
 - [Cobblemon PokeNav](https://modrinth.com/project/cobblemon-pokenav) `2.4.1`
