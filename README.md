@@ -48,7 +48,7 @@
 - [Create Stuff 'N Additions](https://modrinth.com/project/create-stuff-additions) `2.1.4.b`
 - [Create Train Parts](https://modrinth.com/project/create-train-parts) `0.5.2`
 - [Create: Bells & Whistles](https://modrinth.com/project/bellsandwhistles) `v0.4.7-1.21.1`
-- [Create: Bits 'n' Bobs](https://modrinth.com/project/create-bits-n-bobs) `2.3.2`
+- [Create: Bits 'n' Bobs](https://modrinth.com/project/create-bits-n-bobs) `2.3.4`
 - [Create: Central Kitchen](https://modrinth.com/project/create-central-kitchen) `2.6.0`
 - [Create: Connected](https://modrinth.com/project/create-connected) `1.3.3-mc1.21.1`
 - [Create: Copycats+](https://modrinth.com/project/copycats) `3.0.9+mc.1.21.1-neoforge`
@@ -154,18 +154,18 @@
 - [Serene Seasons](https://modrinth.com/project/serene-seasons) `10.1.0.9`
 - [ShatterLib | OctoLib](https://modrinth.com/project/shatterbyte-lib) `0.6.2`
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.12-neoforge`
-- [Sophisticated Backpacks](https://modrinth.com/project/sophisticated-backpacks) `1.21.1-3.26.1.2124`
-- [Sophisticated Backpacks Create Integration](https://modrinth.com/project/sophisticated-backpacks-create-integration) `1.21.1-0.1.8.134`
-- [Sophisticated Core](https://modrinth.com/project/sophisticated-core) `1.21.1-1.5.0.2322`
+- [Sophisticated Backpacks](https://modrinth.com/project/sophisticated-backpacks) `1.21.1-3.26.3.2158`
+- [Sophisticated Backpacks Create Integration](https://modrinth.com/project/sophisticated-backpacks-create-integration) `1.21.1-0.2.0.168`
+- [Sophisticated Core](https://modrinth.com/project/sophisticated-core) `1.21.1-1.5.1.2341`
 - [Sophisticated Storage](https://modrinth.com/project/sophisticated-storage) `1.21.1-1.5.91.2127`
 - [Sophisticated Storage Create Integration](https://modrinth.com/project/sophisticated-storage-create-integration) `1.21.1-0.1.21.209`
 - [Steam 'n' Rails Neoforge](https://modrinth.com/project/create-steam-n-rails-1.21.1) `0.2.1+neoforge-mc1.21.1`
 - [Straw Statues](https://modrinth.com/project/straw-statues) `v21.1.0-1.21.1-NeoForge`
-- [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-3.9.8`
+- [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-3.9.9`
 - [Terralith](https://modrinth.com/project/terralith) `2.6.2`
 - [Terralith: ReStoned](https://modrinth.com/project/terralith-restoned) `1.3.1`
 - [Tom's Simple Storage Mod](https://modrinth.com/project/toms-storage) `1.21-2.4.2`
-- [TorchMaster](https://modrinth.com/project/torchmaster) `21.1.11-release`
+- [TorchMaster](https://modrinth.com/project/torchmaster) `21.1.12-release`
 - [Vanilla Backport](https://modrinth.com/project/vanillabackport) `1.1.7.10`
 - [Waystones](https://modrinth.com/project/waystones) `21.1.44+neoforge-1.21.1`
 - [What Are They Up To (Watut)](https://modrinth.com/project/what-are-they-up-to) `1.21.0-1.2.7`

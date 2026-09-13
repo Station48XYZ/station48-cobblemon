@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "Tl8ESrhX",
       "slug": "torchmaster",
-      "versionId": "1WtG1xOA",
-      "versionNumber": "21.1.11-release",
-      "filename": "torchmaster-neoforge-1.21.1-21.1.11.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/Tl8ESrhX/versions/1WtG1xOA/torchmaster-neoforge-1.21.1-21.1.11.jar",
-      "sha1": "3d285841584fc0c36db4d3f8b5b05667c116ef6f",
-      "sha512": "67d2f02f2146049dd68e9ee69a8df3149b5af1ed43f44c6111bc03de439a3d8a21eee28cc29f1f39c095edf123465ce6d18d51f65f3013931d3efae5726fd381",
-      "fileSize": 160746
+      "versionId": "H6N0F5PT",
+      "versionNumber": "21.1.12-release",
+      "filename": "torchmaster-neoforge-1.21.1-21.1.12.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Tl8ESrhX/versions/H6N0F5PT/torchmaster-neoforge-1.21.1-21.1.12.jar",
+      "sha1": "5e2818dcb9a09124f691a4e91b38cdaa01528a55",
+      "sha512": "addb7b4971d0d5ffa05ad08e25291b77fbf9f0490223eeb6162563f818cef36b893c5ee9239fd6df4ed042ee4cbea1f6de984e89690311c87624eb254292cefc",
+      "fileSize": 160657
     }
   },
   "dependents": [

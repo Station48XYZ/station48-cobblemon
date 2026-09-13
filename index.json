@@ -162,7 +162,7 @@
     },
     {
       "path": "content/mods/create-bits-n-bobs.json",
-      "sha1": "6a2839bafcc32ec96d891517283dbbbd72c0a579"
+      "sha1": "a95671f41a246290fbcbc919b506a273f0a5a4fe"
     },
     {
       "path": "content/mods/create-central-kitchen.json",
@@ -698,15 +698,15 @@
     },
     {
       "path": "content/mods/sophisticated-backpacks-create-integration.json",
-      "sha1": "ac7daa009a768a43662b38c22a8f07a7fa4d4249"
+      "sha1": "2b2ab9ef4ede9540bc3e0a6856ac947ae9beb5b0"
     },
     {
       "path": "content/mods/sophisticated-backpacks.json",
-      "sha1": "bc34d80d9373a86c2930c2235ec602854b746b98"
+      "sha1": "cf2d483bc49549e9d7a5d6da42fa3e1bfd3a6da0"
     },
     {
       "path": "content/mods/sophisticated-core.json",
-      "sha1": "d53857cb2b8ecbf81e856f23b351bd4b314f436b"
+      "sha1": "190816dd8b83c63e004ef879efa276e604ce69e2"
     },
     {
       "path": "content/mods/sophisticated-storage-create-integration.json",
@@ -734,7 +734,7 @@
     },
     {
       "path": "content/mods/supplementaries.json",
-      "sha1": "8ceb9126eccf267dfa8d7cff6f4cfa20d55bdb51"
+      "sha1": "05fdfec46ab632eb2e260bf4cd71b767daee5b89"
     },
     {
       "path": "content/mods/terrablender.json",
@@ -758,7 +758,7 @@
     },
     {
       "path": "content/mods/torchmaster.json",
-      "sha1": "4e510476c08e7992e0e8e52acd4fc8865fd05b87"
+      "sha1": "336c049aef6534001680ba6b442c8cfb68bbde18"
     },
     {
       "path": "content/mods/txnilib.json",
