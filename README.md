@@ -30,7 +30,7 @@
 - [Cobblemon Move Tutor](https://modrinth.com/project/cobblemon-move-tutor) `1.5.2`
 - [Cobblemon Poke Power](https://modrinth.com/project/cobblemon-poke-power) `1.2.0`
 - [Cobblemon PokeNav](https://modrinth.com/project/cobblemon-pokenav) `2.4.1`
-- [Cobblemon Pokestops](https://modrinth.com/project/cobblemon-pokestops) `1.8.0`
+- [Cobblemon Pokestops](https://modrinth.com/project/cobblemon-pokestops) `1.8.1`
 - [Cobblemon Tablet](https://modrinth.com/project/cobblemon-tablet) `1.3.0`
 - [Cobblemon Torchmaster Fix](https://modrinth.com/project/cobblemon-torchmaster-fix) `1.3.0`
 - [Cobblemon: Mega Showdown](https://modrinth.com/project/cobblemon-mega-showdown) `1.2.0+1.8.1+1.21.1-release`

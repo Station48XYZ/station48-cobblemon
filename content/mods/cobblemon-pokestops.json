@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "3clcaaoH",
       "slug": "cobblemon-pokestops",
-      "versionId": "R7EW1XWN",
-      "versionNumber": "1.8.0",
-      "filename": "cobblemon-pokestops-neoforge-1.8.0.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/3clcaaoH/versions/R7EW1XWN/cobblemon-pokestops-neoforge-1.8.0.jar",
-      "sha1": "37080c7ecccef0049f3144891285f9e6369e70b5",
-      "sha512": "8833eefd2ddaccbe23bff67bfa766b51c45ebb7a8cab13f939b363fb758e75091eb97cde5d69dd4fcb87dbbeaaf72164a3944146787031342b6b8501aa674d3b",
-      "fileSize": 447395
+      "versionId": "9VEs3kpX",
+      "versionNumber": "1.8.1",
+      "filename": "cobblemon-pokestops-neoforge-1.8.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/3clcaaoH/versions/9VEs3kpX/cobblemon-pokestops-neoforge-1.8.1.jar",
+      "sha1": "64a5fb968c66c0885f4a8633ae2f2ed1436e1e19",
+      "sha512": "666497c35bab7ed9b6eecbfe6d8a744a0859d1b26845fb68a85251ca878b24a930c151d4d92424ab60425a66b0d0d563cf65018317539157a0a147dfb071c4c4",
+      "fileSize": 448147
     }
   },
   "dependents": [],
