@@ -1,6 +1,6 @@
 # Station48 Cobblemon
 
-**Minecraft 1.21.1 · neoforge 21.1.248**, 175 mods (35 dependencies), 4 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.248**, 175 mods (35 dependencies), 5 resource packs
 
 ## Contents
 
@@ -10,6 +10,7 @@
 - [Accessories](https://modrinth.com/project/accessories) `1.1.0-beta.53+1.21.1`
 - [Accessories Compatibility Layer](https://modrinth.com/project/accessories-compat-layer) `0.1.12`
 - [Advancement Plaques](https://modrinth.com/project/advancement-plaques) `1.6.8`
+- [AllTheMons x Mega Showdown](https://modrinth.com/project/allthemons-x-mega-showdown-legacy) `v4.0`
 - [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
 - [Artifacts](https://modrinth.com/project/artifacts) `13.2.5`
 - [AZOTH Cobblemon Minimap Icons](https://modrinth.com/project/azoth-cobblemon-minimap-icons) `1.8.0`
