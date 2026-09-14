@@ -1,6 +1,6 @@
 # Station48 Cobblemon
 
-**Minecraft 1.21.1 · neoforge 21.1.248**, 179 mods (35 dependencies), 5 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.248**, 178 mods (35 dependencies), 5 resource packs
 
 ## Contents
 
@@ -172,7 +172,6 @@
 - [What Are They Up To (Watut)](https://modrinth.com/project/what-are-they-up-to) `1.21.0-1.2.7`
 - [WorldEdit](https://modrinth.com/project/worldedit) `7.3.8`
 - [WorldEdit CUI (Unofficial Forge Port)](https://modrinth.com/project/worldeditcui-forge) `1.21.1+01-SNAPSHOT`
-- [WorldEdit Items](https://modrinth.com/project/worldedit-items) `2.0`
 - [Xaero's Minimap](https://modrinth.com/project/xaeros-minimap) `neoforge-1.21.1-26.4.2`
 - [Xaero's World Map](https://modrinth.com/project/xaeros-world-map) `neoforge-1.21.1-1.45.0`
 - [YUNG's Better Caves](https://modrinth.com/project/yungs-better-caves) `1.21.1-NeoForge-3.1.6`
