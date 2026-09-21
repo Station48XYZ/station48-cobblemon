@@ -765,12 +765,16 @@
       "sha1": "c854c80f82fcff558a45042e0af8332873e91463"
     },
     {
+      "path": "overrides/config/craftpresence.json",
+      "sha1": "84ae6ccb56f9ac9bdb77f01e85d5dae56e463c51"
+    },
+    {
       "path": "overrides/config/defaultoptions/keybindings.txt",
       "sha1": "3980ee4c2ef9c44479e87c5145860d633d047e3e"
     },
     {
       "path": "overrides/config/defaultoptions/options.txt",
-      "sha1": "80a912149291274d998324d8e89c8f6fd595b138"
+      "sha1": "ef3b52540c7562fb7cd43e6e40d5182d049a6fde"
     },
     {
       "path": "overrides/icon.png",

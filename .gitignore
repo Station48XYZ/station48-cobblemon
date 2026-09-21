@@ -58,6 +58,7 @@ config/sodium-fingerprint.json
 cobblenav/
 config/*
 !config/defaultoptions/
+!config/craftpresence.json
 options.txt
 !config/defaultoptions/options.txt
 showdown/
