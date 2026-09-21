@@ -59,8 +59,6 @@ cobblenav/
 config/*
 !config/defaultoptions/
 !config/craftpresence.json
-options.txt
-!config/defaultoptions/options.txt
 showdown/
 xaero/
 datapacks/
