@@ -149,6 +149,14 @@
       "sha1": "5d88e506c2a08c08a83f2934c38a1cd3ebf565e8"
     },
     {
+      "path": "content/mods/colorwheel-patcher.json",
+      "sha1": "6fa4e0ab49278a4d3bcdb6bd4db5725daa61bb34"
+    },
+    {
+      "path": "content/mods/colorwheel.json",
+      "sha1": "5c1cd9bab06e6f5f5998dc72dc71bcd27da15bcb"
+    },
+    {
       "path": "content/mods/comforts.json",
       "sha1": "5671d8e7b64494a4a54c9f13222d4ca3686e046f"
     },
@@ -394,7 +402,7 @@
     },
     {
       "path": "content/mods/iris.json",
-      "sha1": "fd3bd04e5b98187bcd19b96d3a9062cd1f560643"
+      "sha1": "89476c516241c754bedc2d62f7e95efe8ba22312"
     },
     {
       "path": "content/mods/iron-furnaces.json",

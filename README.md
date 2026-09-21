@@ -1,6 +1,6 @@
 # Station48 Cobblemon 2.0.0
 
-**Minecraft 1.21.1 · neoforge 21.1.250**, 183 mods, 6 resource packs, 1 shader
+**Minecraft 1.21.1 · neoforge 21.1.250**, 185 mods, 6 resource packs, 1 shader
 
 ## Contents
 
@@ -46,6 +46,8 @@
 - [Cobblemon: Mega Showdown](https://modrinth.com/project/cobblemon-mega-showdown) `1.2.0+1.8.1+1.21.1-release`
 - [CobbleSafari](https://modrinth.com/project/cobblesafari) `0.3.5`
 - [Cobbreeding](https://modrinth.com/project/cobbreeding) `2.3.0`
+- [Colorwheel](https://modrinth.com/project/colorwheel) `1.2.9+mc1.21.1`
+- [Colorwheel Patcher](https://modrinth.com/project/colorwheel-patcher) `1.0.5+mc1.21.1`
 - [Comforts](https://modrinth.com/project/comforts) `9.0.5+1.21.1`
 - [Complementary Shaders - Reimagined](https://modrinth.com/project/complementary-reimagined) `r5.9.1`
 - [Cooking for Blockheads](https://modrinth.com/project/cooking-for-blockheads) `21.1.24+neoforge-1.21.1`
