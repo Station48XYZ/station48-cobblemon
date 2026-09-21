@@ -1,6 +1,6 @@
 # Station48 Cobblemon 2.0.0
 
-**Minecraft 1.21.1 · neoforge 21.1.250**, 184 mods, 6 resource packs, 1 shader
+**Minecraft 1.21.1 · neoforge 21.1.250**, 183 mods, 6 resource packs, 1 shader
 
 ## Contents
 
@@ -23,7 +23,6 @@
 - [Better Ping Display [Forge/NeoForge]](https://modrinth.com/project/better-ping-display) `1.21.1-1.1`
 - [Better Third Person](https://modrinth.com/project/better-third-person) `1.9.0`
 - [Better Tooltips](https://modrinth.com/project/better_tooltips) `1.0.3`
-- [BisectHosting Server Integration Menu](https://modrinth.com/project/bisect-mod) `2.4.4`
 - [Bookshelf](https://modrinth.com/project/bookshelf-lib) `21.1.81`
 - [Caelus API](https://modrinth.com/project/caelus) `7.0.1+1.21.1`
 - [Chef's Delight - Farmer's Delight Villagers](https://modrinth.com/project/chefs-delight) `1.0.5`

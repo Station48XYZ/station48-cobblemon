@@ -65,10 +65,6 @@
       "sha1": "91a6b2af70a3d122cf88dbdfe68d66b804db8527"
     },
     {
-      "path": "content/mods/bisect-mod.json",
-      "sha1": "27a7111f1ff0c5fdbde093f4b3eebb84b0168e27"
-    },
-    {
       "path": "content/mods/bookshelf-lib.json",
       "sha1": "22836cac6fc3ea3fa689649aa43798c5a0cfb3af"
     },
