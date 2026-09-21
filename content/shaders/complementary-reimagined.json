@@ -1,0 +1,23 @@
+{
+  "name": "Complementary Shaders - Reimagined",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "HVnmMxH1",
+      "slug": "complementary-reimagined",
+      "versionId": "ErCjThzb",
+      "versionNumber": "r5.9.1",
+      "filename": "ComplementaryReimagined_r5.9.1.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/HVnmMxH1/versions/ErCjThzb/ComplementaryReimagined_r5.9.1.zip",
+      "sha1": "6a4f2107d25466c5c5bf5b3f5c2a982f940c0e91",
+      "sha512": "b1ae05727dd006b1d95a3cd0830fd593a7372aa28030b17b39e8955d47bad6153a0c40aae440cd168b2faaafa5828d9cbe6b3b66eff087df1f010099d881ee03",
+      "fileSize": 552945
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

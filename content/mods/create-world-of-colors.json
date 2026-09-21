@@ -1,0 +1,25 @@
+{
+  "name": "Create: World of Colors",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "DLDpwb0R",
+      "slug": "create-world-of-colors",
+      "versionId": "1jHtbfXe",
+      "versionNumber": "1.3",
+      "filename": "world_of_color-1.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/DLDpwb0R/versions/1jHtbfXe/world_of_color-1.3.jar",
+      "sha1": "76ba9775094cfa48313e2ad6bbf57baf70d7ffd7",
+      "sha512": "1a9d31fc398bd2658dfc20a55d9cb261e4acad6a5b188ccdf2947486679b916438006a9aa56cb07fd8f69214a510271f24585a80b9a203d19a5f91c34ab141c1",
+      "fileSize": 900549
+    }
+  },
+  "dependents": [
+    "TQjpFpQk"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

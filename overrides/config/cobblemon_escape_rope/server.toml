@@ -1,0 +1,25 @@
+#General Configuration
+[generalConfig]
+	#The number of ticks between server saves. Default is 20 ticks
+	# Default: 20
+	# Range: > 1
+	serverSaveTicks = 20
+
+#Escape Rope Item Configuration
+[escapeRopeItemConfig]
+	#The number of seconds before the Escape Rope can be used again after use. Default is 60 seconds.
+	# Default: 60
+	# Range: > 1
+	cooldownSeconds = 60
+	#The number of seconds it takes to use the Escape Rope. Default is 5 seconds.
+	# Default: 5
+	# Range: > 1
+	useTimeSeconds = 5
+	#The radius in blocks to search for a safe teleport location when using the Escape Rope. Default is 5 blocks.
+	# Default: 5
+	# Range: > 1
+	safeSearchRadius = 5
+	#Whether the Escape Rope item is consumed on use. Default is false.
+	consumeOnUse = false
+	#List of dimension IDs where the Escape Rope cannot be used. Default is an empty list.
+	blacklistedWorlds = []

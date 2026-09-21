@@ -1,0 +1,22 @@
+#Custom Gateways Server Configuration
+[server]
+
+	#Teleport Validation Configuration
+	[server.teleportValidation]
+		#The cooldown in milliseconds between teleportation attempts
+		# Default: 5000
+		# Range: 0 ~ 9223372036854775807
+		cooldownMS = 5000
+		#The radius in blocks to search for a safe teleportation location
+		# Default: 5
+		# Range: > 0
+		safeSearchRadius = 5
+		#Whether to allow non-player entities to teleport using the custom gateways
+		allowNonPlayerTeleport = false
+
+	#Remote Dialer Configuration
+	[server.remoteDialer]
+		#The maximum number of portal entries that can be stored in a Remote Dialer item
+		# Default: 32
+		# Range: > 1
+		maxPortalEntries = 32

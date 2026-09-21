@@ -1,0 +1,23 @@
+{
+  "name": "Cobbreeding",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ItmVb4zY",
+      "slug": "cobbreeding",
+      "versionId": "su1QucoO",
+      "versionNumber": "2.3.0",
+      "filename": "Cobbreeding-neoforge-2.3.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ItmVb4zY/versions/su1QucoO/Cobbreeding-neoforge-2.3.0.jar",
+      "sha1": "872bffd904e9c1058c253e84c59cc6ed08276c08",
+      "sha512": "1f3a2f9c096bcf7a6383dcb3be40937eb99933493b7e8529c4e8c0cd54bfdb2db8696aade592940d531beebff502ec2637d654148422ceca2e6d7e7b060dec9c",
+      "fileSize": 468206
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Refined Storage - Curios Integration",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "s6zjL86N",
+      "slug": "refined-storage-curios-integration",
+      "versionId": "Mth1azz7",
+      "versionNumber": "1.0.0",
+      "filename": "refinedstorage-curios-integration-1.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/s6zjL86N/versions/Mth1azz7/refinedstorage-curios-integration-1.0.0.jar",
+      "sha1": "c3f92aed1475155e83a21fb7e07911878233e15b",
+      "sha512": "868a5c820ad29e66adb92a3691addfccfc4cc6be0a8b6bac5ed4fe930771e67d35de36bb192a69ef3b37b93c35ac87e213a804201a5272a3b9e826cd023a309c",
+      "fileSize": 11177
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

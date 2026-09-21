@@ -1,0 +1,23 @@
+{
+  "name": "InvMoveCompats",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "6IpcGP7T",
+      "slug": "invmovecompats",
+      "versionId": "GjTuFGdp",
+      "versionNumber": "0.5.0+1.21.8-neoforge",
+      "filename": "InvMoveCompats-0.5.0+1.21.8-NeoForge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/6IpcGP7T/versions/GjTuFGdp/InvMoveCompats-0.5.0%2B1.21.8-NeoForge.jar",
+      "sha1": "6cd72da74b8af439c3240e95ae9b0989a2509af1",
+      "sha512": "483a2068957b0b59682b9bc40648709e687d1ea8743403f1a37d8a889939ace70a834c49e8bc875073f50130cb6e4ad793e38b5855930d4c80a021609931fd42",
+      "fileSize": 103185
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

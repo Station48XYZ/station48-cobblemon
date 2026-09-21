@@ -1,0 +1,23 @@
+{
+  "name": "Cobblemon Move Tutor",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "1AYwVfn9",
+      "slug": "cobblemon-move-tutor",
+      "versionId": "eAP4OWVr",
+      "versionNumber": "1.5.2",
+      "filename": "cobblemon-move-tutor-neoforge-1.5.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/1AYwVfn9/versions/eAP4OWVr/cobblemon-move-tutor-neoforge-1.5.2.jar",
+      "sha1": "97278440b87e7f035fa4e04af7e46834dcfeeddf",
+      "sha512": "f15974d5a1cbaea5ddf2f23fc4311a6c5569439a6ff0ffe150a79557ca83c46decd2070ec0f7dbfa24bcd81e4ec266886d5cf13e5c4d27594cf8094784e7a394",
+      "fileSize": 247893
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

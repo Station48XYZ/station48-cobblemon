@@ -1,0 +1,23 @@
+{
+  "name": "Cobblemon Firework Capsules",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "zBOfzARU",
+      "slug": "cobblemon-firework-capsules",
+      "versionId": "ZiubX7UC",
+      "versionNumber": "2.2.0+1.21.1",
+      "filename": "fireworkcapsules-neoforge-2.2.0+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/zBOfzARU/versions/ZiubX7UC/fireworkcapsules-neoforge-2.2.0%2B1.21.1.jar",
+      "sha1": "a277e4f6a6535f0c1b4bd1fdb3245c544de91027",
+      "sha512": "6aef8a4b13bf83fcc9965034d845286ec29e5d5dfa286e8d539eccffc325e6b99cbf36de34d4c26e89f3a1b180b0d61a96553be4e329928c213a70b34caa8e8f",
+      "fileSize": 348224
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

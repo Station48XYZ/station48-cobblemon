@@ -1,0 +1,23 @@
+{
+  "name": "Cobblemon Poke Power",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "lIn7oRFm",
+      "slug": "cobblemon-poke-power",
+      "versionId": "wnDYRtyr",
+      "versionNumber": "1.2.1",
+      "filename": "poke-power-neoforge-1.2.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/lIn7oRFm/versions/wnDYRtyr/poke-power-neoforge-1.2.1.jar",
+      "sha1": "c4ae9a124f884f049f55fa8d00eb4cc7faf57361",
+      "sha512": "7695f1178507e921f40052535daabc91c27012200edf375658d55026a3a995ee612d52f7d3a30331180e024f9d5be59924f1dc6863b0174904aeee1475fb31d5",
+      "fileSize": 127417
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

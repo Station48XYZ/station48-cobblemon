@@ -1,0 +1,23 @@
+{
+  "name": "AZOTH Cobblemon Minimap Icons",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "qYjawZd1",
+      "slug": "azoth-cobblemon-minimap-icons",
+      "versionId": "8hDNDLnh",
+      "versionNumber": "1.8.0",
+      "filename": "AZOTH_Xaeros_Icons_1.8.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/qYjawZd1/versions/8hDNDLnh/AZOTH_Xaeros_Icons_1.8.zip",
+      "sha1": "5111614bec08247fd5d46d67cf4bb79e48f03c78",
+      "sha512": "76848b493b7f881d16a8cc00aa82cb81e42b917f3d3387cd6fd3807daf3eedf57f6dc519b14ce191195020d05c01c115afdc61b11b95f0d9149170adb6295cd7",
+      "fileSize": 4616732
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

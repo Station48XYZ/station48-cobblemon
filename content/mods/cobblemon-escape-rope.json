@@ -1,0 +1,23 @@
+{
+  "name": "Cobblemon Escape Rope",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ygfdaKqd",
+      "slug": "cobblemon-escape-rope",
+      "versionId": "pIGjcHb6",
+      "versionNumber": "1.5.0",
+      "filename": "cobblemon-escape-rope-neoforge-1.5.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ygfdaKqd/versions/pIGjcHb6/cobblemon-escape-rope-neoforge-1.5.0.jar",
+      "sha1": "c1861d10b3bff4e100aa29ccd40719f397b3852a",
+      "sha512": "143a66fd07063e0f380d8c8b5318e40f06640fd61816f940e8a4753b1cfc72a75bf1643abe81549967b8ee8e4f5ea06fa12a582cde2359335228134adc8debaa",
+      "fileSize": 47177
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

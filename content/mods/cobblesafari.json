@@ -1,0 +1,23 @@
+{
+  "name": "CobbleSafari",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "zj3GsKts",
+      "slug": "cobblesafari",
+      "versionId": "vh8hNKTv",
+      "versionNumber": "0.3.5",
+      "filename": "cobblesafari-neoforge-1.21.1-0.3.5.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/zj3GsKts/versions/vh8hNKTv/cobblesafari-neoforge-1.21.1-0.3.5.jar",
+      "sha1": "0490e94090657d31d31184711e8b24a164daaa19",
+      "sha512": "b5cc8c0accf53738632990234d41f214bec5cdf42819dc7dccdf266b5bff7c6faafa1280bdfa712b88a906d0f4fe5208d7754ea6e04e377feb04a4d1914832f4",
+      "fileSize": 53068923
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Better Tooltips",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Z7rKZJ8k",
+      "slug": "better_tooltips",
+      "versionId": "cnt6F6VI",
+      "versionNumber": "1.0.3",
+      "filename": "better_tooltips-1.0.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Z7rKZJ8k/versions/cnt6F6VI/better_tooltips-1.0.3.jar",
+      "sha1": "ac67bc12905121dc52d6403edd2c4cc8d39a6b67",
+      "sha512": "f9f84903c7c5945deed7c4d59a1e5f3a6c6f3625140b81b719e56341a08d49af8b333aacdcffd7bcb5528a59f7207e73afbf121609db793778726e158f614d65",
+      "fileSize": 64441
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

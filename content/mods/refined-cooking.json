@@ -1,0 +1,23 @@
+{
+  "name": "Refined Cooking",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "AOuwe9He",
+      "slug": "refined-cooking",
+      "versionId": "dZHwwuLT",
+      "versionNumber": "6.4.1+neoforge-1.21.1",
+      "filename": "refinedcooking-neoforge-1.21.1-6.4.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/AOuwe9He/versions/dZHwwuLT/refinedcooking-neoforge-1.21.1-6.4.1.jar",
+      "sha1": "73aa19266fe92cdc5c076ef4ea81290d00ab3e5c",
+      "sha512": "13ec212ce757a1733c4fd66eb17da7e2735109760d4ff2bc7804cf826417cc9cc2fb74e42f1e91b4281175d2a4ae1f1999009a721cafb54d827c337dda9397c7",
+      "fileSize": 277151
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

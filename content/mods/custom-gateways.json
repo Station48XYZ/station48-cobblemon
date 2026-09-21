@@ -1,0 +1,23 @@
+{
+  "name": "Custom Gateways",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "p03qyoEL",
+      "slug": "custom-gateways",
+      "versionId": "MgvfRFL8",
+      "versionNumber": "1.0.0",
+      "filename": "custom-gateways-neoforge-1.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/p03qyoEL/versions/MgvfRFL8/custom-gateways-neoforge-1.0.0.jar",
+      "sha1": "afc25b4785f7208de57735df7828f3b0015800b7",
+      "sha512": "cd57babf23275f1839a5eb479bcd65393693d0a2a48f6e420c8ffdf1f8585c4162f2fafda8c8da60e43a59b01fff648ef0428c8184392bac57cf2f54090fe1a8",
+      "fileSize": 433018
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Macaw's Roofs",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "B8jaH3P1",
+      "slug": "macaws-roofs",
+      "versionId": "jiXRXiSt",
+      "versionNumber": "2.3.2",
+      "filename": "mcw-roofs-2.3.2-mc1.21.1neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/B8jaH3P1/versions/jiXRXiSt/mcw-roofs-2.3.2-mc1.21.1neoforge.jar",
+      "sha1": "05806ff152fab56f7c1b4b215d772ea73611283d",
+      "sha512": "c0e82a3d0a3ab2f2fac5fb0bdd7c7c228f084feaa816540d3d9524f341c8b108c3bb1afecadae2e8118e6c93f0e73280c62da1af4349aca87b6aa337e5e22ae4",
+      "fileSize": 1784829
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

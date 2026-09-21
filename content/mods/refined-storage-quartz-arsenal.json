@@ -1,0 +1,23 @@
+{
+  "name": "Refined Storage - Quartz Arsenal",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "gnwGOmBf",
+      "slug": "refined-storage-quartz-arsenal",
+      "versionId": "toDdIhGu",
+      "versionNumber": "1.0.8",
+      "filename": "refinedstorage-quartz-arsenal-neoforge-1.0.8.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/gnwGOmBf/versions/toDdIhGu/refinedstorage-quartz-arsenal-neoforge-1.0.8.jar",
+      "sha1": "510c20c2b4531ceaa99f19ba6bc4671650df7a81",
+      "sha512": "faa6530135978a86b25301dd5a5ec673d9908edde01780e4f7ba72e3ead18a0c142a578c428fe49df650c8cca03ec69cdf7a97012b5852f3514fddd23052c8d9",
+      "fileSize": 67115
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

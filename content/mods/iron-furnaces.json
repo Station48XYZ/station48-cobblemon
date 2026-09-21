@@ -1,0 +1,23 @@
+{
+  "name": "Iron Furnaces",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "yPlaLxD1",
+      "slug": "iron-furnaces",
+      "versionId": "WZ25JeYB",
+      "versionNumber": "4.3.2",
+      "filename": "ironfurnaces-neoforge-1.21.1-4.3.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/yPlaLxD1/versions/WZ25JeYB/ironfurnaces-neoforge-1.21.1-4.3.2.jar",
+      "sha1": "9a40f949ec9794cdef79bdabb61a12a918613194",
+      "sha512": "88edbca1bd136dddba6da253973800771d5ca3c5632429c4d502326d640da2868f47a41f752492b4bbaf15357652a31c944af23f398b5d480a2e5318860fe7ea",
+      "fileSize": 576866
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

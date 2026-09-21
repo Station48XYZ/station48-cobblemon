@@ -1,0 +1,45 @@
+#General Configuration
+[generalConfig]
+	#How much air supply is recovered per tick when the player is not underwater.
+	# Default: 50
+	# Range: > 1
+	airSupplyRecovery = 50
+
+#Max Air Configuration
+[maxAirConfig]
+	#The maximum air supply for a Mk1 ReBreather.
+	# Default: 300
+	# Range: > 1
+	mk1 = 300
+	#The maximum air supply for a Mk2 ReBreather.
+	# Default: 600
+	# Range: > 1
+	mk2 = 600
+	#The maximum air supply for a Mk3 ReBreather.
+	# Default: 1200
+	# Range: > 1
+	mk3 = 1200
+
+#Effect Control Configuration
+[effectControlConfig]
+	#Whether the ReBreather effect should show ambient particles.
+	showAmbient = false
+	#Whether the ReBreather effect should be visible.
+	visible = false
+
+#Breather Upgrade Enchantment Configuration
+[upgradeEnchantConfig]
+	#Whether the ReBreather Upgrade enchantment should disable the ReBreather effect.
+	disableEnchantmentEffect = false
+	#How much air supply is added to the ReBreather when the ReBreather Upgrade enchantment is at level 1.
+	# Default: 200
+	# Range: > 1
+	levelOneAirAddition = 200
+	#How much air supply is added to the ReBreather when the ReBreather Upgrade enchantment is at level 2.
+	# Default: 800
+	# Range: > 1
+	levelTwoAirAddition = 800
+	#How much air supply is added to the ReBreather when the ReBreather Upgrade enchantment is at level 3.
+	# Default: 2000
+	# Range: > 1
+	levelThreeAirAddition = 2000

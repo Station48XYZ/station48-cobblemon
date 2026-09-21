@@ -1,0 +1,23 @@
+{
+  "name": "Enhanced Attack Indicator",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "eTy17BBS",
+      "slug": "enhanced-attack-indicator",
+      "versionId": "cmUdkoBd",
+      "versionNumber": "1.1.1+1.21-neo",
+      "filename": "enhanced_attack_indicator-1.1.1+1.21-forge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/eTy17BBS/versions/cmUdkoBd/enhanced_attack_indicator-1.1.1%2B1.21-forge.jar",
+      "sha1": "6385328b41fedce7faedefe9c9e86b99b79e6918",
+      "sha512": "bb91ab0e2c5d4f951f0cd1b113003cdba1571a97e6cb6621d25a979b09060964c3056c1bd36f98771092d69407dffe3f7581630114fe9065c80a95f0ff3a6906",
+      "fileSize": 13371
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,0 +1,4 @@
+#Startup Settings
+[startupSettings]
+	#Whether Pokestops should have block collision. Default is true.
+	pokestopsBlockCollision = true

@@ -1,0 +1,23 @@
+{
+  "name": "Create: Deployer API",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "OZhUIuou",
+      "slug": "deployer",
+      "versionId": "ltYnbVvP",
+      "versionNumber": "0.1.3",
+      "filename": "deployer-0.1.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/OZhUIuou/versions/ltYnbVvP/deployer-0.1.3.jar",
+      "sha1": "e3a39672f10f2d141ef87e69fd1615042c4985d3",
+      "sha512": "cc861ddf24ac456fcc1e7b53af06771a32b0f1b733877a98ea48140481f983d8f008118a22ccb4c78570a41ca208a298412873d87f9e54dacd8c4af6db0f9f64",
+      "fileSize": 2022337
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

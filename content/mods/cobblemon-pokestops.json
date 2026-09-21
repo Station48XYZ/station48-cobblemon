@@ -1,0 +1,23 @@
+{
+  "name": "Cobblemon Pokestops",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "3clcaaoH",
+      "slug": "cobblemon-pokestops",
+      "versionId": "tg5KLRRt",
+      "versionNumber": "1.9.2",
+      "filename": "cobblemon-pokestops-neoforge-1.9.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/3clcaaoH/versions/tg5KLRRt/cobblemon-pokestops-neoforge-1.9.2.jar",
+      "sha1": "ed9b452f68821a9a39f95d9e93a447bc948ce152",
+      "sha512": "4ac41416e3722347f32be0b24f2711fcddef3f77c4292d2ae5435c3fcb9d43892e353d3825fbd45b04a2e8526982e9553a2306155fb60bd5ce80b23255a1feda",
+      "fileSize": 457299
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

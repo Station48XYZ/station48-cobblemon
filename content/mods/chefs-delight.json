@@ -1,0 +1,23 @@
+{
+  "name": "Chef's Delight - Farmer's Delight Villagers",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "pvcsfne4",
+      "slug": "chefs-delight",
+      "versionId": "csBO1q5h",
+      "versionNumber": "1.0.5",
+      "filename": "chefsdelight-1.0.5-neoforge-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/pvcsfne4/versions/csBO1q5h/chefsdelight-1.0.5-neoforge-1.21.1.jar",
+      "sha1": "2ee0923d811a15e1d9dab536a940e4ac0143a4fa",
+      "sha512": "ea8bb83fd10a9936d52c72b7952ab46674ca3426d741a7e42f301df19e1474b47594ab9ad1b8b424011305f58146522afe4e991d79920a59f7ff066dd9ae620a",
+      "fileSize": 95250
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

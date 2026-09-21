@@ -1,0 +1,23 @@
+{
+  "name": "Create: Central Kitchen",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "btq68HMO",
+      "slug": "create-central-kitchen",
+      "versionId": "FaEwZ1Pr",
+      "versionNumber": "2.6.1",
+      "filename": "create-central-kitchen-2.6.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/btq68HMO/versions/FaEwZ1Pr/create-central-kitchen-2.6.1.jar",
+      "sha1": "9fcc2a9fc0c575ab0fc220fdb066f06fd1bcb635",
+      "sha512": "aa94f2092467f546f76b084d20d31bcd97549587e887e0734f10ac0585995870899fe27a9d522dc37e82f5c8ca7f1775843917e40bfab78370c021a27b6fec91",
+      "fileSize": 496871
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Tom's Cobblemoned",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "pWmAI3CI",
+      "slug": "toms-cobblemoned",
+      "versionId": "6HzN6Qz3",
+      "versionNumber": "1",
+      "filename": "Tom's Cobblemoned.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/pWmAI3CI/versions/6HzN6Qz3/Tom%27s%20Cobblemoned.zip",
+      "sha1": "5b129eea004df92cdaa23e33f777453713121a3f",
+      "sha512": "c1e13f3c91e4b94aa59b72c78e2f39504b0fa474e7641efdd75b3eeda2a6d34ee6653ace6d6a7e02665fdeaf2829573c52d6eb1d006333f03247becc5e8aaa83",
+      "fileSize": 51469
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}
