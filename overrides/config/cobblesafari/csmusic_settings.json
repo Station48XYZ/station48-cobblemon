@@ -1,7 +1,0 @@
-{
-  "enabled": true,
-  "defaultAreaPriority": 1,
-  "structureCacheTtlTicks": 600,
-  "arbitrationIntervalTicks": 5,
-  "repeatBeforeShuffle": 2
-}

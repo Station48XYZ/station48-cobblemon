@@ -1,4 +1,0 @@
-#Hud Configuration
-[hudConfig]
-	#Disable the in-game overlay for Breathers.
-	disableInGameOverlay = false

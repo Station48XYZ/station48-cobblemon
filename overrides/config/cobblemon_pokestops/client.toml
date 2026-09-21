@@ -1,8 +1,0 @@
-#Client Settings
-[client]
-	#Whether Pokestops should have beacon beams. Default is true.
-	pokestopBeaconBeamsEnabled = true
-	#The distance in blocks when a beacon beam from a Pokestop should be hidden when approaching. Default is 12.0 blocks.
-	# Default: 12.0
-	# Range: 1.0 ~ 256.0
-	pokestopBeaconHideDistance = 12.0
