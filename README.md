@@ -1,6 +1,6 @@
 # Station48 Cobblemon 2.0.0
 
-**Minecraft 1.21.1 · neoforge 21.1.250**, 185 mods, 6 resource packs, 1 shader
+**Minecraft 1.21.1 · neoforge 21.1.250**, 189 mods, 6 resource packs, 1 shader
 
 ## Contents
 
@@ -84,6 +84,7 @@
 - [Create: World of Colors](https://modrinth.com/project/create-world-of-colors) `1.3`
 - [Curios API](https://modrinth.com/project/curios) `9.5.1+1.21.1`
 - [Custom Gateways](https://modrinth.com/project/custom-gateways) `1.0.0`
+- [Data Anchor](https://modrinth.com/project/data-anchor) `2.0.0.17-neoforge`
 - [Default Options](https://modrinth.com/project/default-options) `21.1.8+neoforge-1.21.1`
 - [Dynamic Crosshair](https://modrinth.com/project/dynamiccrosshair) `9.11+1.21.1-neoforge`
 - [Easy Piglins](https://modrinth.com/project/easy-piglins) `neoforge-1.21.1-1.1.0`
@@ -97,6 +98,7 @@
 - [Enchanting Infuser](https://modrinth.com/project/enchanting-infuser) `v21.1.4-1.21.1-NeoForge`
 - [Enchantment Descriptions](https://modrinth.com/project/enchantment-descriptions) `21.1.11`
 - [Enhanced Attack Indicator](https://modrinth.com/project/enhanced-attack-indicator) `1.1.1+1.21-neo`
+- [Enhanced Celestials](https://modrinth.com/project/enhanced-celestials) `6.0.2.6-neoforge`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.10.5`
 - [Explorer's Compass](https://modrinth.com/project/explorers-compass) `1.21.1-3.4.0-neoforge`
 - [Falling Leaves (NeoForge/Forge)](https://modrinth.com/project/fallingleavesforge) `1.21.1-2.5.1`
@@ -106,6 +108,7 @@
 - [Functional Storage](https://modrinth.com/project/functional-storage) `1.21-1.5.7`
 - [Fusion (Connected Textures)](https://modrinth.com/project/fusion-connected-textures) `1.3.15a-neoforge-mc1.21.1`
 - [Geckolib](https://modrinth.com/project/geckolib) `4.9.3`
+- [GlitchCore](https://modrinth.com/project/glitchcore) `2.1.0.2`
 - [Handcrafted](https://modrinth.com/project/handcrafted) `4.0.3`
 - [InvMove](https://modrinth.com/project/invmove) `0.9.3+1.21.1-neoforge`
 - [InvMoveCompats](https://modrinth.com/project/invmovecompats) `0.5.0+1.21.8-neoforge`
@@ -164,6 +167,7 @@
 - [Refined Storage - EMI Integration](https://modrinth.com/project/refined-storage-emi-integration) `1.0.0`
 - [Refined Storage - Quartz Arsenal](https://modrinth.com/project/refined-storage-quartz-arsenal) `1.0.8`
 - [Resourceful Lib](https://modrinth.com/project/resourceful-lib) `3.0.12`
+- [Serene Seasons](https://modrinth.com/project/serene-seasons) `10.1.0.9`
 - [Shulker Box Tooltip](https://modrinth.com/project/shulkerboxtooltip) `5.1.9+1.21.1-neoforge`
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-neoforge`
 - [Sodium Extra](https://modrinth.com/project/sodium-extra) `mc1.21.1-0.9.3+neoforge`

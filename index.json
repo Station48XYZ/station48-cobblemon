@@ -170,7 +170,7 @@
     },
     {
       "path": "content/mods/corgilib.json",
-      "sha1": "7889a15647e03c847914052a5ed096438d9a50fd"
+      "sha1": "ac99fa832022c87955a5723de786ed4d3efba088"
     },
     {
       "path": "content/mods/coroutil.json",
@@ -277,6 +277,10 @@
       "sha1": "78914d6567f96c4146671d8abae2cc67a692c5f4"
     },
     {
+      "path": "content/mods/data-anchor.json",
+      "sha1": "6316d879521b9fb68b51f54e567a1ef9fb1a8382"
+    },
+    {
       "path": "content/mods/default-options.json",
       "sha1": "7f3a0becde66b176a9bc587744e1aa3f10179a2c"
     },
@@ -333,6 +337,10 @@
       "sha1": "976d8711d79431c87eaa1f50413bd3ed5f7e2ca6"
     },
     {
+      "path": "content/mods/enhanced-celestials.json",
+      "sha1": "98a55d6675d050b70d20d60b66a8c67aad8d8b1b"
+    },
+    {
       "path": "content/mods/entity-model-features.json",
       "sha1": "26a3e6a22ce3d33a20d62a5c5dc01bf54a8d854f"
     },
@@ -379,6 +387,10 @@
     {
       "path": "content/mods/geckolib.json",
       "sha1": "e839ff0804253b5fadc1dc6320153228c2f9d3ee"
+    },
+    {
+      "path": "content/mods/glitchcore.json",
+      "sha1": "df1c75753311738c9329634c5a5b65436fd229a0"
     },
     {
       "path": "content/mods/handcrafted.json",
@@ -615,6 +627,10 @@
     {
       "path": "content/mods/resourceful-lib.json",
       "sha1": "3d65d0fcf45530c0949075170626dd10240ca951"
+    },
+    {
+      "path": "content/mods/serene-seasons.json",
+      "sha1": "1c2903cc12ea04eb3f58e61cb747a8882d3fbc3f"
     },
     {
       "path": "content/mods/shulkerboxtooltip.json",
