@@ -58,6 +58,7 @@ cobblenav/
 config/*
 !config/defaultoptions/
 !config/craftpresence.json
+!config/default_server_listings.toml
 showdown/
 xaero/
 datapacks/
