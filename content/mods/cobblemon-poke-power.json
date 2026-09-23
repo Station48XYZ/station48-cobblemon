@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "lIn7oRFm",
       "slug": "cobblemon-poke-power",
-      "versionId": "wnDYRtyr",
-      "versionNumber": "1.2.1",
-      "filename": "poke-power-neoforge-1.2.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/lIn7oRFm/versions/wnDYRtyr/poke-power-neoforge-1.2.1.jar",
-      "sha1": "c4ae9a124f884f049f55fa8d00eb4cc7faf57361",
-      "sha512": "7695f1178507e921f40052535daabc91c27012200edf375658d55026a3a995ee612d52f7d3a30331180e024f9d5be59924f1dc6863b0174904aeee1475fb31d5",
-      "fileSize": 127417
+      "versionId": "NCCUVz0k",
+      "versionNumber": "1.2.2",
+      "filename": "poke-power-neoforge-1.2.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/lIn7oRFm/versions/NCCUVz0k/poke-power-neoforge-1.2.2.jar",
+      "sha1": "633325e354eb30d8a1a2cbf8ad54122c6ce6ca7b",
+      "sha512": "b2a482cf2744338b1b0044d01c93937ed54e637bbb1f2dc875b842f4ca6140c3f047ec6b0cddf4aeecc9ac439ce0eb4797517225d7ac1e6dfc324638c9e69af4",
+      "fileSize": 127200
     }
   },
   "dependents": [],

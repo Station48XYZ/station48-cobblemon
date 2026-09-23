@@ -37,7 +37,7 @@
 - [Cobblemon Interface](https://modrinth.com/project/cobblemon-interface) `1.6.0`
 - [Cobblemon Interface: Modded](https://modrinth.com/project/cobblemon-interface-modded) `1.9.4`
 - [Cobblemon Move Tutor](https://modrinth.com/project/cobblemon-move-tutor) `1.5.2`
-- [Cobblemon Poke Power](https://modrinth.com/project/cobblemon-poke-power) `1.2.1`
+- [Cobblemon Poke Power](https://modrinth.com/project/cobblemon-poke-power) `1.2.2`
 - [Cobblemon PokeNav](https://modrinth.com/project/cobblemon-pokenav) `2.4.1`
 - [Cobblemon Pokestops](https://modrinth.com/project/cobblemon-pokestops) `1.9.2`
 - [Cobblemon Raid Dens](https://modrinth.com/project/cobblemonraiddens) `0.12.1+1.21.1`
