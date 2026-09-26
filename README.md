@@ -44,7 +44,7 @@
 - [Cobblemon Tablet](https://modrinth.com/project/cobblemon-tablet) `1.3.0`
 - [Cobblemon Torchmaster Fix](https://modrinth.com/project/cobblemon-torchmaster-fix) `1.3.0`
 - [Cobblemon: Mega Showdown](https://modrinth.com/project/cobblemon-mega-showdown) `1.2.0+1.8.1+1.21.1-release`
-- [CobbleSafari](https://modrinth.com/project/cobblesafari) `0.3.5`
+- [CobbleSafari](https://modrinth.com/project/cobblesafari) `0.3.5fix`
 - [Cobbreeding](https://modrinth.com/project/cobbreeding) `2.3.0`
 - [Colorwheel](https://modrinth.com/project/colorwheel) `1.2.9+mc1.21.1`
 - [Colorwheel Patcher](https://modrinth.com/project/colorwheel-patcher) `1.0.5+mc1.21.1`
