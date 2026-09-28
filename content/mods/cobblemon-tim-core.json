@@ -1,0 +1,25 @@
+{
+  "name": "Cobblemon Tim Core",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "lVP9aUaY",
+      "slug": "cobblemon-tim-core",
+      "versionId": "InHE3q8e",
+      "versionNumber": "1.8.1-neoforge-1.33.1",
+      "filename": "timcore-neoforge-1.8.1-1.33.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/lVP9aUaY/versions/InHE3q8e/timcore-neoforge-1.8.1-1.33.1.jar",
+      "sha1": "99e3eb501c5599266936d9a9517cb6619a5ec9e5",
+      "sha512": "cdb45abb8edf16c98cff77e76c0c18d94d5f0e0dcf7c419c36ef280f70aea385909a1ccf51d86dc31b123e3e38787b408a612a47a9c3c9d7563f980e80385c3c",
+      "fileSize": 310473
+    }
+  },
+  "dependents": [
+    "LBl4Qguc"
+  ],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

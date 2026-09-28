@@ -1,6 +1,6 @@
 # Station48 Cobblemon 2.0.0
 
-**Minecraft 1.21.1 · neoforge 21.1.250**, 189 mods, 6 resource packs, 1 shader
+**Minecraft 1.21.1 · neoforge 21.1.250**, 191 mods, 6 resource packs, 1 shader
 
 ## Contents
 
@@ -30,6 +30,7 @@
 - [Clumps](https://modrinth.com/project/clumps) `19.0.0.1`
 - [Cobblemon](https://modrinth.com/project/cobblemon) `1.8.1`
 - [Cobblemon Breathers](https://modrinth.com/project/cobblemon-breathers) `1.5.0`
+- [Cobblemon Capture XP](https://modrinth.com/project/cobblemon-capture-xp) `1.8.1-neoforge-1.3.0`
 - [Cobblemon Catch Rate Display](https://modrinth.com/project/catch-rate-display) `2.12.3+neoforge`
 - [Cobblemon Escape Rope](https://modrinth.com/project/cobblemon-escape-rope) `1.5.0`
 - [Cobblemon Firework Capsules](https://modrinth.com/project/cobblemon-firework-capsules) `2.2.0+1.21.1`
@@ -42,6 +43,7 @@
 - [Cobblemon Pokestops](https://modrinth.com/project/cobblemon-pokestops) `1.9.2`
 - [Cobblemon Raid Dens](https://modrinth.com/project/cobblemonraiddens) `0.12.1+1.21.1`
 - [Cobblemon Tablet](https://modrinth.com/project/cobblemon-tablet) `1.3.0`
+- [Cobblemon Tim Core](https://modrinth.com/project/cobblemon-tim-core) `1.8.1-neoforge-1.33.1`
 - [Cobblemon Torchmaster Fix](https://modrinth.com/project/cobblemon-torchmaster-fix) `1.3.0`
 - [Cobblemon: Mega Showdown](https://modrinth.com/project/cobblemon-mega-showdown) `1.2.0+1.8.1+1.21.1-release`
 - [CobbleSafari](https://modrinth.com/project/cobblesafari) `0.3.5fix`

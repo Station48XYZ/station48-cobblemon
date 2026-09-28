@@ -93,6 +93,10 @@
       "sha1": "dde3ad7648fb3a54005a4dfb850f9b394fb8e228"
     },
     {
+      "path": "content/mods/cobblemon-capture-xp.json",
+      "sha1": "ea255a10a5af33ea3bc258c02b29c08a4d1277a2"
+    },
+    {
       "path": "content/mods/cobblemon-escape-rope.json",
       "sha1": "0756db628b7c1ab5bedf034cd8e31ad95a584cff"
     },
@@ -129,12 +133,16 @@
       "sha1": "11eb2d13ad1717da73d3f37bd9ea9691f8d51d1a"
     },
     {
+      "path": "content/mods/cobblemon-tim-core.json",
+      "sha1": "a8bcefd9ac5f9c8938b131cbe2423fc7dbc94c61"
+    },
+    {
       "path": "content/mods/cobblemon-torchmaster-fix.json",
       "sha1": "631e129ce6f6ff2437d68ddad630481f7bf7c643"
     },
     {
       "path": "content/mods/cobblemon.json",
-      "sha1": "9b91905acb0eeb01c0c0453cc21f66b182df79a2"
+      "sha1": "730fe35b95311d9f6c056aa836c613468c82bbdb"
     },
     {
       "path": "content/mods/cobblemonraiddens.json",
