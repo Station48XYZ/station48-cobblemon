@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "zj3GsKts",
       "slug": "cobblesafari",
-      "versionId": "V6vaPO6g",
-      "versionNumber": "0.3.5fix",
+      "versionId": "WpFuTDSO",
+      "versionNumber": "0.3.5-fix",
       "filename": "cobblesafari-neoforge-1.21.1-0.3.5fix.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/zj3GsKts/versions/V6vaPO6g/cobblesafari-neoforge-1.21.1-0.3.5fix.jar",
-      "sha1": "963b6108b959dfbb23036e05d000ac81acea1fd2",
-      "sha512": "5ad8821088f103d808412b996ab08f6744b2d71371baa42e9e69d40e7ae5e0431fb67a0c813f5f03f75c04743cc3f4e3e1079294eb9ce92640e3e59ea67ab30a",
-      "fileSize": 53063297
+      "downloadUrl": "https://cdn.modrinth.com/data/zj3GsKts/versions/WpFuTDSO/cobblesafari-neoforge-1.21.1-0.3.5fix.jar",
+      "sha1": "a727874fd46b1086287374b3e280a781c5ab1500",
+      "sha512": "931b5cdc2ef5e52be4b4934f179065659a3f9b0fb1c6f8cf20586245c448a9708b7b8101edbbd859f88de93734811a319e313044b02f3f4622715e24618f944d",
+      "fileSize": 80712650
     }
   },
   "dependents": [],
