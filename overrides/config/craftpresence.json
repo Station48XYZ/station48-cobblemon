@@ -524,7 +524,8 @@
     "dynamicIcons": {
       "localhost": "https://api.mcsrvstat.us/icon/localhost",
       "73.24.74.7": "https://api.mcsrvstat.us/icon/73.24.74.7",
-      "Veraxiel": "https://crafatar.com/avatars/1db4f9a387894c739a6c179f8ecf91f1"
+      "Veraxiel": "https://crafatar.com/avatars/1db4f9a387894c739a6c179f8ecf91f1",
+      "play.station48.xyz": "https://api.mcsrvstat.us/icon/play.station48.xyz"
     },
     "dynamicVariables": {
       "mods": "{general.mods} Mod(s)",

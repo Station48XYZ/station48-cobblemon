@@ -794,7 +794,7 @@
     },
     {
       "path": "overrides/config/craftpresence.json",
-      "sha1": "f7aa0d3c48fb17a491f2d6c15db37ddf1fad5def"
+      "sha1": "ada878ca33c4508168455998b319d9f912ceace6"
     },
     {
       "path": "overrides/config/defaultoptions/keybindings.txt",
@@ -802,7 +802,7 @@
     },
     {
       "path": "overrides/config/defaultoptions/options.txt",
-      "sha1": "ef3b52540c7562fb7cd43e6e40d5182d049a6fde"
+      "sha1": "b6461e4efbdb1b47fe1d76e91dccd5cb3afd2a47"
     },
     {
       "path": "overrides/icon.png",
