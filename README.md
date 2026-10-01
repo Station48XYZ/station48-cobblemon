@@ -1,6 +1,6 @@
 # Station48 Cobblemon 2.0.0
 
-**Minecraft 1.21.1 · neoforge 21.1.250**, 191 mods, 6 resource packs, 1 shader
+**Minecraft 1.21.1 · neoforge 21.1.250**, 190 mods, 5 resource packs, 1 shader
 
 ## Contents
 
@@ -43,7 +43,7 @@
 - [Cobblemon Pokestops](https://modrinth.com/project/cobblemon-pokestops) `1.9.2`
 - [Cobblemon Raid Dens](https://modrinth.com/project/cobblemonraiddens) `0.12.1+1.21.1`
 - [Cobblemon Tablet](https://modrinth.com/project/cobblemon-tablet) `1.3.0`
-- [Cobblemon Tim Core](https://modrinth.com/project/cobblemon-tim-core) `1.8.1-neoforge-1.33.1`
+- [Cobblemon Tim Core](https://modrinth.com/project/cobblemon-tim-core) `1.8.1-neoforge-1.33.2`
 - [Cobblemon Torchmaster Fix](https://modrinth.com/project/cobblemon-torchmaster-fix) `1.3.0`
 - [Cobblemon: Mega Showdown](https://modrinth.com/project/cobblemon-mega-showdown) `1.2.0+1.8.1+1.21.1-release`
 - [CobbleSafari](https://modrinth.com/project/cobblesafari) `0.3.5-fix`
@@ -88,7 +88,7 @@
 - [Custom Gateways](https://modrinth.com/project/custom-gateways) `1.0.0`
 - [Data Anchor](https://modrinth.com/project/data-anchor) `2.0.0.17-neoforge`
 - [Default Options](https://modrinth.com/project/default-options) `21.1.8+neoforge-1.21.1`
-- [Dynamic Crosshair](https://modrinth.com/project/dynamiccrosshair) `9.11+1.21.1-neoforge`
+- [Default Server Listings](https://modrinth.com/project/default-server-listings) `1.0.0`
 - [Easy Piglins](https://modrinth.com/project/easy-piglins) `neoforge-1.21.1-1.1.0`
 - [Easy Villagers](https://modrinth.com/project/easy-villagers) `neoforge-1.21.1-1.1.42`
 - [ElevatorMod](https://modrinth.com/project/elevatormod) `neoforge-1.21.1-1.11.4`
@@ -100,7 +100,7 @@
 - [Enchanting Infuser](https://modrinth.com/project/enchanting-infuser) `v21.1.4-1.21.1-NeoForge`
 - [Enchantment Descriptions](https://modrinth.com/project/enchantment-descriptions) `21.1.11`
 - [Enhanced Attack Indicator](https://modrinth.com/project/enhanced-attack-indicator) `1.1.1+1.21-neo`
-- [Enhanced Celestials](https://modrinth.com/project/enhanced-celestials) `6.0.2.6-neoforge`
+- [Enhanced Celestials](https://modrinth.com/project/enhanced-celestials) `6.0.2.5-neoforge`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.10.5`
 - [Explorer's Compass](https://modrinth.com/project/explorers-compass) `1.21.1-3.4.0-neoforge`
 - [Falling Leaves (NeoForge/Forge)](https://modrinth.com/project/fallingleavesforge) `1.21.1-2.5.1`
@@ -145,13 +145,11 @@
 - [Melody](https://modrinth.com/project/melody) `1.0.10-1.21-neoforge`
 - [Monsters in the Closet](https://modrinth.com/project/monsters-in-the-closet) `1.0.3+1.21-neo`
 - [MoreCobblemonTweaks](https://modrinth.com/project/more-cobblemon-tweaks) `1.3.5-neoforge`
-- [Motschen's Better Leaves](https://modrinth.com/project/better-leaves) `9.5`
 - [Nature's Compass](https://modrinth.com/project/natures-compass) `1.21.1-3.4.0-neoforge`
 - [NetherPortalFix](https://modrinth.com/project/netherportalfix) `21.1.1+neoforge-1.21.1`
 - [No Chat Reports](https://modrinth.com/project/no-chat-reports) `NeoForge-1.21.1-v2.9.1`
 - [No Chat Restrictions](https://modrinth.com/project/no-chat-restrictions) `NeoForge-MC1.21.11-v1.0.2`
 - [Not Enough Animations](https://modrinth.com/project/not-enough-animations) `1.12.4`
-- [Open Loader](https://modrinth.com/project/open-loader) `21.1.5`
 - [Open Parties and Claims](https://modrinth.com/project/open-parties-and-claims) `neoforge-1.21.1-0.31.6`
 - [oωo (owo-lib)](https://modrinth.com/project/owo-lib) `0.12.15.5-beta.1+1.21`
 - [Particle Rain](https://modrinth.com/project/particle-rain) `v4-beta.11+1.21.1-neoforge`
@@ -169,6 +167,7 @@
 - [Refined Storage - EMI Integration](https://modrinth.com/project/refined-storage-emi-integration) `1.0.0`
 - [Refined Storage - Quartz Arsenal](https://modrinth.com/project/refined-storage-quartz-arsenal) `1.0.8`
 - [Resourceful Lib](https://modrinth.com/project/resourceful-lib) `3.0.12`
+- [ResourcePackCached](https://modrinth.com/project/resourcepackcached) `1.2.5`
 - [Serene Seasons](https://modrinth.com/project/serene-seasons) `10.1.0.9`
 - [Shulker Box Tooltip](https://modrinth.com/project/shulkerboxtooltip) `5.1.9+1.21.1-neoforge`
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-neoforge`
@@ -188,7 +187,6 @@
 - [TerraBlender](https://modrinth.com/project/terrablender) `4.1.0.8`
 - [Terralith](https://modrinth.com/project/terralith) `2.6.2`
 - [Terralith: ReStoned](https://modrinth.com/project/terralith-restoned) `1.3.1`
-- [Tips](https://modrinth.com/project/tips) `21.1.3`
 - [Titanium](https://modrinth.com/project/titanium) `1.21-4.0.50`
 - [Tom's Cobblemoned](https://modrinth.com/project/toms-cobblemoned) `1`
 - [Tom's Simple Storage Mod](https://modrinth.com/project/toms-storage) `1.21-2.4.2`

@@ -1,0 +1,15 @@
+#Default Server Listings Configuration
+[config]
+	#Enable or disable the Default Server Listings mod
+	enabled = true
+
+		#List of default server listings
+		#Each entry should be a config object with the following fields:
+		#  - name: The display name of the server
+		#  - address: The IP address or domain of the server
+		#  - resourcePackStatus: The resource pack status (ENABLED, DISABLED, PROMPT)
+		#Server List Entries
+		[[config.serverListings.entries]]
+			name = "Station48 Cobblemon"
+			resourcePackStatus = "ENABLED"
+			address = "play.station48.xyz"

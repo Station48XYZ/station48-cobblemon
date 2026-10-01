@@ -1,0 +1,23 @@
+{
+  "name": "Default Server Listings",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "rtEHQWtQ",
+      "slug": "default-server-listings",
+      "versionId": "N72dACIO",
+      "versionNumber": "1.0.0",
+      "filename": "default-server-listings-neoforge-1.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/rtEHQWtQ/versions/N72dACIO/default-server-listings-neoforge-1.0.0.jar",
+      "sha1": "dc65a95c0b9438341eb606fa507c3240353c9c3f",
+      "sha512": "82a54efd0fc9d890f7c53e55ffe75aee401eae53a166970f9cc3216025910feba032113a106b59fb86e7a553f0154439c7652cee215b9a1102a6a0c2a0bce2be",
+      "fileSize": 30588
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

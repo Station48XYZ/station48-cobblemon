@@ -66,7 +66,7 @@
     },
     {
       "path": "content/mods/bookshelf-lib.json",
-      "sha1": "22836cac6fc3ea3fa689649aa43798c5a0cfb3af"
+      "sha1": "ee3738773a689e93e0d5904cb8e04ac2d3fcf212"
     },
     {
       "path": "content/mods/caelus.json",
@@ -134,7 +134,7 @@
     },
     {
       "path": "content/mods/cobblemon-tim-core.json",
-      "sha1": "a8bcefd9ac5f9c8938b131cbe2423fc7dbc94c61"
+      "sha1": "a5a3dbf9b57963abf2a5d2ceae250ab5b3551189"
     },
     {
       "path": "content/mods/cobblemon-torchmaster-fix.json",
@@ -293,12 +293,12 @@
       "sha1": "7f3a0becde66b176a9bc587744e1aa3f10179a2c"
     },
     {
-      "path": "content/mods/deployer.json",
-      "sha1": "8d2d76d48cff946895d945de3bae4d1263f5ff25"
+      "path": "content/mods/default-server-listings.json",
+      "sha1": "b998ad41756e79dd7ef73ae4b32a07881f3edf91"
     },
     {
-      "path": "content/mods/dynamiccrosshair.json",
-      "sha1": "137df41846452f7a42c8eac27ded351678f27b6a"
+      "path": "content/mods/deployer.json",
+      "sha1": "8d2d76d48cff946895d945de3bae4d1263f5ff25"
     },
     {
       "path": "content/mods/easy-piglins.json",
@@ -346,7 +346,7 @@
     },
     {
       "path": "content/mods/enhanced-celestials.json",
-      "sha1": "98a55d6675d050b70d20d60b66a8c67aad8d8b1b"
+      "sha1": "e49030ed43b5981cf24f4c727f2cf0ad66d14c78"
     },
     {
       "path": "content/mods/entity-model-features.json",
@@ -530,7 +530,7 @@
     },
     {
       "path": "content/mods/matthiesen-core.json",
-      "sha1": "c78a786ce03cdef445798e1a0c07aadd0678f131"
+      "sha1": "5d4459d87991afdd171ca89fc936d03e6e8d2d57"
     },
     {
       "path": "content/mods/melody.json",
@@ -565,10 +565,6 @@
       "sha1": "c91cd26bb92dfa2399118bcfaa61a38601ac906e"
     },
     {
-      "path": "content/mods/open-loader.json",
-      "sha1": "b728185e55dcea433923233215ed2af298a76e35"
-    },
-    {
       "path": "content/mods/open-parties-and-claims.json",
       "sha1": "04cf12688e00abef74310cc0c559a8d88da27b1d"
     },
@@ -594,7 +590,7 @@
     },
     {
       "path": "content/mods/prickle.json",
-      "sha1": "9c6adce710092ee8c40d50e537fc3490f8bc66a2"
+      "sha1": "e82e1a41257063e345f1121d1c88707d086cda36"
     },
     {
       "path": "content/mods/puzzles-lib.json",
@@ -635,6 +631,10 @@
     {
       "path": "content/mods/resourceful-lib.json",
       "sha1": "3d65d0fcf45530c0949075170626dd10240ca951"
+    },
+    {
+      "path": "content/mods/resourcepackcached.json",
+      "sha1": "16d7129d140c055ce0d32530b9d446eac7329a38"
     },
     {
       "path": "content/mods/serene-seasons.json",
@@ -713,10 +713,6 @@
       "sha1": "7fd07d679d59733164f18e20e2e54a77681c4aa7"
     },
     {
-      "path": "content/mods/tips.json",
-      "sha1": "8f8f311f745ccc73e659fd7847a7e42b6b2a9903"
-    },
-    {
       "path": "content/mods/titanium.json",
       "sha1": "d0f836b60ee84018f2f2252e092b3c0ee877388e"
     },
@@ -773,10 +769,6 @@
       "sha1": "c0007ca302b89c36578db3f342a8afa1592f9815"
     },
     {
-      "path": "content/resourcepacks/better-leaves.json",
-      "sha1": "8323c95ce72422cbf413787a61304a4b79eea837"
-    },
-    {
       "path": "content/resourcepacks/cobblemon-interface-modded.json",
       "sha1": "c55232cf867d16af25aaf031e7cfa81cd30e0ccd"
     },
@@ -797,6 +789,10 @@
       "sha1": "ada878ca33c4508168455998b319d9f912ceace6"
     },
     {
+      "path": "overrides/config/default_server_listings.toml",
+      "sha1": "dd730399f51e7a7a7afe523ecda16c6740393a5c"
+    },
+    {
       "path": "overrides/config/defaultoptions/keybindings.txt",
       "sha1": "3980ee4c2ef9c44479e87c5145860d633d047e3e"
     },
@@ -805,12 +801,96 @@
       "sha1": "b6461e4efbdb1b47fe1d76e91dccd5cb3afd2a47"
     },
     {
+      "path": "overrides/config/xaero/lib/client.cfg",
+      "sha1": "45cccfb3eb8a7a784bd4c29539e5558445f90bcf"
+    },
+    {
+      "path": "overrides/config/xaero/lib/common.cfg",
+      "sha1": "8ae8d6ea0330bec2c0db28b109a12443708f1e7b"
+    },
+    {
+      "path": "overrides/config/xaero/lib/profiles/default.cfg",
+      "sha1": "253bac0f5181c8db8e488832c46a8d40018650cf"
+    },
+    {
+      "path": "overrides/config/xaero/lib/server_profiles/default.cfg",
+      "sha1": "8efdb5a6c4f4f41a36b531d54592321012491fb2"
+    },
+    {
+      "path": "overrides/config/xaero/minimap/client.cfg",
+      "sha1": "a18a4a75d6f033c35ecde56c14306760715a3a19"
+    },
+    {
+      "path": "overrides/config/xaero/minimap/common.cfg",
+      "sha1": "de09f45b29b264432b80d34bb0c336bd552fb9ee"
+    },
+    {
+      "path": "overrides/config/xaero/minimap/default_radar_categories_client.json",
+      "sha1": "a0dbe68eece9c129d7193099a34a803f95d43188"
+    },
+    {
+      "path": "overrides/config/xaero/minimap/default_radar_categories_server.json",
+      "sha1": "c247867b018103357eb4015059fe209cc562de51"
+    },
+    {
+      "path": "overrides/config/xaero/minimap/profiles/default.cfg",
+      "sha1": "0c02b30d3b34c822c98b77596041f004278a6025"
+    },
+    {
+      "path": "overrides/config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json",
+      "sha1": "f4669476d7c2dbd4cbd6365f02e7f4d6141478e1"
+    },
+    {
+      "path": "overrides/config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
+      "sha1": "bdb567424f4ad8d835e68b6d5631799dc031f808"
+    },
+    {
+      "path": "overrides/config/xaero/minimap/server_profiles/default.cfg",
+      "sha1": "8efdb5a6c4f4f41a36b531d54592321012491fb2"
+    },
+    {
+      "path": "overrides/config/xaero/world-map/client.cfg",
+      "sha1": "27b70648a1bccd0561ae94c0a1a978f283893dea"
+    },
+    {
+      "path": "overrides/config/xaero/world-map/common.cfg",
+      "sha1": "c3c64f24c8d33940264147473e4a1c8ba5c219ff"
+    },
+    {
+      "path": "overrides/config/xaero/world-map/profiles/default.cfg",
+      "sha1": "2f1680b1a14bf8cc756c5911c9b9f90e119a365e"
+    },
+    {
+      "path": "overrides/config/xaero/world-map/server_profiles/default.cfg",
+      "sha1": "8efdb5a6c4f4f41a36b531d54592321012491fb2"
+    },
+    {
+      "path": "overrides/config/xaerohud.txt",
+      "sha1": "36f86a802adcfe2c0dfdf3f74a3e419448dd853e"
+    },
+    {
+      "path": "overrides/config/xaerominimap.txt",
+      "sha1": "0b97deeaf25eb4a014c37add4ab5d4b61af970e0"
+    },
+    {
+      "path": "overrides/config/xaeropatreon.txt",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "overrides/config/xaeroworldmap.txt",
+      "sha1": "f9f3473c03a6dd44911db71f46a9bc8598b01e0c"
+    },
+    {
       "path": "overrides/icon.png",
       "sha1": "c256e6612e2d4e99f8ec865d0d5f4a0fb9aa5c12"
     },
     {
       "path": "overrides/instance.png",
       "sha1": "c256e6612e2d4e99f8ec865d0d5f4a0fb9aa5c12"
+    },
+    {
+      "path": "overrides/options.txt",
+      "sha1": "4ea67852eb11502ee34338fbbc37ab8a12f5d76d"
     }
   ]
 }
