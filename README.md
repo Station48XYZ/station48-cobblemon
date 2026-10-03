@@ -90,7 +90,7 @@
 - [Custom Gateways](https://modrinth.com/project/custom-gateways) `1.0.0`
 - [Data Anchor](https://modrinth.com/project/data-anchor) `2.0.0.17-neoforge`
 - [Default Options](https://modrinth.com/project/default-options) `21.1.8+neoforge-1.21.1`
-- [Default Server Listings](https://modrinth.com/project/default-server-listings) `1.0.0`
+- [Default Server Listings](https://modrinth.com/project/default-server-listings) `1.1.0`
 - [Easy Piglins](https://modrinth.com/project/easy-piglins) `neoforge-1.21.1-1.1.0`
 - [Easy Villagers](https://modrinth.com/project/easy-villagers) `neoforge-1.21.1-1.1.42`
 - [ElevatorMod](https://modrinth.com/project/elevatormod) `neoforge-1.21.1-1.11.4`

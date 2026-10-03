@@ -302,7 +302,7 @@
     },
     {
       "path": "content/mods/default-server-listings.json",
-      "sha1": "b998ad41756e79dd7ef73ae4b32a07881f3edf91"
+      "sha1": "1eba53ce5c6e4cac940472ac434ee38fe3d7cb1f"
     },
     {
       "path": "content/mods/deployer.json",
@@ -806,7 +806,7 @@
     },
     {
       "path": "overrides/config/default_server_listings.toml",
-      "sha1": "dd730399f51e7a7a7afe523ecda16c6740393a5c"
+      "sha1": "bd777d124526681ad57c34b1538f993b8d250c21"
     },
     {
       "path": "overrides/config/defaultoptions/keybindings.txt",
