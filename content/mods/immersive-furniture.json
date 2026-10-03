@@ -1,0 +1,23 @@
+{
+  "name": "Immersive Furniture",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "SvN6UGeF",
+      "slug": "immersive-furniture",
+      "versionId": "qXtpNEFr",
+      "versionNumber": "0.3.3+1.21.1",
+      "filename": "immersive_furniture-neoforge-0.3.3+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/SvN6UGeF/versions/qXtpNEFr/immersive_furniture-neoforge-0.3.3%2B1.21.1.jar",
+      "sha1": "cd595ea729f0b55a09568c2ebcdb1ad2d6c16c53",
+      "sha512": "03ae8709ee286895cb46e7ee8585189a07b14a0b4aa5d88baa1e98eabfb2a9d4b9a9419146952eb7150d67391d5eda7f3777b2cc3aef827f2a12c2c731fee63d",
+      "fileSize": 1018042
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

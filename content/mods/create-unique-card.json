@@ -1,0 +1,23 @@
+{
+  "name": "Create Unique Card",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ZGCrF8Vq",
+      "slug": "create-unique-card",
+      "versionId": "eVeWYgcB",
+      "versionNumber": "1.0.0",
+      "filename": "create_uniquecard-1.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ZGCrF8Vq/versions/eVeWYgcB/create_uniquecard-1.0.0.jar",
+      "sha1": "72170b5b2129a20cd3107d0d339b4070cd2f03d4",
+      "sha512": "fede7dd5ee663f11b8dfaa9b4b53c2bdc083270dec62a858b074b06d7cdfe03efb35ba4e659ebfd16c6b27d1d88c60ec42642ce1e7cf1331179a76bbe179d929",
+      "fileSize": 71009
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

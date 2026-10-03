@@ -249,6 +249,10 @@
       "sha1": "fad589ed1a77625ed6283f4eaa2ee5a0e7461fc0"
     },
     {
+      "path": "content/mods/create-schematic-preview.json",
+      "sha1": "315984f530373d3975a3c7df73460a1fd3d994bd"
+    },
+    {
       "path": "content/mods/create-steam-n-rails-1-21-1.json",
       "sha1": "143122b53b9e328ba687c01e62e43a1baeb17510"
     },
@@ -261,6 +265,10 @@
       "sha1": "b49549d0d2c4e78e75d9441af90ca5bce26d70e2"
     },
     {
+      "path": "content/mods/create-unique-card.json",
+      "sha1": "7ca01955676094497e5b59cb7e9be826fe366c63"
+    },
+    {
       "path": "content/mods/create-who-touched-my-train.json",
       "sha1": "418d593caedf4feec41ee94f90895cea3f48f541"
     },
@@ -270,7 +278,7 @@
     },
     {
       "path": "content/mods/create.json",
-      "sha1": "ffe98096d94052fe81782dc96dc331df9336d91d"
+      "sha1": "65fa99593950c4f18f23960ae819900ad940f451"
     },
     {
       "path": "content/mods/createaddition.json",
@@ -369,6 +377,10 @@
       "sha1": "3aab6dd30ac85045e1d4d814fcf00a17470910b4"
     },
     {
+      "path": "content/mods/fairy-lights-fabric.json",
+      "sha1": "5772211a1669da404388dca667af4a8443d33f9c"
+    },
+    {
       "path": "content/mods/fallingleavesforge.json",
       "sha1": "d286d06e81e1be66b3a1cb2c07aeebd0fbaaf0cb"
     },
@@ -407,6 +419,10 @@
     {
       "path": "content/mods/hypertube.json",
       "sha1": "4437a1738dbe16dea0c4e549ae5235c804fae343"
+    },
+    {
+      "path": "content/mods/immersive-furniture.json",
+      "sha1": "e78f1deeb604db5cba76311303c13af639c4de21"
     },
     {
       "path": "content/mods/interiors.json",

@@ -1,6 +1,6 @@
 # Station48 Cobblemon 2.0.0
 
-**Minecraft 1.21.1 · neoforge 21.1.250**, 190 mods, 5 resource packs, 1 shader
+**Minecraft 1.21.1 · neoforge 21.1.250**, 194 mods, 5 resource packs, 1 shader
 
 ## Contents
 
@@ -64,6 +64,7 @@
 - [Create Deco](https://modrinth.com/project/create-deco) `2.1.3`
 - [Create Slice & Dice](https://modrinth.com/project/slice-and-dice) `4.3.4`
 - [Create Train Parts](https://modrinth.com/project/create-train-parts) `0.5.2`
+- [Create Unique Card](https://modrinth.com/project/create-unique-card) `1.0.0`
 - [Create: Bells & Whistles](https://modrinth.com/project/bellsandwhistles) `v0.4.7-1.21.1`
 - [Create: Bits 'n' Bobs](https://modrinth.com/project/create-bits-n-bobs) `2.3.5`
 - [Create: Central Kitchen](https://modrinth.com/project/create-central-kitchen) `2.6.1`
@@ -80,6 +81,7 @@
 - [Create: Interiors](https://modrinth.com/project/interiors) `0.6.1`
 - [Create: Pattern Schematics](https://modrinth.com/project/create-pattern-schematics) `2.0.10`
 - [Create: Power Loader](https://modrinth.com/project/create-power-loader) `2.0.5-mc1.21.1`
+- [Create: Schematic Preview](https://modrinth.com/project/create-schematic-preview) `1.4`
 - [Create: Threaded Trains](https://modrinth.com/project/create-threaded-trains) `1.21.1-1.0.0`
 - [Create: Train Track Rail Grinding](https://modrinth.com/project/create-rail-grinding) `1.2.2+mc1.21.1`
 - [Create: Who Touched My Train](https://modrinth.com/project/create-who-touched-my-train) `1.4.0-Create6.0-beta`
@@ -103,6 +105,7 @@
 - [Enhanced Celestials](https://modrinth.com/project/enhanced-celestials) `6.0.2.5-neoforge`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.10.5`
 - [Explorer's Compass](https://modrinth.com/project/explorers-compass) `1.21.1-3.4.0-neoforge`
+- [Fairy Lights](https://modrinth.com/project/fairy-lights-fabric) `1.2.3+1.21.1_neoforge`
 - [Falling Leaves (NeoForge/Forge)](https://modrinth.com/project/fallingleavesforge) `1.21.1-2.5.1`
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.4`
 - [Farming for Blockheads](https://modrinth.com/project/farming-for-blockheads) `21.1.13+neoforge-1.21.1`
@@ -112,6 +115,7 @@
 - [Geckolib](https://modrinth.com/project/geckolib) `4.9.3`
 - [GlitchCore](https://modrinth.com/project/glitchcore) `2.1.0.2`
 - [Handcrafted](https://modrinth.com/project/handcrafted) `4.0.3`
+- [Immersive Furniture](https://modrinth.com/project/immersive-furniture) `0.3.3+1.21.1`
 - [InvMove](https://modrinth.com/project/invmove) `0.9.3+1.21.1-neoforge`
 - [InvMoveCompats](https://modrinth.com/project/invmovecompats) `0.5.0+1.21.8-neoforge`
 - [Iris Shaders](https://modrinth.com/project/iris) `1.8.14-beta.1+1.21.1-neoforge`
