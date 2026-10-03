@@ -105,7 +105,7 @@
 - [Enhanced Celestials](https://modrinth.com/project/enhanced-celestials) `6.0.2.5-neoforge`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.10.5`
 - [Explorer's Compass](https://modrinth.com/project/explorers-compass) `1.21.1-3.4.0-neoforge`
-- [Fairy Lights](https://modrinth.com/project/fairy-lights-fabric) `1.2.3+1.21.1_neoforge`
+- [Fairy Lights](https://modrinth.com/project/fairylights) `1.3.1`
 - [Falling Leaves (NeoForge/Forge)](https://modrinth.com/project/fallingleavesforge) `1.21.1-2.5.1`
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.4`
 - [Farming for Blockheads](https://modrinth.com/project/farming-for-blockheads) `21.1.13+neoforge-1.21.1`
