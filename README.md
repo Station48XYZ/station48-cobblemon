@@ -1,6 +1,6 @@
 # Station48 Cobblemon 2.0.0
 
-**Minecraft 1.21.1 · neoforge 21.1.250**, 194 mods, 5 resource packs, 1 shader
+**Minecraft 1.21.1 · neoforge 21.1.250**, 193 mods, 5 resource packs, 1 shader
 
 ## Contents
 
@@ -177,7 +177,6 @@
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-neoforge`
 - [Sodium Extra](https://modrinth.com/project/sodium-extra) `mc1.21.1-0.9.3+neoforge`
 - [Sodium Shadowy Path Blocks (SSPB)](https://modrinth.com/project/sodium-shadowy-path-blocks) `4.1.0-neoforge`
-- [Soft Imprints](https://modrinth.com/project/snow-imprints) `2.8.0`
 - [Sophisticated Backpacks](https://modrinth.com/project/sophisticated-backpacks) `1.21.1-3.26.3.2158`
 - [Sophisticated Backpacks Create Integration](https://modrinth.com/project/sophisticated-backpacks-create-integration) `1.21.1-0.2.0.168`
 - [Sophisticated Core](https://modrinth.com/project/sophisticated-core) `1.21.1-1.5.1.2341`
