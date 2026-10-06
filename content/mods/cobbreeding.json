@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "ItmVb4zY",
       "slug": "cobbreeding",
-      "versionId": "su1QucoO",
-      "versionNumber": "2.3.0",
-      "filename": "Cobbreeding-neoforge-2.3.0.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/ItmVb4zY/versions/su1QucoO/Cobbreeding-neoforge-2.3.0.jar",
-      "sha1": "872bffd904e9c1058c253e84c59cc6ed08276c08",
-      "sha512": "1f3a2f9c096bcf7a6383dcb3be40937eb99933493b7e8529c4e8c0cd54bfdb2db8696aade592940d531beebff502ec2637d654148422ceca2e6d7e7b060dec9c",
-      "fileSize": 468206
+      "versionId": "swwaPKY0",
+      "versionNumber": "2.4.0",
+      "filename": "Cobbreeding-neoforge-2.4.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ItmVb4zY/versions/swwaPKY0/Cobbreeding-neoforge-2.4.0.jar",
+      "sha1": "024323335fee414b1375ef7c9ce8245abb747658",
+      "sha512": "e60eded2b1f79e6dd830ce21cf55291fc48bd3d4e5145db2af6edd93f11a66b997879b3e5742d0f85a8ae912104a618de2c92c892365a74c8c31674d75ffcc13",
+      "fileSize": 469791
     }
   },
   "dependents": [],

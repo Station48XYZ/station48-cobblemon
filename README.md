@@ -1,6 +1,6 @@
 # Station48 Cobblemon 2.0.0
 
-**Minecraft 1.21.1 · neoforge 21.1.250**, 193 mods, 5 resource packs, 1 shader
+**Minecraft 1.21.1 · neoforge 21.1.250**, 194 mods, 5 resource packs, 1 shader
 
 ## Contents
 
@@ -37,17 +37,17 @@
 - [Cobblemon Integrations](https://modrinth.com/project/cobblemon-integrations) `1.1.8`
 - [Cobblemon Interface](https://modrinth.com/project/cobblemon-interface) `1.6.0`
 - [Cobblemon Interface: Modded](https://modrinth.com/project/cobblemon-interface-modded) `1.9.4`
-- [Cobblemon Move Tutor](https://modrinth.com/project/cobblemon-move-tutor) `1.5.2`
+- [Cobblemon Move Tutor](https://modrinth.com/project/cobblemon-move-tutor) `1.5.3`
 - [Cobblemon Poke Power](https://modrinth.com/project/cobblemon-poke-power) `1.2.2`
 - [Cobblemon PokeNav](https://modrinth.com/project/cobblemon-pokenav) `2.4.1`
 - [Cobblemon Pokestops](https://modrinth.com/project/cobblemon-pokestops) `1.9.2`
-- [Cobblemon Raid Dens](https://modrinth.com/project/cobblemonraiddens) `0.12.1+1.21.1`
+- [Cobblemon Raid Dens](https://modrinth.com/project/cobblemonraiddens) `0.13.0+1.21.1`
 - [Cobblemon Tablet](https://modrinth.com/project/cobblemon-tablet) `1.3.0`
 - [Cobblemon Tim Core](https://modrinth.com/project/cobblemon-tim-core) `1.8.1-neoforge-1.33.2`
 - [Cobblemon Torchmaster Fix](https://modrinth.com/project/cobblemon-torchmaster-fix) `1.3.0`
 - [Cobblemon: Mega Showdown](https://modrinth.com/project/cobblemon-mega-showdown) `1.2.0+1.8.1+1.21.1-release`
 - [CobbleSafari](https://modrinth.com/project/cobblesafari) `0.3.5-fix`
-- [Cobbreeding](https://modrinth.com/project/cobbreeding) `2.3.0`
+- [Cobbreeding](https://modrinth.com/project/cobbreeding) `2.4.0`
 - [Colorwheel](https://modrinth.com/project/colorwheel) `1.2.9+mc1.21.1`
 - [Colorwheel Patcher](https://modrinth.com/project/colorwheel-patcher) `1.0.5+mc1.21.1`
 - [Comforts](https://modrinth.com/project/comforts) `9.0.5+1.21.1`
@@ -153,6 +153,7 @@
 - [NetherPortalFix](https://modrinth.com/project/netherportalfix) `21.1.1+neoforge-1.21.1`
 - [No Chat Reports](https://modrinth.com/project/no-chat-reports) `NeoForge-1.21.1-v2.9.1`
 - [No Chat Restrictions](https://modrinth.com/project/no-chat-restrictions) `NeoForge-MC1.21.11-v1.0.2`
+- [NoMoWanderer](https://modrinth.com/project/nomowanderer) `v1.10.2`
 - [Not Enough Animations](https://modrinth.com/project/not-enough-animations) `1.12.4`
 - [Open Parties and Claims](https://modrinth.com/project/open-parties-and-claims) `neoforge-1.21.1-0.31.6`
 - [oωo (owo-lib)](https://modrinth.com/project/owo-lib) `0.12.15.5-beta.1+1.21`
