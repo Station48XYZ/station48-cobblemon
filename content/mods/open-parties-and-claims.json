@@ -18,6 +18,10 @@
     }
   },
   "dependents": [],
+  "optionalDependents": [
+    "1bokaNcj",
+    "NcUtCpym"
+  ],
   "clientSide": "optional",
   "serverSide": "required"
 }

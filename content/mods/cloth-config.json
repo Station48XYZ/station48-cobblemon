@@ -22,6 +22,9 @@
     "ItmVb4zY",
     "REfW2AEX"
   ],
+  "optionalDependents": [
+    "5KWlJ2HC"
+  ],
   "clientSide": "optional",
   "serverSide": "optional"
 }

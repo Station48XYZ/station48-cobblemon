@@ -20,6 +20,11 @@
   "dependents": [
     "BzHgFoGz"
   ],
+  "optionalDependents": [
+    "Bh37bMuy",
+    "PtjYWJkn",
+    "pYFUU6cq"
+  ],
   "clientSide": "required",
   "serverSide": "unsupported"
 }

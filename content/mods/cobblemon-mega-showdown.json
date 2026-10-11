@@ -18,6 +18,10 @@
     }
   },
   "dependents": [],
+  "optionalDependents": [
+    "GebWh45l",
+    "zj3GsKts"
+  ],
   "clientSide": "required",
   "serverSide": "required"
 }

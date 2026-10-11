@@ -18,6 +18,9 @@
     }
   },
   "dependents": [],
+  "optionalDependents": [
+    "NPCfuUI4"
+  ],
   "clientSide": "required",
   "serverSide": "required"
 }

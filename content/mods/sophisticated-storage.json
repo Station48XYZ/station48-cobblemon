@@ -20,6 +20,9 @@
   "dependents": [
     "MJ0hdevs"
   ],
+  "optionalDependents": [
+    "XZNI4Cpy"
+  ],
   "clientSide": "required",
   "serverSide": "required"
 }

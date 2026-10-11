@@ -45,6 +45,11 @@
     "wPQ6GgFE",
     "x49wilh8"
   ],
+  "optionalDependents": [
+    "BzHgFoGz",
+    "E0SdeAoH",
+    "pYFUU6cq"
+  ],
   "clientSide": "optional",
   "serverSide": "required"
 }

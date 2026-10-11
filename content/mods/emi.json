@@ -23,6 +23,11 @@
     "sG4TqDb8",
     "wbWoo11W"
   ],
+  "optionalDependents": [
+    "EO27GKs1",
+    "PEPVViac",
+    "XZNI4Cpy"
+  ],
   "clientSide": "required",
   "serverSide": "optional"
 }

@@ -6,7 +6,7 @@
     },
     {
       "path": "content/mods/accessories.json",
-      "sha1": "55a5aa30fcae49eb87ad1397b9f5a5bc393b364d"
+      "sha1": "41c00735da78be19e51b0db095cbea3d94cd87f6"
     },
     {
       "path": "content/mods/addonslib.json",
@@ -82,7 +82,7 @@
     },
     {
       "path": "content/mods/cloth-config.json",
-      "sha1": "a1588c28f529b463ac0cba4d85b9a10e3942390a"
+      "sha1": "cda87f663ae5afe993d5e791337a7d80ab894cd4"
     },
     {
       "path": "content/mods/clumps.json",
@@ -110,7 +110,7 @@
     },
     {
       "path": "content/mods/cobblemon-mega-showdown.json",
-      "sha1": "d0749017b42835c258f0eca83e0d7d31e91ab7da"
+      "sha1": "2480bd9a85303482e8132e9cf09309c8a1337b65"
     },
     {
       "path": "content/mods/cobblemon-move-tutor.json",
@@ -142,7 +142,7 @@
     },
     {
       "path": "content/mods/cobblemon.json",
-      "sha1": "730fe35b95311d9f6c056aa836c613468c82bbdb"
+      "sha1": "dbd555898c6e5839792a04533537501ccbe4b679"
     },
     {
       "path": "content/mods/cobblemonraiddens.json",
@@ -154,11 +154,11 @@
     },
     {
       "path": "content/mods/cobbreeding.json",
-      "sha1": "64e092fb93b6cb443e5847045f456637d88d4fb7"
+      "sha1": "8734bb28e16218e93d0020eba473d01f5d03de25"
     },
     {
       "path": "content/mods/colorwheel-patcher.json",
-      "sha1": "6fa4e0ab49278a4d3bcdb6bd4db5725daa61bb34"
+      "sha1": "cf529c45c0f82b587511e2a6981ff4302214ba63"
     },
     {
       "path": "content/mods/colorwheel.json",
@@ -186,7 +186,7 @@
     },
     {
       "path": "content/mods/crafting-tweaks.json",
-      "sha1": "1c092c7f6dcd00941671680719872ef85b72dce6"
+      "sha1": "422dda9206ce0901327dd8ce460b2b2810a0c0da"
     },
     {
       "path": "content/mods/craftpresence.json",
@@ -234,7 +234,7 @@
     },
     {
       "path": "content/mods/create-enchantment-industry.json",
-      "sha1": "896f08896b164c349704ba27448cd728490c8daf"
+      "sha1": "43852bce46a7bc9fad1ed09f39255d726dae1b4f"
     },
     {
       "path": "content/mods/create-pattern-schematics.json",
@@ -278,7 +278,7 @@
     },
     {
       "path": "content/mods/create.json",
-      "sha1": "65fa99593950c4f18f23960ae819900ad940f451"
+      "sha1": "96e8c0e0207943ea3b037e90757b6d55e7ca6fb1"
     },
     {
       "path": "content/mods/createaddition.json",
@@ -286,7 +286,7 @@
     },
     {
       "path": "content/mods/curios.json",
-      "sha1": "549038feb5daf4ddd6f823ef2a8742fe5158f680"
+      "sha1": "c2fc96f1ac9d411d56cd1425a5326ed373607b8f"
     },
     {
       "path": "content/mods/custom-gateways.json",
@@ -338,7 +338,7 @@
     },
     {
       "path": "content/mods/emi.json",
-      "sha1": "0f847cbfc5790304cd4b285f700f08a897a37816"
+      "sha1": "15eaa0e5fb350ad9dc2cf23ed7c27bea7cadfdcb"
     },
     {
       "path": "content/mods/enchanting-infuser.json",
@@ -354,7 +354,7 @@
     },
     {
       "path": "content/mods/enhanced-celestials.json",
-      "sha1": "e49030ed43b5981cf24f4c727f2cf0ad66d14c78"
+      "sha1": "620b9c032f444f080c63e189c17656206658fc0b"
     },
     {
       "path": "content/mods/entity-model-features.json",
@@ -386,7 +386,7 @@
     },
     {
       "path": "content/mods/farmers-delight.json",
-      "sha1": "4c599037e77bc51a5392104238bc655ad423c000"
+      "sha1": "5f49d846c3e8987f1abdcf552789dd9778c6d375"
     },
     {
       "path": "content/mods/farming-for-blockheads.json",
@@ -434,11 +434,11 @@
     },
     {
       "path": "content/mods/invmovecompats.json",
-      "sha1": "31c300136207142bbada7fda1763ae7ecd40b150"
+      "sha1": "f4b65201f400c203a1d8fa8221756cb636c04579"
     },
     {
       "path": "content/mods/iris.json",
-      "sha1": "89476c516241c754bedc2d62f7e95efe8ba22312"
+      "sha1": "994ef1684ced5aa2fff4076ebe2415023e1a1f41"
     },
     {
       "path": "content/mods/iron-furnaces.json",
@@ -450,11 +450,11 @@
     },
     {
       "path": "content/mods/jade.json",
-      "sha1": "6c9a723bb1be4ad66bdd8af0d0cc902b49440f71"
+      "sha1": "5fe02745ec72e57424595e8c7217e7090fee4000"
     },
     {
       "path": "content/mods/jei.json",
-      "sha1": "3599976bfff6d4cd4271fabef668b98df7f100ce"
+      "sha1": "c8cfe06a02f8e5f5c155f31a2898e3c9024691ae"
     },
     {
       "path": "content/mods/just-enough-effect-descriptions-jeed.json",
@@ -586,7 +586,7 @@
     },
     {
       "path": "content/mods/open-parties-and-claims.json",
-      "sha1": "04cf12688e00abef74310cc0c559a8d88da27b1d"
+      "sha1": "ee623ac5dbfeb5a84816c50b32bd876dfeaf40d3"
     },
     {
       "path": "content/mods/owo-lib.json",
@@ -606,7 +606,7 @@
     },
     {
       "path": "content/mods/polymorph.json",
-      "sha1": "6bbed6678ad9526449032f3b8e566367faefd9e7"
+      "sha1": "08311d888b89b2fd3ac4e941bbf8dd12a2a7ef6a"
     },
     {
       "path": "content/mods/prickle.json",
@@ -626,7 +626,7 @@
     },
     {
       "path": "content/mods/reeses-sodium-options.json",
-      "sha1": "9ceb36f39a9d96452aaa65580cab03ffc470a5a8"
+      "sha1": "934e3dcc56d33af4a48b25bbdafe1d962fbdea3c"
     },
     {
       "path": "content/mods/refined-cooking.json",
@@ -658,7 +658,7 @@
     },
     {
       "path": "content/mods/serene-seasons.json",
-      "sha1": "1c2903cc12ea04eb3f58e61cb747a8882d3fbc3f"
+      "sha1": "856a06e44b64e58294dc1c60ae62f38ccaac559a"
     },
     {
       "path": "content/mods/shulkerboxtooltip.json",
@@ -670,7 +670,7 @@
     },
     {
       "path": "content/mods/sodium-extra.json",
-      "sha1": "24d344a97ca9666b5ca9c3448a6f6f545320ea99"
+      "sha1": "b758a4ed4adc0aa19858b51403d7a80e74e08de8"
     },
     {
       "path": "content/mods/sodium-shadowy-path-blocks.json",
@@ -698,7 +698,7 @@
     },
     {
       "path": "content/mods/sophisticated-storage.json",
-      "sha1": "012b47b562960ee19ae1336ca15cd07551643986"
+      "sha1": "9239aebb1ad1d7734fbdea9c1c0b45b0f39a6b45"
     },
     {
       "path": "content/mods/straw-statues.json",
@@ -758,7 +758,7 @@
     },
     {
       "path": "content/mods/waystones.json",
-      "sha1": "9afc36d2c9f16808171a691c9cce3e463ff7de28"
+      "sha1": "24e124a1f9064b5cf52f7808f0ed4f3fadcfd05b"
     },
     {
       "path": "content/mods/what-are-they-up-to.json",
@@ -810,11 +810,11 @@
     },
     {
       "path": "overrides/config/defaultoptions/keybindings.txt",
-      "sha1": "3980ee4c2ef9c44479e87c5145860d633d047e3e"
+      "sha1": "d78bfb682b6c9a9e9f138c3145f91009beeecd3f"
     },
     {
       "path": "overrides/config/defaultoptions/options.txt",
-      "sha1": "b6461e4efbdb1b47fe1d76e91dccd5cb3afd2a47"
+      "sha1": "f2ed4a9b3fb03f7d15713e2f7b5530ce0b2099ac"
     },
     {
       "path": "overrides/config/xaero/lib/client.cfg",
@@ -886,7 +886,7 @@
     },
     {
       "path": "overrides/config/xaerominimap.txt",
-      "sha1": "0b97deeaf25eb4a014c37add4ab5d4b61af970e0"
+      "sha1": "f5915480bc6fb9ea6a74422863709a3f1c157b62"
     },
     {
       "path": "overrides/config/xaeropatreon.txt",
@@ -894,7 +894,7 @@
     },
     {
       "path": "overrides/config/xaeroworldmap.txt",
-      "sha1": "f9f3473c03a6dd44911db71f46a9bc8598b01e0c"
+      "sha1": "ecc6a856d79007279df5ea5a71bcbd05bfea3e08"
     },
     {
       "path": "overrides/icon.png",

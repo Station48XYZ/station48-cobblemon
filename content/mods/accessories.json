@@ -21,6 +21,10 @@
     "SszvX85I",
     "ySnjMzLg"
   ],
+  "optionalDependents": [
+    "FUP9FqO6",
+    "ItE0111C"
+  ],
   "clientSide": "required",
   "serverSide": "required"
 }
