@@ -98,7 +98,7 @@
 - [EMI](https://modrinth.com/project/emi) `1.1.24+1.21.1+neoforge`
 - [EMI Enchanting](https://modrinth.com/project/emi-enchanting) `0.1.2+1.21+neoforge`
 - [EMI Ores](https://modrinth.com/project/emi-ores) `1.3+1.21.1+neoforge`
-- [EMI professions (EMIP)](https://modrinth.com/project/emi-professions-(emip)) `1.0.3`
+- [EMI professions (EMIP)](https://modrinth.com/project/emi-professions-emip) `1.0.3`
 - [Enchanting Infuser](https://modrinth.com/project/enchanting-infuser) `v21.1.4-1.21.1-NeoForge`
 - [Enchantment Descriptions](https://modrinth.com/project/enchantment-descriptions) `21.1.11`
 - [Enhanced Attack Indicator](https://modrinth.com/project/enhanced-attack-indicator) `1.1.1+1.21-neo`
