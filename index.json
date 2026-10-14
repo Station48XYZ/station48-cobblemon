@@ -122,11 +122,11 @@
     },
     {
       "path": "content/mods/cobblemon-pokenav.json",
-      "sha1": "2768e90720ebc0fbb61d5ace8df4b4fdb2f57cbf"
+      "sha1": "8c4bba7d6900d7f4d294ec093577998e7bbcb31c"
     },
     {
       "path": "content/mods/cobblemon-pokestops.json",
-      "sha1": "a8219f97ac2de8248455f38c82d6db2cf74bc71f"
+      "sha1": "c54bce514dfa3518620bf1a40238ef62d5b7b673"
     },
     {
       "path": "content/mods/cobblemon-tablet.json",
@@ -146,7 +146,7 @@
     },
     {
       "path": "content/mods/cobblemonraiddens.json",
-      "sha1": "377504a9a0bf98c7c84b2b477d0dd919ad9ff3b0"
+      "sha1": "9e3fe557b6a3b2a8449670f02759fedf52522696"
     },
     {
       "path": "content/mods/cobblesafari.json",

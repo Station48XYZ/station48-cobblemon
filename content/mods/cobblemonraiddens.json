@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "GebWh45l",
       "slug": "cobblemonraiddens",
-      "versionId": "xgvRYkMg",
-      "versionNumber": "0.13.0+1.21.1",
-      "filename": "cobblemonraiddens-neoforge-0.13.0+1.21.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/GebWh45l/versions/xgvRYkMg/cobblemonraiddens-neoforge-0.13.0%2B1.21.1.jar",
-      "sha1": "483aebefececea6dbc8ceeb33c6f4979aae86edd",
-      "sha512": "a1d76807ee22f9b104be22fd528b38676808ce5b77333d331d48434b70b4b9f4a4df22788c7f04c036540431d304222edea87af943538bbd76f711c4d86fed8b",
-      "fileSize": 2809495
+      "versionId": "fsS4FhP4",
+      "versionNumber": "0.13.2+1.21.1",
+      "filename": "cobblemonraiddens-neoforge-0.13.2+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/GebWh45l/versions/fsS4FhP4/cobblemonraiddens-neoforge-0.13.2%2B1.21.1.jar",
+      "sha1": "67e0e35f8b6d83d6670f731325c293135ca97ce1",
+      "sha512": "93e1a5477cebea5dc89ca712fee956101de00b2120b7bd3ad32afff28ebcea423eb1f9319b3b4aaa6abfaf445dbbf509d183fc91730a063739c1f151871f14ff",
+      "fileSize": 2810307
     }
   },
   "dependents": [],
