@@ -40,7 +40,7 @@
 - [Cobblemon Move Tutor](https://modrinth.com/project/cobblemon-move-tutor) `1.5.3`
 - [Cobblemon Poke Power](https://modrinth.com/project/cobblemon-poke-power) `1.2.2`
 - [Cobblemon PokeNav](https://modrinth.com/project/cobblemon-pokenav) `2.4.2`
-- [Cobblemon Pokestops](https://modrinth.com/project/cobblemon-pokestops) `1.10.0`
+- [Cobblemon Pokestops](https://modrinth.com/project/cobblemon-pokestops) `1.10.1`
 - [Cobblemon Raid Dens](https://modrinth.com/project/cobblemonraiddens) `0.13.2+1.21.1`
 - [Cobblemon Tablet](https://modrinth.com/project/cobblemon-tablet) `1.3.0`
 - [Cobblemon Tim Core](https://modrinth.com/project/cobblemon-tim-core) `1.8.1-neoforge-1.33.2`
