@@ -1,6 +1,6 @@
 # Station48 Cobblemon 2.0.0
 
-**Minecraft 1.21.1 · neoforge 21.1.250**, 194 mods, 5 resource packs, 1 shader
+**Minecraft 1.21.1 · neoforge 21.1.262**, 194 mods, 5 resource packs, 1 shader
 
 ## Contents
 
