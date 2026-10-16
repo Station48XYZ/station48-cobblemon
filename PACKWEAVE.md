@@ -156,7 +156,7 @@
 - [NoMoWanderer](https://modrinth.com/project/nomowanderer) `v1.10.2`
 - [Not Enough Animations](https://modrinth.com/project/not-enough-animations) `1.12.4`
 - [Open Parties and Claims](https://modrinth.com/project/open-parties-and-claims) `neoforge-1.21.1-0.31.6`
-- [oωo (owo-lib)](https://modrinth.com/project/owo-lib) `0.12.15.5-beta.1+1.21`
+- [oωo (owo-lib)](https://modrinth.com/project/owo-lib) `0.12.15.6-beta.1+1.21`
 - [Particle Rain](https://modrinth.com/project/particle-rain) `v4-beta.11+1.21.1-neoforge`
 - [Particular ✨ Reforged](https://modrinth.com/project/particular-reforged) `1.5.7`
 - [Platform](https://modrinth.com/project/platform) `1.3.3`
