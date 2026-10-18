@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "8ntaVs6D",
       "slug": "cobblemon-torchmaster-fix",
-      "versionId": "MRcOixRX",
-      "versionNumber": "1.3.0",
-      "filename": "cobblemon-torchmaster-fix-neoforge-1.3.0.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/8ntaVs6D/versions/MRcOixRX/cobblemon-torchmaster-fix-neoforge-1.3.0.jar",
-      "sha1": "2b0aa28cb226bcb68967bdf54c7a1f356763598c",
-      "sha512": "09d4e3718bafc6023cfd5982a28a89e734d1e1af6e89dbac8bc5d9199bf9f6f46ef5b134037d4a9f3f278771b3c01abf4e11c6a7f949260c1ee151ab8a2bcf3d",
-      "fileSize": 8804
+      "versionId": "gtcjmpkv",
+      "versionNumber": "1.4.0",
+      "filename": "cobblemon-torchmaster-fix-neoforge-1.4.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/8ntaVs6D/versions/gtcjmpkv/cobblemon-torchmaster-fix-neoforge-1.4.0.jar",
+      "sha1": "70cfed8ff42bd372b2e6958728d0972bc7f22d62",
+      "sha512": "5fdbb87ea234b2d4bfd8af522667a223511cb719eaa2d55855dff4adc8e421d6882af859f2ff8e24b46ff8ce4ab04351b861d5663dcfc498f85319d242dad168",
+      "fileSize": 8806
     }
   },
   "dependents": [],

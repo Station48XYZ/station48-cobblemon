@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "1AYwVfn9",
       "slug": "cobblemon-move-tutor",
-      "versionId": "rVQhTWyk",
-      "versionNumber": "1.5.3",
-      "filename": "cobblemon-move-tutor-neoforge-1.5.3.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/1AYwVfn9/versions/rVQhTWyk/cobblemon-move-tutor-neoforge-1.5.3.jar",
-      "sha1": "8f1ca2f86b539738848bcad10d76324f856a57df",
-      "sha512": "5be4709ab03a1df8749a3fa6462c66ea4715653faac52ecdae06103758e5d27664185b93415beb3c7a8d9345dd8a06ecbf679c0464a66767aef8b01d95a744e4",
-      "fileSize": 247779
+      "versionId": "7ONWhkzZ",
+      "versionNumber": "1.6.0",
+      "filename": "cobblemon-move-tutor-neoforge-1.6.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/1AYwVfn9/versions/7ONWhkzZ/cobblemon-move-tutor-neoforge-1.6.0.jar",
+      "sha1": "7b6434a33a798deb81f7b7fb8d8473e011ad5562",
+      "sha512": "de12acfaacd98dc14be99a5d3588b459e974dbacc9328bbcce9b8580092b11c27c02c475a33516fa3f1c4353ee657e84eb392ab3c9afb483f4c0f0a72f718141",
+      "fileSize": 247778
     }
   },
   "dependents": [],

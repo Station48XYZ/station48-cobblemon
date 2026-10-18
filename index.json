@@ -90,7 +90,7 @@
     },
     {
       "path": "content/mods/cobblemon-breathers.json",
-      "sha1": "dde3ad7648fb3a54005a4dfb850f9b394fb8e228"
+      "sha1": "b178ef72565563b59a8798ab2793bff689d84267"
     },
     {
       "path": "content/mods/cobblemon-capture-xp.json",
@@ -98,7 +98,7 @@
     },
     {
       "path": "content/mods/cobblemon-escape-rope.json",
-      "sha1": "0756db628b7c1ab5bedf034cd8e31ad95a584cff"
+      "sha1": "ea1ec409db88fd0c303880288f3b3c38aaf7f318"
     },
     {
       "path": "content/mods/cobblemon-firework-capsules.json",
@@ -114,11 +114,11 @@
     },
     {
       "path": "content/mods/cobblemon-move-tutor.json",
-      "sha1": "389644ddc63e9dfea36f0141dd274dabe5fe988b"
+      "sha1": "46e7a7b27dc5aa24c11a59231914b1ff0db9748e"
     },
     {
       "path": "content/mods/cobblemon-poke-power.json",
-      "sha1": "b4bce576fa098dbd18895da375e60522905e5efa"
+      "sha1": "a267be31b6218d896da056a666b5b73ffb1cf862"
     },
     {
       "path": "content/mods/cobblemon-pokenav.json",
@@ -126,11 +126,11 @@
     },
     {
       "path": "content/mods/cobblemon-pokestops.json",
-      "sha1": "0af47405d31bd7da3461e7eeb789dcfb03789f5c"
+      "sha1": "743466871ff1cc6accbc8777c00c021a4ec17ae3"
     },
     {
       "path": "content/mods/cobblemon-tablet.json",
-      "sha1": "11eb2d13ad1717da73d3f37bd9ea9691f8d51d1a"
+      "sha1": "f02d36cb20e07601beedda895056071b9d9be4e1"
     },
     {
       "path": "content/mods/cobblemon-tim-core.json",
@@ -138,7 +138,7 @@
     },
     {
       "path": "content/mods/cobblemon-torchmaster-fix.json",
-      "sha1": "631e129ce6f6ff2437d68ddad630481f7bf7c643"
+      "sha1": "5a599367c250dc3afffe123d287af2853b305b77"
     },
     {
       "path": "content/mods/cobblemon.json",
@@ -290,7 +290,7 @@
     },
     {
       "path": "content/mods/custom-gateways.json",
-      "sha1": "78914d6567f96c4146671d8abae2cc67a692c5f4"
+      "sha1": "6947fc9a5badf6ba117c187421cf583d586d3775"
     },
     {
       "path": "content/mods/data-anchor.json",
@@ -302,7 +302,7 @@
     },
     {
       "path": "content/mods/default-server-listings.json",
-      "sha1": "1eba53ce5c6e4cac940472ac434ee38fe3d7cb1f"
+      "sha1": "8292dc2d55e085d45c8a180641d411ae8d4818ca"
     },
     {
       "path": "content/mods/deployer.json",
@@ -546,7 +546,7 @@
     },
     {
       "path": "content/mods/matthiesen-core.json",
-      "sha1": "5d4459d87991afdd171ca89fc936d03e6e8d2d57"
+      "sha1": "6f8968590778b24f5189bca8c71f8e5133847f19"
     },
     {
       "path": "content/mods/melody.json",

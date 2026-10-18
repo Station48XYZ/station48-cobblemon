@@ -29,22 +29,22 @@
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
 - [Clumps](https://modrinth.com/project/clumps) `19.0.0.1`
 - [Cobblemon](https://modrinth.com/project/cobblemon) `1.8.1`
-- [Cobblemon Breathers](https://modrinth.com/project/cobblemon-breathers) `1.5.0`
+- [Cobblemon Breathers](https://modrinth.com/project/cobblemon-breathers) `1.6.0`
 - [Cobblemon Capture XP](https://modrinth.com/project/cobblemon-capture-xp) `1.8.1-neoforge-1.3.0`
 - [Cobblemon Catch Rate Display](https://modrinth.com/project/catch-rate-display) `2.12.3+neoforge`
-- [Cobblemon Escape Rope](https://modrinth.com/project/cobblemon-escape-rope) `1.5.0`
+- [Cobblemon Escape Rope](https://modrinth.com/project/cobblemon-escape-rope) `1.6.0`
 - [Cobblemon Firework Capsules](https://modrinth.com/project/cobblemon-firework-capsules) `2.2.0+1.21.1`
 - [Cobblemon Integrations](https://modrinth.com/project/cobblemon-integrations) `1.1.8`
 - [Cobblemon Interface](https://modrinth.com/project/cobblemon-interface) `1.6.0`
 - [Cobblemon Interface: Modded](https://modrinth.com/project/cobblemon-interface-modded) `1.9.4`
-- [Cobblemon Move Tutor](https://modrinth.com/project/cobblemon-move-tutor) `1.5.3`
-- [Cobblemon Poke Power](https://modrinth.com/project/cobblemon-poke-power) `1.2.2`
+- [Cobblemon Move Tutor](https://modrinth.com/project/cobblemon-move-tutor) `1.6.0`
+- [Cobblemon Poke Power](https://modrinth.com/project/cobblemon-poke-power) `1.3.0`
 - [Cobblemon PokeNav](https://modrinth.com/project/cobblemon-pokenav) `2.4.2`
-- [Cobblemon Pokestops](https://modrinth.com/project/cobblemon-pokestops) `1.10.1`
+- [Cobblemon Pokestops](https://modrinth.com/project/cobblemon-pokestops) `1.11.0`
 - [Cobblemon Raid Dens](https://modrinth.com/project/cobblemonraiddens) `0.13.2+1.21.1`
-- [Cobblemon Tablet](https://modrinth.com/project/cobblemon-tablet) `1.3.0`
+- [Cobblemon Tablet](https://modrinth.com/project/cobblemon-tablet) `1.4.0`
 - [Cobblemon Tim Core](https://modrinth.com/project/cobblemon-tim-core) `1.8.1-neoforge-1.33.2`
-- [Cobblemon Torchmaster Fix](https://modrinth.com/project/cobblemon-torchmaster-fix) `1.3.0`
+- [Cobblemon Torchmaster Fix](https://modrinth.com/project/cobblemon-torchmaster-fix) `1.4.0`
 - [Cobblemon: Mega Showdown](https://modrinth.com/project/cobblemon-mega-showdown) `1.2.0+1.8.1+1.21.1-release`
 - [CobbleSafari](https://modrinth.com/project/cobblesafari) `0.3.5-fix`
 - [Cobbreeding](https://modrinth.com/project/cobbreeding) `2.4.0`
@@ -87,10 +87,10 @@
 - [Create: Who Touched My Train](https://modrinth.com/project/create-who-touched-my-train) `1.4.0-Create6.0-beta`
 - [Create: World of Colors](https://modrinth.com/project/create-world-of-colors) `1.3`
 - [Curios API](https://modrinth.com/project/curios) `9.5.1+1.21.1`
-- [Custom Gateways](https://modrinth.com/project/custom-gateways) `1.0.0`
+- [Custom Gateways](https://modrinth.com/project/custom-gateways) `1.1.0`
 - [Data Anchor](https://modrinth.com/project/data-anchor) `2.0.0.17-neoforge`
 - [Default Options](https://modrinth.com/project/default-options) `21.1.8+neoforge-1.21.1`
-- [Default Server Listings](https://modrinth.com/project/default-server-listings) `1.1.0`
+- [Default Server Listings](https://modrinth.com/project/default-server-listings) `1.2.0`
 - [Easy Piglins](https://modrinth.com/project/easy-piglins) `neoforge-1.21.1-1.1.0`
 - [Easy Villagers](https://modrinth.com/project/easy-villagers) `neoforge-1.21.1-1.1.42`
 - [ElevatorMod](https://modrinth.com/project/elevatormod) `neoforge-1.21.1-1.11.4`
@@ -145,7 +145,7 @@
 - [Macaw's Stairs](https://modrinth.com/project/macaws-stairs) `1.0.2`
 - [Macaw's Trapdoors](https://modrinth.com/project/macaws-trapdoors) `1.1.5`
 - [Macaw's Windows](https://modrinth.com/project/macaws-windows) `2.4.2`
-- [Matthiesen Core](https://modrinth.com/project/matthiesen-core) `1.2.10`
+- [Matthiesen Core](https://modrinth.com/project/matthiesen-core) `1.3.0`
 - [Melody](https://modrinth.com/project/melody) `1.0.10-1.21-neoforge`
 - [Monsters in the Closet](https://modrinth.com/project/monsters-in-the-closet) `1.0.3+1.21-neo`
 - [MoreCobblemonTweaks](https://modrinth.com/project/more-cobblemon-tweaks) `1.3.5-neoforge`
