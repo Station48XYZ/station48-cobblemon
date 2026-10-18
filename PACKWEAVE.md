@@ -145,7 +145,7 @@
 - [Macaw's Stairs](https://modrinth.com/project/macaws-stairs) `1.0.2`
 - [Macaw's Trapdoors](https://modrinth.com/project/macaws-trapdoors) `1.1.5`
 - [Macaw's Windows](https://modrinth.com/project/macaws-windows) `2.4.2`
-- [Matthiesen Core](https://modrinth.com/project/matthiesen-core) `1.3.0`
+- [Matthiesen Core](https://modrinth.com/project/matthiesen-core) `1.3.1`
 - [Melody](https://modrinth.com/project/melody) `1.0.10-1.21-neoforge`
 - [Monsters in the Closet](https://modrinth.com/project/monsters-in-the-closet) `1.0.3+1.21-neo`
 - [MoreCobblemonTweaks](https://modrinth.com/project/more-cobblemon-tweaks) `1.3.5-neoforge`
