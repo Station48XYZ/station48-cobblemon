@@ -1,4 +1,4 @@
-# Station48 Cobblemon
+# Station48 Cobblemon Modpack
 
 This repository contains the metadata containing the Station48 Cobblemon modpack.
 
