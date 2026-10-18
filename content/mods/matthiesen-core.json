@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "sqEZOmQo",
       "slug": "matthiesen-core",
-      "versionId": "bf8c3CNf",
-      "versionNumber": "1.3.1",
-      "filename": "matthiesen-core-neoforge-1.3.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/sqEZOmQo/versions/bf8c3CNf/matthiesen-core-neoforge-1.3.1.jar",
-      "sha1": "d893bf1be0f5f2d601cd07f54605f78de7f6926a",
-      "sha512": "182288ba4357bc7b1c353408a30296e4305adfd40f555e362cf66fbd9f154276786b390c100d7e474aeaa5aaf3e1d5b80ed5a45de6b4ee28e72634c06ac622c1",
-      "fileSize": 633936
+      "versionId": "78PZVRLg",
+      "versionNumber": "1.3.3",
+      "filename": "matthiesen-core-neoforge-1.3.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/sqEZOmQo/versions/78PZVRLg/matthiesen-core-neoforge-1.3.3.jar",
+      "sha1": "3329150ca66b3f8ff0f1c2b3d892030a6d979ad4",
+      "sha512": "70ef60f80a72454ec23e22ba94f0b6e86585c84cc652a30c140e47269faa3675f4712df7b1f0bfe0ad7223e51cd42555a286c5ca92a0a898d1f4f6d6a0d1313e",
+      "fileSize": 633533
     }
   },
   "dependents": [
