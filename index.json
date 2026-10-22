@@ -69,6 +69,10 @@
       "sha1": "ee3738773a689e93e0d5904cb8e04ac2d3fcf212"
     },
     {
+      "path": "content/mods/c2me-neoforge.json",
+      "sha1": "c5f827fd4634e9bc9f26ac048ed7f79e7467bfda"
+    },
+    {
       "path": "content/mods/caelus.json",
       "sha1": "43bda0fe6b84af107eaf65d3aceeb0a267b4b7b0"
     },
@@ -546,7 +550,7 @@
     },
     {
       "path": "content/mods/matthiesen-core.json",
-      "sha1": "314c33a075fbcb00fc3ba9b404fbdbce85d4f46c"
+      "sha1": "173ba5cf1c42f859902eae92ca8813cc433fe260"
     },
     {
       "path": "content/mods/melody.json",
@@ -655,6 +659,10 @@
     {
       "path": "content/mods/resourcepackcached.json",
       "sha1": "16d7129d140c055ce0d32530b9d446eac7329a38"
+    },
+    {
+      "path": "content/mods/scalablelux.json",
+      "sha1": "6bbe45de8f6ca53d775aa4aa60b1059e4339af8c"
     },
     {
       "path": "content/mods/serene-seasons.json",

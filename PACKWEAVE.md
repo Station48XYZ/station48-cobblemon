@@ -1,6 +1,6 @@
 # Station48 Cobblemon 2.0.0
 
-**Minecraft 1.21.1 · neoforge 21.1.262**, 194 mods, 5 resource packs, 1 shader
+**Minecraft 1.21.1 · neoforge 21.1.262**, 196 mods, 5 resource packs, 1 shader
 
 ## Contents
 
@@ -52,6 +52,7 @@
 - [Colorwheel Patcher](https://modrinth.com/project/colorwheel-patcher) `1.0.5+mc1.21.1`
 - [Comforts](https://modrinth.com/project/comforts) `9.0.5+1.21.1`
 - [Complementary Shaders - Reimagined](https://modrinth.com/project/complementary-reimagined) `r5.9.1`
+- [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.123+1.21.1`
 - [Cooking for Blockheads](https://modrinth.com/project/cooking-for-blockheads) `21.1.24+neoforge-1.21.1`
 - [CorgiLib](https://modrinth.com/project/corgilib) `1.21.1-5.0.0.9-NeoForge`
 - [CoroUtil](https://modrinth.com/project/coroutil) `1.21.0-1.3.8`
@@ -145,7 +146,7 @@
 - [Macaw's Stairs](https://modrinth.com/project/macaws-stairs) `1.0.2`
 - [Macaw's Trapdoors](https://modrinth.com/project/macaws-trapdoors) `1.1.5`
 - [Macaw's Windows](https://modrinth.com/project/macaws-windows) `2.4.2`
-- [Matthiesen Core](https://modrinth.com/project/matthiesen-core) `1.3.3`
+- [Matthiesen Core](https://modrinth.com/project/matthiesen-core) `1.3.5`
 - [Melody](https://modrinth.com/project/melody) `1.0.10-1.21-neoforge`
 - [Monsters in the Closet](https://modrinth.com/project/monsters-in-the-closet) `1.0.3+1.21-neo`
 - [MoreCobblemonTweaks](https://modrinth.com/project/more-cobblemon-tweaks) `1.3.5-neoforge`
@@ -173,6 +174,7 @@
 - [Refined Storage - Quartz Arsenal](https://modrinth.com/project/refined-storage-quartz-arsenal) `1.0.8`
 - [Resourceful Lib](https://modrinth.com/project/resourceful-lib) `3.0.12`
 - [ResourcePackCached](https://modrinth.com/project/resourcepackcached) `1.2.5`
+- [ScalableLux](https://modrinth.com/project/scalablelux) `0.3.0-alpha.0.8+1.21.1`
 - [Serene Seasons](https://modrinth.com/project/serene-seasons) `10.1.0.9`
 - [Shulker Box Tooltip](https://modrinth.com/project/shulkerboxtooltip) `5.1.9+1.21.1-neoforge`
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-neoforge`
